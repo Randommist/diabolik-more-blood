@@ -1,0 +1,272 @@
+# Technical Critic & Architectural Analysis
+
+An exact, instruction-by-instruction verification of the provided MIPS disassembly segments, config mappings, horizontal advance calculation, branch-likely behavior, and geometry helper boundaries.
+
+---
+
+### 1. Configuration Array & Struct Offset Mapping
+
+In snippet `0005b578`–`0005b5ec`:
+- `$a1` is initialized to `$s1 + 0x10` (`addiu $a1, $s1, 0x10`).
+- The runtime config words: `[w0, w1, w2, w3, w4, w5, w6, w7, w8, w9, w10, w11, w12]` correspond to the 13 input values:
+  `[0, 0, 0, 2, -1, 0, 1.0f, 1.0f, 0, 0, 0.5f, 0.5f, 16]`.
+
+Tracing the loads relative to `$s1`:
+- `$s1 + 0x00`: `lw $a0, ($s1)` $\rightarrow$ word 0 (`0`)
+- `$s1 + 0x04`: target of advance update (`0005c6b8` / `0005c6c4`) $\rightarrow$ word 1 (`0`)
+- `$s1 + 0x08`: word 2 (`0`)
+- `$s1 + 0x0c`: word 3 (`0`)
+- `$a1 = $s1 + 0x10`:
+  - `0($a1)` = `$s1 + 0x10`: `lw $a0, ($a1)` $\rightarrow$ config word 4 (index 4 = `-1`? Or does config start at `$s1` vs `$a1`?)
+
+Let's check the fields loaded from `$s1` in `0005c644`–`0005c6c4`:
+- `0005c64c`: `lwc1 $f12, 0x74($s1)`
+- `0005c654`: `lw $s0, 0x48($s1)`
+- `0005c65c`: `lwc1 $f14, 0x54($s1)`
+- `0005c660`: `lw $a0, 0x4c($s1)`
+- `0005c678`: `lw $a1, 0x28($s1)`
+- `0005c6b8`: `lwc1 $f13, 0x04($s1)`
+- `0005c6c4`: `swc1 $f13, 0x04($s1)`
+
+Now correlate the array words to the struct offsets:
+Notice the 13 words:
+If index `k` corresponds to word offset `k * 4`:
+- Index 0: offset `0x00` = `0`
+- Index 1: offset `0x04` = `0` (float X-cursor / advance accumulator)
+- Index 2: offset `0x08` = `0`
+- Index 3: offset `0x0C` = `2` (earlier interpreted as spacing)
+- Index 4: offset `0x10` = `-1`
+- Index 5: offset `0x14` = `0`
+- Index 6: offset `0x18` = `1.0f`
+- Index 7: offset `0x1C` = `1.0f`
+- Index 8: offset `0x20` = `0`
+- Index 9: offset `0x24` = `0`
+- Index 10: offset `0x28` = `0.5f` (Wait, word index 10 = `0x28`! Notice `0x28($s1)` in `0005c678`)
+- Index 11: offset `0x2C` = `0.5f`
+- Index 12: offset `0x30` = `16`
+
+Wait! Or does `runtime config words` map to the 13 words starting from `$a1` (`$s1 + 0x10`)?
+Let's check the sequence:
+`[0, 0, 0, 2, -1, 0, 1.0f, 1.0f, 0, 0, 0.5f, 0.5f, 16]` — there are exactly 13 words!
+Look at the loads from `$a1`:
+- `0x00($a1)`: `lw $a0` $\rightarrow$ `0`
+- `0x04($a1)`: `lw $a2` $\rightarrow$ `0`
+- `0x08($a1)`: `lw $a0` $\rightarrow$ `0`
+- `0x0c($a1)`: `lw $a3` $\rightarrow$ `2` (Word 3 = offset `0x0c($a1)` = `$s1 + 0x1c`!)
+- `0x10($a1)`: `lw $a2` $\rightarrow$ `-1` (Word 4 = offset `0x10($a1)` = `$s1 + 0x20`)
+- `0x14($a1)`: `lw $a0` $\rightarrow$ `0`
+- `0x18($a1)`: `lw $a3` $\rightarrow$ `1.0f` (Word 6 = offset `0x18($a1)` = `$s1 + 0x28` $\rightarrow$ wait, floats at `0x28($a1)` and `0x2c($a1)`!)
+Look at `0005b5c0` and `0005b5d4`:
+- `0005b5bc`: `lw $a0, 0x20($a1)` $\rightarrow$ word 8
+- `0005b5c0`: `lwc1 $f12, 0x28($a1)` $\rightarrow$ word 10 (`0.5f`)
+- `0005b5c8`: `lw $a3, 0x24($a1)` $\rightarrow$ word 9 (`0`)
+- `0005b5d4`: `lwc1 $f13, 0x2c($a1)` $\rightarrow$ word 11 (`0.5f`)
+- `0005b5e4`: `lw $a1, 0x30($a1)` $\rightarrow$ word 12 (`16`)
+
+Look at that exact match:
+- `0x00($a1)` (word 0): `0`
+- `0x04($a1)` (word 1): `0`
+- `0x08($a1)` (word 2): `0`
+- `0x0c($a1)` (word 3): `2`
+- `0x10($a1)` (word 4): `-1`
+- `0x14($a1)` (word 5): `0`
+- `0x18($a1)` (word 6): `1.0f`
+- `0x1c($a1)` (word 7): `1.0f`
+- `0x20($a1)` (word 8): `0`
+- `0x24($a1)` (word 9): `0`
+- `0x28($a1)` (word 10): `0.5f`
+- `0x2c($a1)` (word 11): `0.5f`
+- `0x30($a1)` (word 12): `16`
+
+This confirms that the 13 runtime config words map directly to `$a1 + 0x00` through `$a1 + 0x30` (i.e. `$s1 + 0x10` through `$s1 + 0x40`).
+
+Therefore:
+- `$s1 + 0x1c` = Word 3 = `2`
+- `$s1 + 0x48` = `$a1 + 0x38` (or beyond).
+Wait! Where does `$s1 + 0x48` and `$s1 + 0x4c` come from?
+Let's inspect how the struct offsets relate.
+
+---
+
+### 2. Dissecting the Advance Computation (`0005c644`–`0005c6c4`)
+
+Let's trace `0005c644` through `0005c6c4` step-by-step:
+
+1. **`0005c644: jal 0x5affc`**
+   - **Delay slot `0005c648`:** `move $a0, $s2`
+   - Returns `$v0` (glyph metrics / status / glyph lookup).
+
+2. **`0005c64c: lwc1 $f12, 0x74($s1)`**
+   - Loads scale factor (or X scale) into `$f12`.
+
+3. **`0005c650: bnez $v0, 0x5c6c8`**
+   - **Delay slot `0005c654`:** `lw $s0, 0x48($s1)` (Always executed!).
+   - If `$v0 != 0` (e.g., character lookup failed / special case), branches away to `0x5c6c8`. When rendering a normal character, `$v0 == 0`.
+
+4. **`0005c658: trunc.w.s $f13, $f28`**
+   - Truncates `$f28` (glyph advance / float width) to integer in `$f13`.
+   - Here, for base font height 20 and Cyrillic glyph width 11: `$f28 = 11.0f`, so `trunc.w.s` yields integer `11`.
+
+5. **`0005c65c: lwc1 $f14, 0x54($s1)`**
+   - Another float scale / multiplier loaded from `0x54($s1)`.
+
+6. **`0005c660: lw $a0, 0x4c($s1)`**
+   - Loads base offset / padding from `0x4c($s1)`.
+
+7. **`0005c664: mul.s $f12, $f14, $f12`**
+   - Combines horizontal scale factors: `$f12 = $f14 * $f12`.
+   - For scale factors `1.0f * 1.0f`, `$f12 = 1.0f`.
+
+8. **`0005c668: bgtz $s0, 0x5c690`**
+   - **Delay slot `0005c66c`:** `mfc1 $a1, $f13`
+   - Moves integer glyph width (`11`) into register `$a1`.
+   - Branch condition: is `$s0 > 0`?
+     - What is `$s0`? `$s0` is loaded from `0x48($s1)`!
+     - Let's check what `0x48($s1)` is:
+       Notice:
+       - If `$s1 + 0x48` is an alignment / justification mode:
+         - `$s0 < 0` (bltzl): Left/negative mode
+         - `$s0 == 0`: Fall-through path
+         - `$s0 > 0`: `0x5c690`
+     - Let's check `0x5c690`:
+       ```mips
+       0005c690 slti $a2, $s0, 2
+       0005c694 bnel $a2, $zero, 0x5c6b0
+       0005c698 mtc1 $a0, $f13
+       0005c69c addu $a0, $a1, $a0
+       ```
+       Notice `slti $a2, $s0, 2`:
+       If `$s0 == 1`, `$s0 < 2` is true (`$a2 = 1`).
+       Then `bnel $a2, $zero, 0x5c6b0` is taken!
+       If `$s0 == 2` (or $> 1$), `$s0 < 2` is false (`$a2 = 0`), so branch is NOT taken!
+
+---
+
+### 3. Verification of Word 3 (`word3 = 2`) and Spacing
+
+Look at the branch logic around `$s0`:
+- If `$s0` is `2`:
+  - `0005c668 bgtz $s0, 0x5c690`: Since $2 > 0$, **branch taken**.
+  - Delay slot `0005c66c mfc1 $a1, $f13` ($a1 = 11$).
+  - Arrives at `0005c690`:
+    - `slti $a2, $s0, 2`: Since `$s0 = 2`, `2 < 2` is **false** $\rightarrow$ `$a2 = 0`.
+    - `0005c694 bnel $a2, $zero, 0x5c6b0`:
+      - **Branch Likely (`bnel`)**: Since condition is **FALSE** (`$a2 == 0`), the delay slot instruction `0005c698 mtc1 $a0, $f13` is **NULLIFIED** (annulled / discarded)!
+    - Executes `0005c69c addu $a0, $a1, $a0`:
+      - `$a0 = $a1 + $a0` ($11 + \text{offset}$).
+    - Fall-through to `0005c6a0 mtc1 $a0, $f13`.
+    - `0005c6a4 cvt.s.w $f13, $f13`.
+    - `0005c6a8 b 0x5c6b8`.
+    - Delay slot `0005c6ac mul.s $f12, $f13, $f12`.
+    - `0005c6b8 lwc1 $f13, 4($s1)`.
+    - `0005c6bc add.s $f13, $f13, $f12`.
+    - `0005c6c0 b 0x5c708`.
+    - Delay slot `0005c6c4 swc1 $f13, 4($s1)`.
+
+Wait, look at `bltzl` at `0005c670` and fallthrough `0005c678`:
+- If `$s0 == 0`:
+  - `bgtz $s0, 0x5c690` $\rightarrow$ false.
+  - Delay slot `0005c66c mfc1 $a1, $f13` ($a1 = 11$).
+  - `0005c670 bltzl $s0, 0x5c6a0` $\rightarrow$ false ($0 < 0$ false).
+  - Delay slot `0005c674 addu $a0, $a1, $a0` is **NULLIFIED**!
+  - `0005c678 lw $a1, 0x28($s1)`
+  - `0005c67c addu $a0, $a1, $a0`
+  - `0005c680 mtc1 $a0, $f13`
+  - `0005c684 cvt.s.w $f13, $f13`
+  - `0005c688 b 0x5c6b8`
+  - Delay slot `0005c68c mul.s $f12, $f13, $f12`
+
+Notice what `0005c678 lw $a1, 0x28($s1)` is!
+- If `$s0 == 0`, it adds `0x28($s1)`.
+- If `$s0 == 1`, branch `bnel` is taken $\rightarrow$ at `0x5c6b0 cvt.s.w $f13, $f13`, where `$f13` was loaded from `0x4c($s1)` in the delay slot `0005c698 mtc1 $a0, $f13` (it ignores glyph width `$a1` completely, acting as fixed advance!).
+- If `$s0 == 2` (or $> 1$), it does NOT take `bnel`; instead it does `0005c69c addu $a0, $a1, $a0` ($\text{glyph\_width} + \text{offset}$), converts to float, and multiplies by `$f12`!
+
+#### Correction of the earlier interpretation:
+The earlier interpretation claimed: **"word3=2 means spacing appears wrong"**.
+- Word 3 in the config is `2`.
+- But what is Word 3? In `0005b594`:
+  `0005b594 lw $a3, 0xc($a1)` (offset `+0x0c` from `$a1`, which is Word 3).
+  Stored to `0x48($sp)` (`sw $a3, 0x48($sp)`).
+  Later, `$s0` at `0005c654` is loaded from `0x48($s1)`:
+  This corresponds to the mode/alignment selector:
+  - `s0 < 0`: negative alignment/mode
+  - `s0 == 0`: normal proportional spacing (`glyph_width` is NOT added in delay slot of `bltzl`, but rather `0x28($s1)` is added!).
+  - `s0 == 1`: fixed width override (`bnel` branches to `0x5c6b0` where `$f13` has only `$a0`).
+  - `s0 >= 2`: proportional spacing with additional padding/tracking: `$a0 = $a1 (glyph_width) + $a0 (0x4c($s1))`!
+- Therefore, `word3 = 2` is **NOT** a spacing pixel value of 2! It is the **mode selector value (`s0 = 2`)** selecting mode 2 (tracking/proportional accumulation: `glyph_width + base_padding`).
+- In this mode, `$a1 = 11` (glyph width), and `$a0` comes from `0x4c($s1)`.
+- If `0x4c($s1)` is `0` (word 4 / offset corresponding to padding), the advance is `(11 + 0) * 1.0 = 11.0f`.
+- The earlier interpretation mistook the enum/mode flag `2` for a 2-pixel spacing constant.
+
+---
+
+### 4. Delay Slots and Branch Likely (`bltzl`, `bnel`) Audit
+
+MIPS **Branch Likely** specification:
+- If the branch condition is **TRUE**, the instruction in the delay slot is executed.
+- If the branch condition is **FALSE**, the instruction in the delay slot is **NULLIFIED** (treated as NOP).
+
+Audit at every branch:
+1. **`0005c670 bltzl $s0, 0x5c6a0`**
+   - Delay slot: `0005c674 addu $a0, $a1, $a0`
+   - If `$s0 >= 0`: condition is FALSE. `addu $a0, $a1, $a0` is **NOT executed**.
+   - If `$s0 < 0`: condition is TRUE. `addu` executes, jumping to `0x5c6a0`.
+
+2. **`0005c694 bnel $a2, $zero, 0x5c6b0`**
+   - Delay slot: `0005c698 mtc1 $a0, $f13`
+   - When `$s0 = 2`: `slti $a2, $s0, 2` $\rightarrow$ `slti $a2, 2, 2` $\rightarrow$ `$a2 = 0`.
+   - Condition `$a2 != 0` is **FALSE**.
+   - Because it is `bnel`, delay slot `0005c698 mtc1 $a0, $f13` is **NULLIFIED**!
+   - Next instruction executed is `0005c69c addu $a0, $a1, $a0`.
+   - Then `0005c6a0 mtc1 $a0, $f13` executes with the summed value (`$a0 = 11 + padding`).
+   - Then `cvt.s.w $f13, $f13`.
+   - Then unconditional `b 0x5c6b8` with delay slot `mul.s $f12, $f13, $f12` (always executed).
+
+3. **Advance Increment:**
+   - At `0005c6b8`:
+     `lwc1 $f13, 4($s1)` $\rightarrow$ loads current X position.
+     `add.s $f13, $f13, $f12` $\rightarrow$ adds computed advance.
+     `b 0x5c708`
+     `swc1 $f13, 4($s1)` (delay slot) $\rightarrow$ writes back updated X position.
+
+---
+
+### 5. Geometry Helper Analysis (`000b41c4`–`000b4248`)
+
+Let's analyze what the helper routine at `000b41c4` does:
+Parameters: `$a0, $a1, $a2, $a3` (pointers to halfword outputs).
+
+Looking at the memory addresses accessed:
+`lui $t0, 0x14a; addiu $t0, $t0, 0x2ae0` $\rightarrow$ base address `0x014a2ae0`.
+Offsets:
+- `0x2a6e($t0)`: halfword $W$
+- `0x2a70($t0)`: halfword $H$
+- `0x2a72($t0)`: halfword $X$
+- `0x2a74($t0)`: halfword $Y$
+
+Arithmetic for output `$a0` (`000b41c4`–`000b41ec`):
+```mips
+000b41d0 lh $t1, 0x2a6e($t0)      # t1 = W
+000b41d4 lh $t0, 0x2a72($t0)      # t0 = X
+000b41d8 sra $t2, $t1, 1          # t2 = W >> 1
+000b41dc srl $t2, $t2, 0x1f       # t2 = sign bit of (W >> 1)
+000b41e0 addu $t1, $t1, $t2       # bias for negative division
+000b41e4 sra $t1, $t1, 1          # t1 = W / 2 (or W / 4)
+000b41e8 addu $t0, $t0, $t1       # t0 = X + (W >> 2) or center calculation
+000b41ec sh $t0, ($a0)            # store to *a0
+```
+Notice this calculates center / offset coordinates:
+- If `0x2a6e` is Width, `sra ..., 1; srl ..., 0x1f; addu; sra ..., 1` computes rounded division (specifically `W / 4` or centered offset).
+- At `000b421c beqz $a2, ...`:
+  - `lh $a0, 0x2a6e($a0)`
+  - `sh $a0, ($a2)` $\rightarrow$ directly writes raw width $W$ to `*$a2`.
+- At `000b4230 beqz $a3, ...`:
+  - `lh $a0, 0x2a70($a0)`
+  - `sh $a0, ($a3)` $\rightarrow$ directly writes raw height $H$ to `*$a3`.
+
+#### Question: "Can geometry helper alone prove safe width for runtime width 480, height 472, x 0, y 4?"
+
+**Conclusion: NO.**
+1. **Unbounded String Length / Clipping Ignored**: The geometry helper only reads global bounding box parameters (`X, Y, W, H`) and outputs either centered origin or box dimensions (`*a2 = W`, `*a3 = H`). It contains **no bounds check, no string length inspection, no line-wrap logic, and no clamping**.
+2. **Text Run Independence**: The text advance in `0005c644` increments `4($s1)` sequentially for each character without querying the geometry helper during each glyph's step.
+3. **No Safety Proof**: Proving whether text fits safely within `width 480` requires knowing the total string length $N$ (total width $\approx N \times 11\text{ px}$ plus tracking/spacing) and comparing it against $480 - X$. The geometry helper alone only provides/stores the window/box extents; it does not validate or enforce that the rendered glyphs stay within 480 pixels. Drawing conclusions about "safe width" based solely on this helper is mathematically and architecturally unsupported.

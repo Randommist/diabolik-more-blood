@@ -1,0 +1,463 @@
+[
+ {
+  "id": "s1214",
+  "src": "system/1214",
+  "mode": "keep",
+  "desc": "Header strip 'OPTION' with a Japanese subtitle on a dark gradient.",
+  "text": "- 'OPTION' -> 'НАСТРОЙКИ'\n- Japanese subtitle -> 'Здесь можно изменить настройки.'"
+ },
+ {
+  "id": "a2744298",
+  "src": "aex/2744298",
+  "mode": "keep",
+  "desc": "Header strip 'NAME ENTRY' with a Japanese subtitle on a dark gradient.",
+  "text": "- 'NAME ENTRY' -> 'ВВОД ИМЕНИ'\n- Japanese subtitle -> 'Введите имя.'",
+  "extra": "- IMPORTANT: the old Japanese subtitle must be completely erased and repainted from the clean background gradient BEFORE the Russian text is drawn: no ghost outlines, no faint strokes, no silhouettes, no shadows of the Japanese glyphs may remain anywhere (check zoomed-in). The Russian subtitle sits in the same place, size and colour as the Japanese one did."
+ },
+ {
+  "id": "a12667702",
+  "src": "aex/12667702",
+  "mode": "keep",
+  "desc": "Header strip 'CHARACTER SELECT' with a Japanese subtitle on a dark gradient.",
+  "text": "- 'CHARACTER SELECT' -> 'ВЫБОР ПЕРСОНАЖА'\n- Japanese subtitle -> 'Выберите персонажа.'",
+  "extra": "- IMPORTANT: the old Japanese subtitle must be completely erased and repainted from the clean background gradient BEFORE the Russian text is drawn: no ghost outlines, no faint strokes, no silhouettes, no shadows of the Japanese glyphs may remain anywhere (check zoomed-in). The Russian subtitle sits in the same place, size and colour as the Japanese one did."
+ },
+ {
+  "id": "a4342990",
+  "src": "aex/4342990",
+  "mode": "keep",
+  "desc": "Header strip 'RESULT' with a Japanese subtitle on a dark gradient.",
+  "text": "- 'RESULT' -> 'РЕЗУЛЬТАТ'\n- Japanese subtitle -> 'Здесь можно посмотреть результаты.'"
+ },
+ {
+  "id": "a3116517",
+  "src": "aex/3116517",
+  "mode": "key",
+  "desc": "Header 'SYSTEM MENU' in white serif capitals with a smaller Japanese subtitle, both with dark outline, on transparent background.",
+  "text": "- 'SYSTEM MENU' -> 'СИСТЕМНОЕ МЕНЮ'\n- Japanese subtitle -> 'Выберите пункт.'",
+  "key": "green"
+ },
+ {
+  "id": "s304",
+  "src": "system/304",
+  "mode": "key",
+  "desc": "Two gold cursive English titles each followed by a Japanese katakana subtitle in wavy dashes: 'Situation Part ～シチュエーションパート～' (top) and 'Story Part ～ストーリーパート～' (bottom).",
+  "text": "- keep the English cursive titles 'Situation Part' and 'Story Part' unchanged\n- top Japanese subtitle -> '～Ситуации～'\n- bottom Japanese subtitle -> '～История～'",
+  "key": "green"
+ },
+ {
+  "id": "s302",
+  "src": "system/302",
+  "mode": "key",
+  "desc": "Vertical list of black plaques with white lettering: 'プロローグ', 'エピローグ', then three ending plaques consisting of a cursive English title on top and a katakana caption below (ヴァンパイアエンド, マンサーヴァントエンド, ブルートエンド), then number plaques 01..10 which stay unchanged.",
+  "text": "- プロローグ -> 'Пролог'\n- エピローグ -> 'Эпилог'\n- ヴァンパイアエンド -> 'Конец: вампир'\n- マンサーヴァントエンド -> 'Конец: слуга'\n- ブルートエンド -> 'Конец: кровь'\n- the number plaques 01-10 stay as they are",
+  "key": "green"
+ },
+ {
+  "id": "s801",
+  "src": "system/801",
+  "mode": "key",
+  "desc": "Two PSP button hints in white bold lettering with dark outline: a circle button icon + 'ボイス' and a triangle button icon + 'シーンバック' (two lines).",
+  "text": "- ボイス -> 'Голос'\n- シーン/バック -> 'К сцене' (two short lines allowed, e.g. 'К' / 'сцене')\n- keep the button icons and the thin scroll bar",
+  "key": "green"
+ },
+ {
+  "id": "s802",
+  "src": "system/802",
+  "mode": "keep",
+  "desc": "Backlog screen background: vertical title 'BACK LOG' along the left edge, below it vertical small Japanese text, ink splatters, a scrollbar on the right.",
+  "text": "- keep 'BACK LOG' (English) unchanged\n- the small vertical Japanese text '文章を読み返せます' -> Russian 'Можно перечитать текст' written vertically (letters rotated 90° clockwise, reading top-to-bottom), same small white serif style"
+ },
+ {
+  "id": "s1203",
+  "src": "system/1203",
+  "mode": "key",
+  "desc": "A list of 12 option-menu labels (black glossy calligraphic type with white outline), one per row, on transparent background.",
+  "text": "Replace each row with (same order, one per row, keep row positions; shrink letter width slightly if needed to fit 160px):\n1 'Скорость текста'\n2 'Скорость авто'\n3 'Сброс авто'\n4 'Режим пропуска'\n5 'Скорость пропуска'\n6 'Сброс пропуска'\n7 'Лицо героини'\n8 'Данные установки'\n9 'Голос'\n10 'BGM' (unchanged)\n11 'SE сценария'\n12 'SE системы'",
+  "key": "green"
+ },
+ {
+  "id": "s1204",
+  "src": "system/1204",
+  "mode": "key",
+  "desc": "A list of 12 option-menu labels (small white lettering with dark outline), one per row, on transparent background.",
+  "text": "Replace each row with (same order, one per row, keep row positions; condense to fit):\n1 'Скорость текста'\n2 'Скорость авто'\n3 'Сброс авто'\n4 'Режим пропуска'\n5 'Скорость пропуска'\n6 'Сброс пропуска'\n7 'Лицо героини'\n8 'Данные установки'\n9 'Голос'\n10 'BGM' (unchanged)\n11 'SE сценария'\n12 'SE системы'",
+  "key": "green"
+ },
+ {
+  "id": "s1205",
+  "src": "system/1205",
+  "mode": "key",
+  "desc": "Two rows of option values in glossy lettering: row 1 '一括 速い 普通 遅い 高速' (five items), row 2 'On Off 既読 未読'. Colour/finish differs per file; keep this file's colours.",
+  "text": "- row 1: 一括 -> 'Сразу', 速い -> 'Быстро', 普通 -> 'Обычно', 遅い -> 'Медл.', 高速 -> 'Макс.'\n- row 2: 'On' and 'Off' unchanged; 既読 -> 'Прочит.'; 未読 -> 'Новое'\n- keep every word at the same x position as in the original (each in its own slot)",
+  "key": "green"
+ },
+ {
+  "id": "s1206",
+  "src": "system/1206",
+  "mode": "key",
+  "desc": "Two rows of option values in glossy lettering: row 1 '一括 速い 普通 遅い 高速' (five items), row 2 'On Off 既読 未読'. Colour/finish differs per file; keep this file's colours.",
+  "text": "- row 1: 一括 -> 'Сразу', 速い -> 'Быстро', 普通 -> 'Обычно', 遅い -> 'Медл.', 高速 -> 'Макс.'\n- row 2: 'On' and 'Off' unchanged; 既読 -> 'Прочит.'; 未読 -> 'Новое'\n- keep every word at the same x position as in the original (each in its own slot)",
+  "key": "green"
+ },
+ {
+  "id": "s1207",
+  "src": "system/1207",
+  "mode": "key",
+  "desc": "Two rows of option values in glossy lettering: row 1 '一括 速い 普通 遅い 高速' (five items), row 2 'On Off 既読 未読'. Colour/finish differs per file; keep this file's colours.",
+  "text": "- row 1: 一括 -> 'Сразу', 速い -> 'Быстро', 普通 -> 'Обычно', 遅い -> 'Медл.', 高速 -> 'Макс.'\n- row 2: 'On' and 'Off' unchanged; 既読 -> 'Прочит.'; 未読 -> 'Новое'\n- keep every word at the same x position as in the original (each in its own slot)",
+  "key": "green"
+ },
+ {
+  "id": "s1208",
+  "src": "system/1208",
+  "mode": "key",
+  "desc": "Two rows of option values in glossy lettering: row 1 '一括 速い 普通 遅い 高速' (five items), row 2 'On Off 既読 未読'. Colour/finish differs per file; keep this file's colours.",
+  "text": "- row 1: 一括 -> 'Сразу', 速い -> 'Быстро', 普通 -> 'Обычно', 遅い -> 'Медл.', 高速 -> 'Макс.'\n- row 2: 'On' and 'Off' unchanged; 既読 -> 'Прочит.'; 未読 -> 'Новое'\n- keep every word at the same x position as in the original (each in its own slot)",
+  "key": "green"
+ },
+ {
+  "id": "s1700",
+  "src": "system/1700",
+  "mode": "keep",
+  "desc": "Sound-menu header: gold cursive English 'Sound' on a black ribbon with a small slanted Japanese subtitle, a gold band on top, digits 1234567890 and icons on the right.",
+  "text": "- slanted Japanese subtitle 'BGMを聴くことができます' -> 'Можно послушать BGM' (same slant, white serif lettering)\n- 'Sound' unchanged, digits unchanged"
+ },
+ {
+  "id": "s2000",
+  "src": "system/2000",
+  "mode": "key",
+  "desc": "Two Japanese italic calligraphic labels in white with black outline: 'タイトルコール' (top) and 'タイトルメニュー' (below), then number plaques 01..05 and a gold frame, which stay unchanged.",
+  "text": "- タイトルコール -> 'Голос заставки'\n- タイトルメニュー -> 'Меню заставки'\n- everything else unchanged",
+  "key": "green"
+ },
+ {
+  "id": "s20000",
+  "src": "system/20000",
+  "mode": "keep",
+  "desc": "Screenshot menu: line '©2013 Rejet / IDEA FACTORY', then a Japanese title 'スクリーンショット' with cursive 'Screen shot.', then two options with PSP button icons: '保存' and 'テキスト付き保存'.",
+  "text": "- スクリーンショット -> 'Скриншот'\n- 保存 -> 'Сохранить'\n- テキスト付き保存 -> 'Сохр. с текстом'\n- keep ©2013 line and 'Screen shot.' unchanged"
+ },
+ {
+  "id": "s10000",
+  "src": "system/10000",
+  "mode": "keep",
+  "desc": "Caution screen: a gothic frame with cursive 'Caution' and a small golden Japanese 'ご注意' under it, and a five-line Japanese paragraph in white serif on a dark patterned background.",
+  "text": "- 'ご注意' -> 'Внимание'\n- paragraph (five lines) -> Russian, five lines, in the same white serif style at the same position:\n'Распространять игру через Интернет без разрешения'\n'правообладателя, а также скачивать её, зная'\n'о незаконности раздачи, строго запрещено законом.'\n'Просим вас отнестись с пониманием'\n'и содействовать.'"
+ },
+ {
+  "id": "s1210",
+  "src": "system/1210",
+  "mode": "keep",
+  "desc": "Eleven vertical character cards, each with a vertical Japanese name in gold-white lettering with dark outline over the character art, and a coloured splash at the bottom; the last card is 'その他' with the English word OTHER.",
+  "text": "Replace the vertical names (written vertically as Russian text with letters rotated 90° clockwise, reading top-to-bottom, same gold-white style; compress letter width so the text fits the card height):\n1 逆巻シュウ -> 'Сакамаки Шу'\n2 逆巻レイジ -> 'Сакамаки Рейджи'\n3 逆巻アヤト -> 'Сакамаки Аято'\n4 逆巻カナト -> 'Сакамаки Канато'\n5 逆巻ライト -> 'Сакамаки Райто'\n6 逆巻スバル -> 'Сакамаки Субару'\n7 無神ルキ -> 'Муками Руки'\n8 無神コウ -> 'Муками Коу'\n9 無神ユーマ -> 'Муками Юма'\n10 無神アズサ -> 'Муками Азуса'\n11 その他 -> 'Прочие' (keep the English OTHER word as it is)"
+ },
+ {
+  "id": "s1211",
+  "src": "system/1211",
+  "mode": "keep",
+  "desc": "Same as the coloured version but in black-and-white (greyscale): eleven vertical character cards with vertical Japanese names.",
+  "text": "Replace the vertical names (Russian text with letters rotated 90° clockwise, reading top-to-bottom, same style; compress letter width to fit):\n1 逆巻シュウ -> 'Сакамаки Шу'\n2 逆巻レイジ -> 'Сакамаки Рейджи'\n3 逆巻アヤト -> 'Сакамаки Аято'\n4 逆巻カナト -> 'Сакамаки Канато'\n5 逆巻ライト -> 'Сакамаки Райто'\n6 逆巻スバル -> 'Сакамаки Субару'\n7 無神ルキ -> 'Муками Руки'\n8 無神コウ -> 'Муками Коу'\n9 無神ユーマ -> 'Муками Юма'\n10 無神アズサ -> 'Муками Азуса'\n11 その他 -> 'Прочие' (keep OTHER)"
+ },
+ {
+  "id": "s1600",
+  "src": "system/1600",
+  "mode": "key",
+  "desc": "A UI sheet: grey 'None' slot boxes (stay unchanged), small name tags (stylised cursive English name followed by Japanese katakana in small letters: シュウ レイジ アヤト カナト ライト スバル, then ルキ コウ ユーマ アズサ), a banner 'Event Graphic' with a small slanted Japanese caption '彼との思い出が見られます', and 'All ALL' tags.",
+  "text": "- in every name tag replace the katakana with Cyrillic of the same name: Шу, Рейджи, Аято, Канато, Райто, Субару, Руки, Коу, Юма, Азуса (small letters, same place); the cursive English names stay\n- caption '彼との思い出が見られます' -> 'Можно вспомнить моменты с ним'\n- 'None', 'All', 'ALL', 'Event Graphic' stay unchanged",
+  "key": "magenta"
+ },
+ {
+  "id": "a15890301",
+  "src": "aex/15890301",
+  "mode": "keep",
+  "desc": "Name entry plate: cursive 'Entry Place', Japanese '苗字' with small italic 'Family name', Japanese '名前' with small italic 'First name', and character boxes.",
+  "text": "- 苗字 -> 'Фамилия'\n- 名前 -> 'Имя'\n- keep 'Entry Place', 'Family name', 'First name' and the boxes unchanged"
+ },
+ {
+  "id": "a15129824",
+  "src": "aex/15129824",
+  "mode": "keep",
+  "desc": "Banner with cursive English 'Character Profile' and a small Japanese caption 'プロフィールを見られます' on a dark ribbon with ornaments.",
+  "text": "- caption -> 'Можно посмотреть профиль'\n- keep the English 'Character Profile' unchanged"
+ },
+ {
+  "id": "a15935099",
+  "src": "aex/15935099",
+  "mode": "keep",
+  "desc": "Banner with cursive English 'Heaven Scenario' and a small Japanese caption on a dark ribbon.",
+  "text": "- the Japanese caption (～ヘブンシナリオが楽しめます) -> '～Сценарий Heaven～'\n- keep the English 'Heaven Scenario' unchanged"
+ },
+ {
+  "id": "a2322470",
+  "src": "aex/2322470",
+  "mode": "key",
+  "desc": "Four gauge labels with bars: Japanese '吸愛度' (large, gold) with English cursive 'Love suck the blood'; 'SM度' (large) with cursive 'Sadistic & Masochistic'; 'S度' (purple) with 'Sadistic frequency'; 'M度' (blue) with 'Masochistic frequency'.",
+  "text": "- 吸愛度 -> 'Тяга'\n- SM度 -> 'SM'\n- S度 -> 'S'\n- M度 -> 'M'\n- keep all English cursive texts, bars and blots unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a4611164",
+  "src": "aex/4611164",
+  "mode": "keep",
+  "desc": "Header strip 'CHAPTER SELECT' with a Japanese subtitle on a dark gradient.",
+  "text": "- 'CHAPTER SELECT' -> 'ВЫБОР ГЛАВЫ'\n- Japanese subtitle -> 'Выберите сценарий.'",
+  "extra": "- IMPORTANT: the old Japanese subtitle must be completely erased and repainted from the clean background gradient BEFORE the Russian text is drawn: no ghost outlines, no faint strokes, no silhouettes, no shadows of the Japanese glyphs may remain anywhere (check zoomed-in). The Russian subtitle sits in the same place, size and colour as the Japanese one did."
+ },
+ {
+  "id": "a15901895",
+  "src": "aex/15901895",
+  "mode": "keep",
+  "desc": "Header strip 'STATUS' with a Japanese subtitle on a dark gradient.",
+  "text": "- 'STATUS' -> 'СТАТУС'\n- Japanese subtitle -> 'Здесь можно проверить статус.'",
+  "extra": "- IMPORTANT: the old Japanese subtitle must be completely erased and repainted from the clean background gradient BEFORE the Russian text is drawn: no ghost outlines, no faint strokes, no silhouettes, no shadows of the Japanese glyphs may remain anywhere (check zoomed-in). The Russian subtitle sits in the same place, size and colour as the Japanese one did."
+ },
+ {
+  "id": "a609244",
+  "src": "aex/609244",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a2738271",
+  "src": "aex/2738271",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a4205649",
+  "src": "aex/4205649",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a6336466",
+  "src": "aex/6336466",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a7464486",
+  "src": "aex/7464486",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style.",
+  "extra": "- IMPORTANT: every value must fit fully inside the card (not cut off at the right edge, shorter than about 18 characters). Hobby row value: 'Заточка ножей' (instead of any longer wording)."
+ },
+ {
+  "id": "a10192070",
+  "src": "aex/10192070",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a11757518",
+  "src": "aex/11757518",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a13820747",
+  "src": "aex/13820747",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a15884488",
+  "src": "aex/15884488",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style."
+ },
+ {
+  "id": "a16384067",
+  "src": "aex/16384067",
+  "mode": "keep",
+  "desc": "A torn paper profile card of a game character with 8 rows: a small Japanese label on the left and a larger Japanese value on the right.",
+  "text": "Labels (left column, small): 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit).\nValues (right column, bold): translate each into short natural Russian; school 嶺帝学院高校 -> 'Школа Рётэй'; 歳 -> 'лет'; 一年生/二年生/三年生 -> '1/2/3 класс'; blood type X型 -> 'X'; keep cm, kg and numbers. 特に無し -> 'Нет'. Use Cyrillic text of the same bold serif style.",
+  "extra": "- IMPORTANT: every value must fit fully inside the card (not cut off at the right edge, shorter than about 18 characters). Last row value (現在興味があること): 'Дизайн костюмов' (instead of any longer wording)."
+ },
+ {
+  "id": "a6338663",
+  "src": "aex/6338663",
+  "mode": "key",
+  "desc": "A slanted list of six small white labels with values (Japanese, black outline): 種族 : 人間? / 学年 : 嶺帝学院高校2年生 / 年齢 : 17歳 / 身長 : 158cm / 体重 : 45kg / 血液型 : O型, on transparent background.",
+  "text": "- 種族 -> 'Раса', value '人間?' -> 'Человек?'\n- 学年 -> 'Класс', value -> 'Школа Рётэй, 2 класс'\n- 年齢 -> 'Возраст', value -> '17 лет'\n- 身長 -> 'Рост', '158 см'\n- 体重 -> 'Вес', '45 кг'\n- 血液型 -> 'Кровь', 'O'\nKeep the slant and the colons.",
+  "key": "green"
+ },
+ {
+  "id": "a12257093",
+  "src": "aex/12257093",
+  "mode": "keep",
+  "desc": "A locked profile card with 8 rows: small Japanese label on the left and a row of '?' marks on the right.",
+  "text": "- labels only: 年齢・学年 -> 'Возраст, класс'; 身長・体重・血液型 -> 'Рост, вес, кровь'; 好きな食べ物 -> 'Любимая еда'; 嫌いな食べ物 -> 'Нелюбимая еда'; 大切なもの -> 'Важное'; 趣味 -> 'Хобби'; 足のサイズ -> 'Размер ноги'; 現在興味があること -> 'Сейчас увлечён' (shrink to fit); keep every '?' mark unchanged"
+ },
+ {
+  "id": "a1843818",
+  "src": "aex/1843818",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '無神ルキ' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '無神ルキ' -> 'Муками Руки', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a3973609",
+  "src": "aex/3973609",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '逆巻アヤト' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '逆巻アヤト' -> 'Сакамаки Аято', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a5588455",
+  "src": "aex/5588455",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '逆巻スバル' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '逆巻スバル' -> 'Сакамаки Субару', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a7718500",
+  "src": "aex/7718500",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '逆巻レイジ' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '逆巻レイジ' -> 'Сакамаки Рейджи', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green",
+  "extra": "- IMPORTANT: this plate must look like the other vertical name plates of the set: the Russian name must fill the whole height of the image from the top edge to the bottom edge, with letters as large as the original Japanese glyphs (letters rotated 90 degrees clockwise, one single line, no wrapping, not cropped, not tiny, nothing cut off at any edge). Keep the blue colour scheme."
+ },
+ {
+  "id": "a9366896",
+  "src": "aex/9366896",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '逆巻ライト' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '逆巻ライト' -> 'Сакамаки Райто', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a10882680",
+  "src": "aex/10882680",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '無神コウ' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '無神コウ' -> 'Муками Коу', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a11431667",
+  "src": "aex/11431667",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '逆巻シュウ' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '逆巻シュウ' -> 'Сакамаки Шу', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a13077245",
+  "src": "aex/13077245",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '逆巻カナト' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '逆巻カナト' -> 'Сакамаки Канато', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a15141246",
+  "src": "aex/15141246",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '無神アズサ' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '無神アズサ' -> 'Муками Азуса', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a15690229",
+  "src": "aex/15690229",
+  "mode": "key",
+  "desc": "A narrow vertical name plate: the Japanese name '無神ユーマ' written vertically (top-to-bottom) in bold brush style with a coloured outline/shadow on transparent background.",
+  "text": "- '無神ユーマ' -> 'Муками Юма', written vertically as Cyrillic with letters rotated 90° clockwise reading top-to-bottom (two short columns are fine if it does not fit), same brush style, same outline and colours.",
+  "key": "green"
+ },
+ {
+  "id": "a1325166",
+  "src": "aex/1325166",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'プロローグ' in white brush-like lettering with dark shadow and a small gold cursive English 'Prologue' overlapping it.",
+  "text": "- 'プロローグ' -> 'Пролог' (big, same italic brush style); keep the small gold cursive 'Prologue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a2983325",
+  "src": "aex/2983325",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'プロローグ' in white brush-like lettering with dark shadow and a small gold cursive English 'Prologue' overlapping it.",
+  "text": "- 'プロローグ' -> 'Пролог' (big, same italic brush style); keep the small gold cursive 'Prologue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a9540683",
+  "src": "aex/9540683",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'プロローグ' in white brush-like lettering with dark shadow and a small gold cursive English 'Prologue' overlapping it.",
+  "text": "- 'プロローグ' -> 'Пролог' (big, same italic brush style); keep the small gold cursive 'Prologue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a11752895",
+  "src": "aex/11752895",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'プロローグ' in white brush-like lettering with dark shadow and a small gold cursive English 'Prologue' overlapping it.",
+  "text": "- 'プロローグ' -> 'Пролог' (big, same italic brush style); keep the small gold cursive 'Prologue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a16530862",
+  "src": "aex/16530862",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'プロローグ' in white brush-like lettering with dark shadow and a small gold cursive English 'Prologue' overlapping it.",
+  "text": "- 'プロローグ' -> 'Пролог' (big, same italic brush style); keep the small gold cursive 'Prologue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a999125",
+  "src": "aex/999125",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'エピローグ' (slanted upward) in white brush-like lettering with dark shadow and a small gold cursive English 'Epilogue' overlapping it.",
+  "text": "- 'エピローグ' -> 'Эпилог' (big, same slanted italic brush style); keep the small gold cursive 'Epilogue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a2594105",
+  "src": "aex/2594105",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'エピローグ' (slanted upward) in white brush-like lettering with dark shadow and a small gold cursive English 'Epilogue' overlapping it.",
+  "text": "- 'エピローグ' -> 'Эпилог' (big, same slanted italic brush style); keep the small gold cursive 'Epilogue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a6880552",
+  "src": "aex/6880552",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'エピローグ' (slanted upward) in white brush-like lettering with dark shadow and a small gold cursive English 'Epilogue' overlapping it.",
+  "text": "- 'エピローグ' -> 'Эпилог' (big, same slanted italic brush style); keep the small gold cursive 'Epilogue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a13603065",
+  "src": "aex/13603065",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'エピローグ' (slanted upward) in white brush-like lettering with dark shadow and a small gold cursive English 'Epilogue' overlapping it.",
+  "text": "- 'エピローグ' -> 'Эпилог' (big, same slanted italic brush style); keep the small gold cursive 'Epilogue' unchanged",
+  "key": "green"
+ },
+ {
+  "id": "a16133386",
+  "src": "aex/16133386",
+  "mode": "key",
+  "desc": "A chapter title: huge italic Japanese 'エピローグ' (slanted upward) in white brush-like lettering with dark shadow and a small gold cursive English 'Epilogue' overlapping it.",
+  "text": "- 'エピローグ' -> 'Эпилог' (big, same slanted italic brush style); keep the small gold cursive 'Epilogue' unchanged",
+  "key": "green"
+ }
+]

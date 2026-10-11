@@ -1,0 +1,1054 @@
+[
+  {
+    "id": 47701,
+    "scene": "375",
+    "index": 0,
+    "action": 45368,
+    "group": "375:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "――まやかしでもいい。",
+    "ru": "― Пусть даже самообман.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47702,
+    "scene": "375",
+    "index": 1,
+    "action": 45436,
+    "group": "375:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "ただ、希望が欲しかった。",
+    "ru": "Мне просто нужна была надежда.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47703,
+    "scene": "375",
+    "index": 3,
+    "action": 45572,
+    "group": "375:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "そうでもしなければ",
+    "ru": "Иначе",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47704,
+    "scene": "375",
+    "index": 4,
+    "action": 45636,
+    "group": "375:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "罪悪感に耐え切れなかったんだ。",
+    "ru": "я не выдержал бы чувства вины.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47705,
+    "scene": "375",
+    "index": 6,
+    "action": 45776,
+    "group": "375:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "だから何度もエドガーの村へ",
+    "ru": "Поэтому я снова и снова ходил",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47706,
+    "scene": "375",
+    "index": 7,
+    "action": 45848,
+    "group": "375:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "足を運んだ。",
+    "ru": "в деревню Эдгара.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47707,
+    "scene": "375",
+    "index": 9,
+    "action": 45972,
+    "group": "375:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "もしかすると",
+    "ru": "Может быть,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47708,
+    "scene": "375",
+    "index": 10,
+    "action": 46032,
+    "group": "375:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "エドガーが生きているかもしれない。",
+    "ru": "Эдгар всё ещё жив.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47709,
+    "scene": "375",
+    "index": 12,
+    "action": 46176,
+    "group": "375:4",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "そう言い聞かせては、",
+    "ru": "Я убеждал себя в этом,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47710,
+    "scene": "375",
+    "index": 13,
+    "action": 46244,
+    "group": "375:4",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "打ちのめされる。",
+    "ru": "а потом вновь разбивался о реальность.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47711,
+    "scene": "375",
+    "index": 15,
+    "action": 46372,
+    "group": "375:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "それでも、",
+    "ru": "И всё же",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47712,
+    "scene": "375",
+    "index": 16,
+    "action": 46428,
+    "group": "375:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "希望に手を伸ばしたかった。",
+    "ru": "я хотел тянуться к надежде.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the flashback is Shu first-person narration about Edgar and his guilt."
+  },
+  {
+    "id": 47714,
+    "scene": "375",
+    "index": 19,
+    "action": 47296,
+    "group": "375:6",
+    "speaker": "Шу",
+    "ja": "はあっ、はあっ、はあ……！",
+    "ru": "Ха… ха… ха…!"
+  },
+  {
+    "id": 47716,
+    "scene": "375",
+    "index": 21,
+    "action": 47516,
+    "group": "375:7",
+    "speaker": "Шу",
+    "ja": "（エドガー……！）",
+    "ru": "(Эдгар…!)"
+  },
+  {
+    "id": 47718,
+    "scene": "375",
+    "index": 23,
+    "action": 48560,
+    "group": "375:8",
+    "speaker": "Шу",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 47720,
+    "scene": "375",
+    "index": 25,
+    "action": 48764,
+    "group": "375:8",
+    "speaker": "Шу",
+    "ja": "（いるわけない。",
+    "ru": "(Его здесь не может быть."
+  },
+  {
+    "id": 47721,
+    "scene": "375",
+    "index": 26,
+    "action": 48828,
+    "group": "375:8",
+    "speaker": "Шу",
+    "ja": "　わかってる。でも……）",
+    "ru": "Я знаю. Но…)"
+  },
+  {
+    "id": 47723,
+    "scene": "375",
+    "index": 28,
+    "action": 49660,
+    "group": "375:9",
+    "speaker": "Шу",
+    "ja": "（ん……これは……、",
+    "ru": "(Мм… это…"
+  },
+  {
+    "id": 47724,
+    "scene": "375",
+    "index": 29,
+    "action": 49728,
+    "group": "375:9",
+    "speaker": "Шу",
+    "ja": "　エドガーの林檎……）",
+    "ru": "яблоко Эдгара…)"
+  },
+  {
+    "id": 47726,
+    "scene": "375",
+    "index": 31,
+    "action": 50300,
+    "group": "375:10",
+    "speaker": "Шу",
+    "ja": "（まだ、新しい。",
+    "ru": "(Оно ещё свежее."
+  },
+  {
+    "id": 47727,
+    "scene": "375",
+    "index": 32,
+    "action": 50364,
+    "group": "375:10",
+    "speaker": "Шу",
+    "ja": "　もしかして……！）",
+    "ru": "Неужели…!)"
+  },
+  {
+    "id": 47729,
+    "scene": "375",
+    "index": 34,
+    "action": 50580,
+    "group": "375:11",
+    "speaker": "Шу",
+    "ja": "……エドガー？",
+    "ru": "…Эдгар?"
+  },
+  {
+    "id": 47730,
+    "scene": "375",
+    "index": 35,
+    "action": 50640,
+    "group": "375:11",
+    "speaker": "Шу",
+    "ja": "なあ、もう出てこいよ。",
+    "ru": "Эй, хватит прятаться."
+  },
+  {
+    "id": 47731,
+    "scene": "375",
+    "index": 36,
+    "action": 50708,
+    "group": "375:11",
+    "speaker": "Шу",
+    "ja": "どこかにいるんだろ、隠れて……。",
+    "ru": "Ты ведь где-то здесь…"
+  },
+  {
+    "id": 47733,
+    "scene": "375",
+    "index": 38,
+    "action": 51244,
+    "group": "375:12",
+    "speaker": "Шу",
+    "ja": "…………、",
+    "ru": "…………"
+  },
+  {
+    "id": 47734,
+    "scene": "375",
+    "index": 39,
+    "action": 51300,
+    "group": "375:12",
+    "speaker": "Шу",
+    "ja": "エドガー……なんで……！",
+    "ru": "Эдгар… почему…!"
+  },
+  {
+    "id": 47735,
+    "scene": "375",
+    "index": 40,
+    "action": 51372,
+    "group": "375:12",
+    "speaker": "Шу",
+    "ja": "なんで……！",
+    "ru": "Почему…!"
+  },
+  {
+    "id": 47737,
+    "scene": "375",
+    "index": 42,
+    "action": 52268,
+    "group": "375:13",
+    "speaker": "Шу",
+    "ja": "……エドガーゞ",
+    "ru": "…Эдгар?!"
+  },
+  {
+    "id": 47739,
+    "scene": "375",
+    "index": 44,
+    "action": 53144,
+    "group": "375:14",
+    "speaker": "Рейджи",
+    "ja": "シュウ……、",
+    "ru": "Шу…"
+  },
+  {
+    "id": 47740,
+    "scene": "375",
+    "index": 45,
+    "action": 53204,
+    "group": "375:14",
+    "speaker": "Рейджи",
+    "ja": "こんなところにいたんですね。",
+    "ru": "вот вы где."
+  },
+  {
+    "id": 47742,
+    "scene": "375",
+    "index": 47,
+    "action": 53624,
+    "group": "375:15",
+    "speaker": "Шу",
+    "ja": "（レイジ……）",
+    "ru": "(Рейджи…)"
+  },
+  {
+    "id": 47744,
+    "scene": "375",
+    "index": 49,
+    "action": 54028,
+    "group": "375:16",
+    "speaker": "Рейджи",
+    "ja": "返事ぐらいしたらどうです？",
+    "ru": "Не могли бы вы хотя бы ответить?"
+  },
+  {
+    "id": 47745,
+    "scene": "375",
+    "index": 50,
+    "action": 54100,
+    "group": "375:16",
+    "speaker": "Рейджи",
+    "ja": "こちらは命じられて、仕方なく",
+    "ru": "Меня приказали послать за вами,"
+  },
+  {
+    "id": 47746,
+    "scene": "375",
+    "index": 51,
+    "action": 54176,
+    "group": "375:16",
+    "speaker": "Рейджи",
+    "ja": "貴方を呼びにきたのですから。",
+    "ru": "и я вынужден был прийти."
+  },
+  {
+    "id": 47748,
+    "scene": "375",
+    "index": 53,
+    "action": 54400,
+    "group": "375:17",
+    "speaker": "Рейджи",
+    "ja": "まったく……こんなところに",
+    "ru": "В самом деле… зачем вы"
+  },
+  {
+    "id": 47749,
+    "scene": "375",
+    "index": 54,
+    "action": 54472,
+    "group": "375:17",
+    "speaker": "Рейджи",
+    "ja": "足しげく通うなんて",
+    "ru": "так часто ходите"
+  },
+  {
+    "id": 47750,
+    "scene": "375",
+    "index": 55,
+    "action": 54536,
+    "group": "375:17",
+    "speaker": "Рейджи",
+    "ja": "どうしたというのですか？",
+    "ru": "в подобное место?"
+  },
+  {
+    "id": 47752,
+    "scene": "375",
+    "index": 57,
+    "action": 54952,
+    "group": "375:18",
+    "speaker": "Шу",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 47754,
+    "scene": "375",
+    "index": 59,
+    "action": 55156,
+    "group": "375:18",
+    "speaker": "Рейджи",
+    "ja": "フン……。勉強の時間ですよ。",
+    "ru": "Хм… Время занятий."
+  },
+  {
+    "id": 47755,
+    "scene": "375",
+    "index": 60,
+    "action": 55232,
+    "group": "375:18",
+    "speaker": "Рейджи",
+    "ja": "さっさと屋敷に戻ってください。",
+    "ru": "Немедленно возвращайтесь в особняк."
+  },
+  {
+    "id": 47757,
+    "scene": "375",
+    "index": 62,
+    "action": 55456,
+    "group": "375:19",
+    "speaker": "Шу",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 47759,
+    "scene": "375",
+    "index": 64,
+    "action": 55856,
+    "group": "375:19",
+    "speaker": "Рейджи",
+    "ja": "……まあ、多少感傷に浸るのも",
+    "ru": "…Хотя, пожалуй, немного предаться"
+  },
+  {
+    "id": 47760,
+    "scene": "375",
+    "index": 65,
+    "action": 55932,
+    "group": "375:19",
+    "speaker": "Рейджи",
+    "ja": "いいかもしれませんね。",
+    "ru": "сентиментальности вам не помешает."
+  },
+  {
+    "id": 47761,
+    "scene": "375",
+    "index": 66,
+    "action": 56000,
+    "group": "375:19",
+    "speaker": "Рейджи",
+    "ja": "何故なら…………。",
+    "ru": "Потому что…………"
+  },
+  {
+    "id": 47763,
+    "scene": "375",
+    "index": 68,
+    "action": 56408,
+    "group": "375:20",
+    "speaker": "Рейджи",
+    "ja": "こんなことになったのは……",
+    "ru": "Ведь всё это случилось…"
+  },
+  {
+    "id": 47764,
+    "scene": "375",
+    "index": 69,
+    "action": 56480,
+    "group": "375:20",
+    "speaker": "Рейджи",
+    "ja": "シュウ、貴方のせいなんですから。",
+    "ru": "по вашей вине, Шу."
+  },
+  {
+    "id": 47765,
+    "scene": "375",
+    "index": 70,
+    "action": 56560,
+    "group": "375:20",
+    "speaker": "Рейджи",
+    "ja": "ふふ……。",
+    "ru": "Фу-фу…"
+  },
+  {
+    "id": 47767,
+    "scene": "375",
+    "index": 72,
+    "action": 57472,
+    "group": "375:21",
+    "speaker": "Шу",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 47769,
+    "scene": "375",
+    "index": 74,
+    "action": 57676,
+    "group": "375:21",
+    "speaker": "Шу",
+    "ja": "（……そうだ）",
+    "ru": "(…Верно.)"
+  },
+  {
+    "id": 47771,
+    "scene": "375",
+    "index": 76,
+    "action": 57884,
+    "group": "375:22",
+    "speaker": "Шу",
+    "ja": "（こんなことになったのは、",
+    "ru": "(Всё это произошло"
+  },
+  {
+    "id": 47772,
+    "scene": "375",
+    "index": 77,
+    "action": 57956,
+    "group": "375:22",
+    "speaker": "Шу",
+    "ja": "　何もかも、全部……）",
+    "ru": "целиком и полностью…)"
+  },
+  {
+    "id": 47774,
+    "scene": "375",
+    "index": 79,
+    "action": 58172,
+    "group": "375:23",
+    "speaker": "Шу",
+    "ja": "（俺のせいだ）",
+    "ru": "(по моей вине.)"
+  },
+  {
+    "id": 47776,
+    "scene": "375",
+    "index": 81,
+    "action": 58380,
+    "group": "375:24",
+    "speaker": "Шу",
+    "ja": "俺が林檎に手を伸ばしさえ",
+    "ru": "Если бы я только не протянул"
+  },
+  {
+    "id": 47777,
+    "scene": "375",
+    "index": 82,
+    "action": 58452,
+    "group": "375:24",
+    "speaker": "Шу",
+    "ja": "しなければ……。",
+    "ru": "руку к тому яблоку…"
+  },
+  {
+    "id": 47779,
+    "scene": "375",
+    "index": 84,
+    "action": 58664,
+    "group": "375:25",
+    "speaker": "Шу",
+    "ja": "…………っ。",
+    "ru": "…………"
+  },
+  {
+    "id": 47781,
+    "scene": "375",
+    "index": 86,
+    "action": 59688,
+    "group": "375:26",
+    "speaker": "#Name[2]",
+    "ja": "ん……。",
+    "ru": "М-м…"
+  },
+  {
+    "id": 47783,
+    "scene": "375",
+    "index": 88,
+    "action": 59816,
+    "group": "375:27",
+    "speaker": "#Name[2]",
+    "ja": "（頭がひんやりして……",
+    "ru": "(Голове так прохладно…"
+  },
+  {
+    "id": 47784,
+    "scene": "375",
+    "index": 89,
+    "action": 59884,
+    "group": "375:27",
+    "speaker": "#Name[2]",
+    "ja": "　気持ちいい……）",
+    "ru": "приятно…)"
+  },
+  {
+    "id": 47786,
+    "scene": "375",
+    "index": 91,
+    "action": 60096,
+    "group": "375:28",
+    "speaker": "Шу",
+    "ja": "目が覚めたか。",
+    "ru": "Проснулась?"
+  },
+  {
+    "id": 47788,
+    "scene": "375",
+    "index": 93,
+    "action": 60424,
+    "group": "375:29",
+    "speaker": "#Name[2]",
+    "ja": "シュウさん……。",
+    "ru": "Шу-сан…"
+  },
+  {
+    "id": 47790,
+    "scene": "375",
+    "index": 95,
+    "action": 60636,
+    "group": "375:30",
+    "speaker": "Шу",
+    "ja": "まったく、なんで俺が……。",
+    "ru": "Вот же… почему я вообще…"
+  },
+  {
+    "id": 47792,
+    "scene": "375",
+    "index": 97,
+    "action": 60780,
+    "group": "375:31",
+    "speaker": "#Name[2]",
+    "ja": "（あれから、ずっと看病してくれてた",
+    "ru": "(Неужели всё это время"
+  },
+  {
+    "id": 47793,
+    "scene": "375",
+    "index": 98,
+    "action": 60860,
+    "group": "375:31",
+    "speaker": "#Name[2]",
+    "ja": "　のかな……）",
+    "ru": " он ухаживал за мной?…)"
+  },
+  {
+    "id": 47795,
+    "scene": "375",
+    "index": 100,
+    "action": 60992,
+    "group": "375:32",
+    "speaker": "#Name[2]",
+    "ja": "あの……。",
+    "ru": "Скажите…"
+  },
+  {
+    "id": 47797,
+    "scene": "375",
+    "index": 102,
+    "action": 61196,
+    "group": "375:33",
+    "speaker": "Шу",
+    "ja": "黙れ……、",
+    "ru": "Заткнись…"
+  },
+  {
+    "id": 47798,
+    "scene": "375",
+    "index": 103,
+    "action": 61252,
+    "group": "375:33",
+    "speaker": "Шу",
+    "ja": "ウイルスをまき散らすな。",
+    "ru": "не разноси заразу."
+  },
+  {
+    "id": 47800,
+    "scene": "375",
+    "index": 105,
+    "action": 61472,
+    "group": "375:34",
+    "speaker": "Шу",
+    "ja": "……俺は、",
+    "ru": "…Я просто"
+  },
+  {
+    "id": 47801,
+    "scene": "375",
+    "index": 106,
+    "action": 61528,
+    "group": "375:34",
+    "speaker": "Шу",
+    "ja": "あんたの血が吸いたいんだ。",
+    "ru": "хочу пить твою кровь."
+  },
+  {
+    "id": 47803,
+    "scene": "375",
+    "index": 108,
+    "action": 61748,
+    "group": "375:35",
+    "speaker": "Шу",
+    "ja": "今のあんたの血なんて",
+    "ru": "А сейчас твоя кровь"
+  },
+  {
+    "id": 47804,
+    "scene": "375",
+    "index": 109,
+    "action": 61816,
+    "group": "375:35",
+    "speaker": "Шу",
+    "ja": "まずくて飲めたもんじゃない。",
+    "ru": "настолько невкусная, что в рот не возьмёшь."
+  },
+  {
+    "id": 47806,
+    "scene": "375",
+    "index": 111,
+    "action": 62040,
+    "group": "375:36",
+    "speaker": "Шу",
+    "ja": "わかったらとっとと",
+    "ru": "Так что живее"
+  },
+  {
+    "id": 47807,
+    "scene": "375",
+    "index": 112,
+    "action": 62104,
+    "group": "375:36",
+    "speaker": "Шу",
+    "ja": "風邪ぐらい治せ。",
+    "ru": "вылечивайся от своей простуды."
+  },
+  {
+    "id": 47809,
+    "scene": "375",
+    "index": 114,
+    "action": 62240,
+    "group": "375:37",
+    "speaker": "#Name[2]",
+    "ja": "その……。",
+    "ru": "Эм…"
+  },
+  {
+    "id": 47810,
+    "scene": "375",
+    "index": 115,
+    "action": 62296,
+    "group": "375:37",
+    "speaker": "#Name[2]",
+    "ja": "ありがとうございます……。",
+    "ru": "Спасибо вам большое…"
+  },
+  {
+    "id": 47812,
+    "scene": "375",
+    "index": 117,
+    "action": 62516,
+    "group": "375:38",
+    "speaker": "Шу",
+    "ja": "何も喋るな……。",
+    "ru": "Ничего не говори…"
+  },
+  {
+    "id": 47814,
+    "scene": "375",
+    "index": 119,
+    "action": 62652,
+    "group": "375:39",
+    "speaker": "#Name[2]",
+    "ja": "それはそうですけど、",
+    "ru": "Это так, но…"
+  },
+  {
+    "id": 47815,
+    "scene": "375",
+    "index": 120,
+    "action": 62720,
+    "group": "375:39",
+    "speaker": "#Name[2]",
+    "ja": "どうしてもお礼が言いたくて……。",
+    "ru": "я во что бы то ни стало хотела поблагодарить вас…"
+  },
+  {
+    "id": 47817,
+    "scene": "375",
+    "index": 122,
+    "action": 62948,
+    "group": "375:40",
+    "speaker": "Шу",
+    "ja": "礼を言う気力があるなら",
+    "ru": "Если есть силы благодарить,"
+  },
+  {
+    "id": 47818,
+    "scene": "375",
+    "index": 123,
+    "action": 63016,
+    "group": "375:40",
+    "speaker": "Шу",
+    "ja": "熱なんかさっさと下げるんだな。",
+    "ru": "лучше сбей поскорее температуру."
+  },
+  {
+    "id": 47820,
+    "scene": "375",
+    "index": 125,
+    "action": 63240,
+    "group": "375:41",
+    "speaker": "Шу",
+    "ja": "言っておくが、",
+    "ru": "Сразу предупреждаю,"
+  },
+  {
+    "id": 47821,
+    "scene": "375",
+    "index": 126,
+    "action": 63300,
+    "group": "375:41",
+    "speaker": "Шу",
+    "ja": "こんなだるいこと、",
+    "ru": "эту муторную возню"
+  },
+  {
+    "id": 47822,
+    "scene": "375",
+    "index": 127,
+    "action": 63364,
+    "group": "375:41",
+    "speaker": "Шу",
+    "ja": "いつまでも続けないからな。",
+    "ru": "я вечно продолжать не стану."
+  },
+  {
+    "id": 47824,
+    "scene": "375",
+    "index": 129,
+    "action": 63508,
+    "group": "375:42",
+    "speaker": "#Name[2]",
+    "ja": "は、はい……。",
+    "ru": "Д-да…"
+  },
+  {
+    "id": 47825,
+    "scene": "375",
+    "index": 130,
+    "action": 63568,
+    "group": "375:42",
+    "speaker": "#Name[2]",
+    "ja": "すぐに治します。",
+    "ru": "Я скоро поправлюсь."
+  },
+  {
+    "id": 47827,
+    "scene": "375",
+    "index": 132,
+    "action": 63780,
+    "group": "375:43",
+    "speaker": "Шу",
+    "ja": "……チッ……イライラする。",
+    "ru": "…Тц… раздражает."
+  },
+  {
+    "id": 47829,
+    "scene": "375",
+    "index": 134,
+    "action": 64000,
+    "group": "375:44",
+    "speaker": "Шу",
+    "ja": "……あんたの言葉なんか",
+    "ru": "…Твоим словам"
+  },
+  {
+    "id": 47830,
+    "scene": "375",
+    "index": 135,
+    "action": 64068,
+    "group": "375:44",
+    "speaker": "Шу",
+    "ja": "信用できない。人間は脆くて、弱い。",
+    "ru": "нельзя верить. Люди такие хрупкие и слабые."
+  },
+  {
+    "id": 47832,
+    "scene": "375",
+    "index": 137,
+    "action": 64296,
+    "group": "375:45",
+    "speaker": "Шу",
+    "ja": "すぐに……あっという間に……。",
+    "ru": "Вмиг… в одно мгновение…"
+  },
+  {
+    "id": 47834,
+    "scene": "375",
+    "index": 139,
+    "action": 64520,
+    "group": "375:46",
+    "speaker": "Шу",
+    "ja": "…………っ。",
+    "ru": "…………"
+  },
+  {
+    "id": 47836,
+    "scene": "375",
+    "index": 141,
+    "action": 65016,
+    "group": "375:47",
+    "speaker": "#Name[2]",
+    "ja": "（シュウさん……）",
+    "ru": "(Шу-сан…)"
+  },
+  {
+    "id": 47838,
+    "scene": "375",
+    "index": 143,
+    "action": 65344,
+    "group": "375:48",
+    "speaker": "Шу",
+    "ja": "チッ……。",
+    "ru": "Тц…"
+  },
+  {
+    "id": 47840,
+    "scene": "375",
+    "index": 145,
+    "action": 65548,
+    "group": "375:49",
+    "speaker": "Шу",
+    "ja": "……まったく……",
+    "ru": "…Ну надо же…"
+  },
+  {
+    "id": 47841,
+    "scene": "375",
+    "index": 146,
+    "action": 65612,
+    "group": "375:49",
+    "speaker": "Шу",
+    "ja": "なにやってんだ、俺は……。",
+    "ru": "что я вообще делаю, чёрт подери…"
+  },
+  {
+    "id": 47843,
+    "scene": "375",
+    "index": 148,
+    "action": 65832,
+    "group": "375:50",
+    "speaker": "Шу",
+    "ja": "これで罪滅ぼしの",
+    "ru": "Думаю, что так искуплю грехи,"
+  },
+  {
+    "id": 47844,
+    "scene": "375",
+    "index": 149,
+    "action": 65896,
+    "group": "375:50",
+    "speaker": "Шу",
+    "ja": "つもりか？　くそっ……。",
+    "ru": "что ли? Проклятье…"
+  },
+  {
+    "id": 47846,
+    "scene": "375",
+    "index": 151,
+    "action": 66536,
+    "group": "375:51",
+    "speaker": "#Name[2]",
+    "ja": "（シュウさん……）",
+    "ru": "(Шу-сан…)"
+  },
+  {
+    "id": 47848,
+    "scene": "375",
+    "index": 153,
+    "action": 66784,
+    "group": "375:52",
+    "speaker": "#Name[2]",
+    "ja": "（こうして看病してくれる",
+    "ru": "(Рука Шу-сана,"
+  },
+  {
+    "id": 47849,
+    "scene": "375",
+    "index": 154,
+    "action": 66856,
+    "group": "375:52",
+    "speaker": "#Name[2]",
+    "ja": "　シュウさんの手……",
+    "ru": " которая ухаживает за мной…"
+  },
+  {
+    "id": 47850,
+    "scene": "375",
+    "index": 155,
+    "action": 66924,
+    "group": "375:52",
+    "speaker": "#Name[2]",
+    "ja": "　大きくて、あったかい……）",
+    "ru": " такая большая и тёплая…)"
+  },
+  {
+    "id": 47852,
+    "scene": "375",
+    "index": 157,
+    "action": 67336,
+    "group": "375:53",
+    "speaker": "Шу",
+    "ja": "…………っ。",
+    "ru": "…………"
+  },
+  {
+    "id": 47854,
+    "scene": "375",
+    "index": 159,
+    "action": 67736,
+    "group": "375:54",
+    "speaker": "Шу",
+    "ja": "……ああもう……。",
+    "ru": "…Ах, ну вот опять…"
+  },
+  {
+    "id": 47856,
+    "scene": "375",
+    "index": 161,
+    "action": 67872,
+    "group": "375:55",
+    "speaker": "#Name[2]",
+    "ja": "（あ……",
+    "ru": "(А…"
+  },
+  {
+    "id": 47857,
+    "scene": "375",
+    "index": 162,
+    "action": 67928,
+    "group": "375:55",
+    "speaker": "#Name[2]",
+    "ja": "　シュウさんのおでこが手に……）",
+    "ru": " Шу-сан прижался лбом к моей руке…)"
+  },
+  {
+    "id": 47859,
+    "scene": "375",
+    "index": 164,
+    "action": 68156,
+    "group": "375:56",
+    "speaker": "Шу",
+    "ja": "ほんと、調子狂う……。",
+    "ru": "Ты совершенно сбиваешь меня с толку…"
+  }
+]

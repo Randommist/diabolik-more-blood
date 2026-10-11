@@ -1,0 +1,3 @@
+Pillow>=10
+capstone>=5
+pyelftools>=0.30

@@ -1,0 +1,2442 @@
+[
+  {
+    "id": 5868,
+    "scene": "213",
+    "index": 0,
+    "action": 45368,
+    "group": "213:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "屋敷のどこにいても",
+    "ru": "Где бы я ни был в особняке,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5869,
+    "scene": "213",
+    "index": 1,
+    "action": 45432,
+    "group": "213:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "あの女の乱痴気騒ぎが聞こえてくる。",
+    "ru": "слышно, как эта женщина предаётся#nразгулу.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5870,
+    "scene": "213",
+    "index": 3,
+    "action": 45576,
+    "group": "213:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "どれだけ積み木を重ねても、",
+    "ru": "Сколько бы я ни складывал кубики,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5871,
+    "scene": "213",
+    "index": 4,
+    "action": 45648,
+    "group": "213:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "耳障りな音を立ててそれが崩れても、",
+    "ru": "даже если они рушатся с неприятным#nстуком,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5872,
+    "scene": "213",
+    "index": 5,
+    "action": 45728,
+    "group": "213:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "誰も気にもとめない。",
+    "ru": "никто и внимания не обращает.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5873,
+    "scene": "213",
+    "index": 7,
+    "action": 45860,
+    "group": "213:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "オレはどうして",
+    "ru": "Зачем же я",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5874,
+    "scene": "213",
+    "index": 8,
+    "action": 45920,
+    "group": "213:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "こんなことをしているのだろう。",
+    "ru": "этим занимаюсь?",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5875,
+    "scene": "213",
+    "index": 10,
+    "action": 46060,
+    "group": "213:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "何度もそう問いかけながら、",
+    "ru": "Снова и снова спрашивая себя,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5876,
+    "scene": "213",
+    "index": 11,
+    "action": 46132,
+    "group": "213:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "オレはまた、積み木に手を伸ばした。",
+    "ru": "я опять протянул руку к кубикам.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5878,
+    "scene": "213",
+    "index": 14,
+    "action": 46768,
+    "group": "213:4",
+    "speaker": "Корделия",
+    "ja": "……どうしてなの？",
+    "ru": "…Почему?"
+  },
+  {
+    "id": 5879,
+    "scene": "213",
+    "index": 15,
+    "action": 46832,
+    "group": "213:4",
+    "speaker": "Корделия",
+    "ja": "アタシの何がいけないっていうの？",
+    "ru": "Что во мне не так?"
+  },
+  {
+    "id": 5881,
+    "scene": "213",
+    "index": 17,
+    "action": 47064,
+    "group": "213:5",
+    "speaker": "Корделия",
+    "ja": "ああもうゝ",
+    "ru": "Ах, чёрт!!"
+  },
+  {
+    "id": 5883,
+    "scene": "213",
+    "index": 19,
+    "action": 47672,
+    "group": "213:6",
+    "speaker": "Аято",
+    "ja": "（ああ、今度はなんだ？）",
+    "ru": "(А, что теперь?)"
+  },
+  {
+    "id": 5885,
+    "scene": "213",
+    "index": 21,
+    "action": 47896,
+    "group": "213:7",
+    "speaker": "Корделия",
+    "ja": "他の男はみんなこのアタシに",
+    "ru": "Все остальные мужчины"
+  },
+  {
+    "id": 5886,
+    "scene": "213",
+    "index": 22,
+    "action": 47968,
+    "group": "213:7",
+    "speaker": "Корделия",
+    "ja": "跪くっていうのに……。",
+    "ru": "падают передо мной на колени…"
+  },
+  {
+    "id": 5888,
+    "scene": "213",
+    "index": 24,
+    "action": 48188,
+    "group": "213:8",
+    "speaker": "Корделия",
+    "ja": "どうしてあの方だけは、",
+    "ru": "Почему только он?"
+  },
+  {
+    "id": 5889,
+    "scene": "213",
+    "index": 25,
+    "action": 48256,
+    "group": "213:8",
+    "speaker": "Корделия",
+    "ja": "どうして……どうして！",
+    "ru": "Почему… Почему?!"
+  },
+  {
+    "id": 5891,
+    "scene": "213",
+    "index": 27,
+    "action": 48748,
+    "group": "213:9",
+    "speaker": "Корделия",
+    "ja": "他に女を囲っているなんて",
+    "ru": "Держит других женщин…"
+  },
+  {
+    "id": 5892,
+    "scene": "213",
+    "index": 28,
+    "action": 48820,
+    "group": "213:9",
+    "speaker": "Корделия",
+    "ja": "許せない……！",
+    "ru": "Не прощу…!"
+  },
+  {
+    "id": 5893,
+    "scene": "213",
+    "index": 29,
+    "action": 48880,
+    "group": "213:9",
+    "speaker": "Корделия",
+    "ja": "死ねばいいのよ、そんな女。",
+    "ru": "Пусть умрёт эта женщина."
+  },
+  {
+    "id": 5895,
+    "scene": "213",
+    "index": 31,
+    "action": 49104,
+    "group": "213:10",
+    "speaker": "Корделия",
+    "ja": "いっそアタシが殺してあげる！",
+    "ru": "Я сама её убью!"
+  },
+  {
+    "id": 5896,
+    "scene": "213",
+    "index": 32,
+    "action": 49180,
+    "group": "213:10",
+    "speaker": "Корделия",
+    "ja": "んふふ、あはははは！",
+    "ru": "Хе-хе, а-ха-ха!"
+  },
+  {
+    "id": 5898,
+    "scene": "213",
+    "index": 34,
+    "action": 49864,
+    "group": "213:11",
+    "speaker": "Аято",
+    "ja": "（ああ、なんだそんなことか）",
+    "ru": "(А, всего-то это.)"
+  },
+  {
+    "id": 5900,
+    "scene": "213",
+    "index": 36,
+    "action": 50532,
+    "group": "213:12",
+    "speaker": "Корделия",
+    "ja": "アヤト！",
+    "ru": "Аято!"
+  },
+  {
+    "id": 5901,
+    "scene": "213",
+    "index": 37,
+    "action": 50588,
+    "group": "213:12",
+    "speaker": "Корделия",
+    "ja": "いつまでそんな遊びをしてるのゝ",
+    "ru": "Сколько ещё будешь так играть!!"
+  },
+  {
+    "id": 5903,
+    "scene": "213",
+    "index": 39,
+    "action": 51120,
+    "group": "213:13",
+    "speaker": "Аято",
+    "ja": "（ああっ……！）",
+    "ru": "(А…!)"
+  },
+  {
+    "id": 5905,
+    "scene": "213",
+    "index": 41,
+    "action": 51336,
+    "group": "213:14",
+    "speaker": "Корделия",
+    "ja": "こんな積み木、",
+    "ru": "Сколько ни складывай"
+  },
+  {
+    "id": 5906,
+    "scene": "213",
+    "index": 42,
+    "action": 51396,
+    "group": "213:14",
+    "speaker": "Корделия",
+    "ja": "いくら積み上げたところで",
+    "ru": "эти кубики,"
+  },
+  {
+    "id": 5907,
+    "scene": "213",
+    "index": 43,
+    "action": 51468,
+    "group": "213:14",
+    "speaker": "Корделия",
+    "ja": "なんの意味もない……。",
+    "ru": "смысла нет…"
+  },
+  {
+    "id": 5909,
+    "scene": "213",
+    "index": 45,
+    "action": 51880,
+    "group": "213:15",
+    "speaker": "Корделия",
+    "ja": "そうよ……意味なんてないのよ！",
+    "ru": "Да… Никакого смысла!"
+  },
+  {
+    "id": 5910,
+    "scene": "213",
+    "index": 46,
+    "action": 51956,
+    "group": "213:15",
+    "speaker": "Корделия",
+    "ja": "一番になったところで、意味なんかないゝ",
+    "ru": "Даже если станешь первым ― смысла нет!!"
+  },
+  {
+    "id": 5911,
+    "scene": "213",
+    "index": 47,
+    "action": 52040,
+    "group": "213:15",
+    "speaker": "Корделия",
+    "ja": "燃えてしまえ！",
+    "ru": "Гори!"
+  },
+  {
+    "id": 5913,
+    "scene": "213",
+    "index": 49,
+    "action": 52440,
+    "group": "213:16",
+    "speaker": "Аято",
+    "ja": "（積み木が暖炉に……！）",
+    "ru": "(Кубики в камине…!)"
+  },
+  {
+    "id": 5915,
+    "scene": "213",
+    "index": 51,
+    "action": 52856,
+    "group": "213:17",
+    "speaker": "Аято",
+    "ja": "（ああ……どんどん燃えて……）",
+    "ru": "(А… Всё горит…)"
+  },
+  {
+    "id": 5917,
+    "scene": "213",
+    "index": 53,
+    "action": 53080,
+    "group": "213:18",
+    "speaker": "Аято",
+    "ja": "（あんなに燃えてしまったら、",
+    "ru": "(Если так сгорят,"
+  },
+  {
+    "id": 5918,
+    "scene": "213",
+    "index": 54,
+    "action": 53156,
+    "group": "213:18",
+    "speaker": "Аято",
+    "ja": "　もう高くは積み上げられないな）",
+    "ru": "высоко уже не сложишь.)"
+  },
+  {
+    "id": 5920,
+    "scene": "213",
+    "index": 56,
+    "action": 53384,
+    "group": "213:19",
+    "speaker": "Аято",
+    "ja": "（びっくりするほど高く積んで、",
+    "ru": "(Я бы сложил так высоко, что все ахнут,"
+  },
+  {
+    "id": 5921,
+    "scene": "213",
+    "index": 57,
+    "action": 53460,
+    "group": "213:19",
+    "speaker": "Аято",
+    "ja": "　そしたら……）",
+    "ru": "и тогда…)"
+  },
+  {
+    "id": 5923,
+    "scene": "213",
+    "index": 59,
+    "action": 53868,
+    "group": "213:20",
+    "speaker": "Аято",
+    "ja": "（そしたら……オレは……、",
+    "ru": "(Тогда… Что же я"
+  },
+  {
+    "id": 5924,
+    "scene": "213",
+    "index": 60,
+    "action": 53940,
+    "group": "213:20",
+    "speaker": "Аято",
+    "ja": "　どうするつもりだったんだろう）",
+    "ru": "собирался сделать?)"
+  },
+  {
+    "id": 5926,
+    "scene": "213",
+    "index": 62,
+    "action": 54548,
+    "group": "213:21",
+    "speaker": "Аято",
+    "ja": "（この女を振り向かせ、",
+    "ru": "(Чтобы эта женщина обратила внимание"
+  },
+  {
+    "id": 5927,
+    "scene": "213",
+    "index": 63,
+    "action": 54616,
+    "group": "213:21",
+    "speaker": "Аято",
+    "ja": "　認めさせたかったのか？",
+    "ru": "и признала меня?"
+  },
+  {
+    "id": 5928,
+    "scene": "213",
+    "index": 64,
+    "action": 54688,
+    "group": "213:21",
+    "speaker": "Аято",
+    "ja": "　そんなこと……）",
+    "ru": "Такое…)"
+  },
+  {
+    "id": 5930,
+    "scene": "213",
+    "index": 66,
+    "action": 55092,
+    "group": "213:22",
+    "speaker": "Корделия",
+    "ja": "うふふ……。",
+    "ru": "Хе-хе…"
+  },
+  {
+    "id": 5932,
+    "scene": "213",
+    "index": 68,
+    "action": 55304,
+    "group": "213:23",
+    "speaker": "Корделия",
+    "ja": "あの人の一番はアタシで",
+    "ru": "Для него первой"
+  },
+  {
+    "id": 5933,
+    "scene": "213",
+    "index": 69,
+    "action": 55372,
+    "group": "213:23",
+    "speaker": "Корделия",
+    "ja": "あるべきなのよ……ううん、",
+    "ru": "должна быть я… Нет,"
+  },
+  {
+    "id": 5934,
+    "scene": "213",
+    "index": 70,
+    "action": 55444,
+    "group": "213:23",
+    "speaker": "Корделия",
+    "ja": "このアタシが一番ふさわしい。",
+    "ru": "я достойна этого больше всех."
+  },
+  {
+    "id": 5936,
+    "scene": "213",
+    "index": 72,
+    "action": 55864,
+    "group": "213:24",
+    "speaker": "Корделия",
+    "ja": "なのにどうして……",
+    "ru": "Но почему…"
+  },
+  {
+    "id": 5937,
+    "scene": "213",
+    "index": 73,
+    "action": 55928,
+    "group": "213:24",
+    "speaker": "Корделия",
+    "ja": "どうして？　どうしてなの……！",
+    "ru": "Почему? Почему же…!"
+  },
+  {
+    "id": 5939,
+    "scene": "213",
+    "index": 75,
+    "action": 56152,
+    "group": "213:25",
+    "speaker": "Аято",
+    "ja": "（一番、か……）",
+    "ru": "(Первая…)"
+  },
+  {
+    "id": 5940,
+    "scene": "213",
+    "index": 76,
+    "action": 56808,
+    "group": "213:26",
+    "speaker": "Аято",
+    "ja": "高く積み上げられた積み木の果てに",
+    "ru": "Чего я искал",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5941,
+    "scene": "213",
+    "index": 77,
+    "action": 56888,
+    "group": "213:26",
+    "speaker": "Аято",
+    "ja": "オレは何を求めていたのか。",
+    "ru": "на вершине башни из кубиков?",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5942,
+    "scene": "213",
+    "index": 79,
+    "action": 57024,
+    "group": "213:27",
+    "speaker": "Аято",
+    "ja": "燃える積み木を眺めながら",
+    "ru": "Глядя, как горят кубики,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5943,
+    "scene": "213",
+    "index": 80,
+    "action": 57096,
+    "group": "213:27",
+    "speaker": "Аято",
+    "ja": "ぼんやりと考えた。",
+    "ru": "я рассеянно думал.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5944,
+    "scene": "213",
+    "index": 82,
+    "action": 57224,
+    "group": "213:28",
+    "speaker": "Аято",
+    "ja": "誰かに特別な思いを抱いたところで、",
+    "ru": "Если кто-то для тебя особенный,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5945,
+    "scene": "213",
+    "index": 83,
+    "action": 57304,
+    "group": "213:28",
+    "speaker": "Аято",
+    "ja": "それが確かに報われるという保証など",
+    "ru": "нет никакой гарантии,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5946,
+    "scene": "213",
+    "index": 84,
+    "action": 57384,
+    "group": "213:28",
+    "speaker": "Аято",
+    "ja": "どこにもない。",
+    "ru": "что тебе ответят тем же.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5947,
+    "scene": "213",
+    "index": 86,
+    "action": 57508,
+    "group": "213:29",
+    "speaker": "Аято",
+    "ja": "力づくで、強引に奪おうとしても、",
+    "ru": "Даже силой, отнимая,",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5948,
+    "scene": "213",
+    "index": 87,
+    "action": 57588,
+    "group": "213:29",
+    "speaker": "Аято",
+    "ja": "本当に欲しいものは手に入らない。",
+    "ru": "не получишь того, чего действительно#nхочешь.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5949,
+    "scene": "213",
+    "index": 89,
+    "action": 57732,
+    "group": "213:30",
+    "speaker": "Аято",
+    "ja": "だったらもう",
+    "ru": "Тогда лучше",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5950,
+    "scene": "213",
+    "index": 90,
+    "action": 57792,
+    "group": "213:30",
+    "speaker": "Аято",
+    "ja": "そんなことはやめてしまえ。",
+    "ru": "вообще перестать.",
+    "context_note": "Ayato first-person narration; inherited speaker label is not authoritative. Narrative mode/accumulation require runtime verification."
+  },
+  {
+    "id": 5952,
+    "scene": "213",
+    "index": 93,
+    "action": 58420,
+    "group": "213:31",
+    "speaker": "#Name[2]",
+    "ja": "いたっ……。",
+    "ru": "Больно…"
+  },
+  {
+    "id": 5954,
+    "scene": "213",
+    "index": 95,
+    "action": 58676,
+    "group": "213:32",
+    "speaker": "#Name[2]",
+    "ja": "（ルキくんに血を吸われたところ、",
+    "ru": "(Там, где Руки пил мою кровь,"
+  },
+  {
+    "id": 5955,
+    "scene": "213",
+    "index": 96,
+    "action": 58756,
+    "group": "213:32",
+    "speaker": "#Name[2]",
+    "ja": "　まだ血が滲んでる……）",
+    "ru": "она всё ещё сочится…)"
+  },
+  {
+    "id": 5957,
+    "scene": "213",
+    "index": 98,
+    "action": 59024,
+    "group": "213:33",
+    "speaker": "#Name[2]",
+    "ja": "（それに……なんだか、",
+    "ru": "(И ещё… Кажется,"
+  },
+  {
+    "id": 5958,
+    "scene": "213",
+    "index": 99,
+    "action": 59092,
+    "group": "213:33",
+    "speaker": "#Name[2]",
+    "ja": "　アヤトくんに吸われた時より",
+    "ru": "я устаю сильнее,"
+  },
+  {
+    "id": 5959,
+    "scene": "213",
+    "index": 100,
+    "action": 59168,
+    "group": "213:33",
+    "speaker": "#Name[2]",
+    "ja": "　疲労感も強い気がする……）",
+    "ru": "чем после укусов Аято…)"
+  },
+  {
+    "id": 5961,
+    "scene": "213",
+    "index": 102,
+    "action": 59316,
+    "group": "213:34",
+    "speaker": "#Name[2]",
+    "ja": "（なんでだろう……）",
+    "ru": "(Почему же…)"
+  },
+  {
+    "id": 5963,
+    "scene": "213",
+    "index": 104,
+    "action": 59580,
+    "group": "213:35",
+    "speaker": "#Name[2]",
+    "ja": "（でも……このことがアヤトくんに",
+    "ru": "(Но если Аято"
+  },
+  {
+    "id": 5964,
+    "scene": "213",
+    "index": 105,
+    "action": 59660,
+    "group": "213:35",
+    "speaker": "#Name[2]",
+    "ja": "　知られてしまったら、",
+    "ru": "узнает об этом,"
+  },
+  {
+    "id": 5965,
+    "scene": "213",
+    "index": 106,
+    "action": 59728,
+    "group": "213:35",
+    "speaker": "#Name[2]",
+    "ja": "　本当に私、どうなるんだろう）",
+    "ru": "что со мной будет?)"
+  },
+  {
+    "id": 5967,
+    "scene": "213",
+    "index": 108,
+    "action": 59876,
+    "group": "213:36",
+    "speaker": "#Name[2]",
+    "ja": "（これ以上、エサとして手ひどく",
+    "ru": "(Да, мне страшно,"
+  },
+  {
+    "id": 5968,
+    "scene": "213",
+    "index": 109,
+    "action": 59952,
+    "group": "213:36",
+    "speaker": "#Name[2]",
+    "ja": "　扱われるのが怖い思いもある）",
+    "ru": "что со мной будут ещё хуже обращаться#nкак с кормом.)"
+  },
+  {
+    "id": 5970,
+    "scene": "213",
+    "index": 111,
+    "action": 60100,
+    "group": "213:37",
+    "speaker": "#Name[2]",
+    "ja": "（でもそれ以上に……）",
+    "ru": "(Но ещё сильнее…)"
+  },
+  {
+    "id": 5972,
+    "scene": "213",
+    "index": 113,
+    "action": 60240,
+    "group": "213:38",
+    "speaker": "#Name[2]",
+    "ja": "（他の誰かに血を吸われたなんて",
+    "ru": "(Если он узнает,"
+  },
+  {
+    "id": 5973,
+    "scene": "213",
+    "index": 114,
+    "action": 60316,
+    "group": "213:38",
+    "speaker": "#Name[2]",
+    "ja": "　知られたら）",
+    "ru": "что мою кровь пил кто-то другой,)"
+  },
+  {
+    "id": 5975,
+    "scene": "213",
+    "index": 116,
+    "action": 60572,
+    "group": "213:39",
+    "speaker": "#Name[2]",
+    "ja": "（ますますアヤトくんにとって",
+    "ru": "(боюсь, я стану"
+  },
+  {
+    "id": 5976,
+    "scene": "213",
+    "index": 117,
+    "action": 60648,
+    "group": "213:39",
+    "speaker": "#Name[2]",
+    "ja": "　価値のない存在になってしまいそうで",
+    "ru": "для Аято"
+  },
+  {
+    "id": 5977,
+    "scene": "213",
+    "index": 118,
+    "action": 60732,
+    "group": "213:39",
+    "speaker": "#Name[2]",
+    "ja": "　不安なんだ）",
+    "ru": "ещё менее ценной.)"
+  },
+  {
+    "id": 5979,
+    "scene": "213",
+    "index": 120,
+    "action": 60864,
+    "group": "213:40",
+    "speaker": "#Name[2]",
+    "ja": "（心の何処かで自分の血にすがって、",
+    "ru": "(В глубине души я цепляюсь за свою кровь"
+  },
+  {
+    "id": 5980,
+    "scene": "213",
+    "index": 121,
+    "action": 60944,
+    "group": "213:40",
+    "speaker": "#Name[2]",
+    "ja": "　アヤトくんにとって特別でいたいって",
+    "ru": "и хочу оставаться"
+  },
+  {
+    "id": 5981,
+    "scene": "213",
+    "index": 122,
+    "action": 61028,
+    "group": "213:40",
+    "speaker": "#Name[2]",
+    "ja": "　思ってしまっているから……）",
+    "ru": "для него особенной…)"
+  },
+  {
+    "id": 5983,
+    "scene": "213",
+    "index": 124,
+    "action": 61300,
+    "group": "213:41",
+    "speaker": "#Name[2]",
+    "ja": "（……こんなこと、いつまでも",
+    "ru": "(…Хотя вечно это"
+  },
+  {
+    "id": 5984,
+    "scene": "213",
+    "index": 125,
+    "action": 61376,
+    "group": "213:41",
+    "speaker": "#Name[2]",
+    "ja": "　隠しておけるわけがないのに）",
+    "ru": "скрывать невозможно.)"
+  },
+  {
+    "id": 5986,
+    "scene": "213",
+    "index": 127,
+    "action": 61524,
+    "group": "213:42",
+    "speaker": "#Name[2]",
+    "ja": "（やっぱり私、どうかしてるよ……）",
+    "ru": "(Всё-таки со мной что-то не так…)"
+  },
+  {
+    "id": 5988,
+    "scene": "213",
+    "index": 129,
+    "action": 61960,
+    "group": "213:43",
+    "speaker": "#Name[2]",
+    "ja": "……ゝ",
+    "ru": "!!"
+  },
+  {
+    "id": 5990,
+    "scene": "213",
+    "index": 131,
+    "action": 62084,
+    "group": "213:44",
+    "speaker": "#Name[2]",
+    "ja": "（だ、誰だろう……",
+    "ru": "(К-кто это…"
+  },
+  {
+    "id": 5991,
+    "scene": "213",
+    "index": 132,
+    "action": 62148,
+    "group": "213:44",
+    "speaker": "#Name[2]",
+    "ja": "　もしアヤトくんだったら、",
+    "ru": "Если Аято,"
+  },
+  {
+    "id": 5992,
+    "scene": "213",
+    "index": 133,
+    "action": 62220,
+    "group": "213:44",
+    "speaker": "#Name[2]",
+    "ja": "　ど、どうしたらいいのか……）",
+    "ru": "ч-что мне делать…)"
+  },
+  {
+    "id": 5994,
+    "scene": "213",
+    "index": 135,
+    "action": 62492,
+    "group": "213:45",
+    "speaker": "#Name[2]",
+    "ja": "（でもアヤトくんはノックなんて",
+    "ru": "(Но Аято"
+  },
+  {
+    "id": 5995,
+    "scene": "213",
+    "index": 136,
+    "action": 62568,
+    "group": "213:45",
+    "speaker": "#Name[2]",
+    "ja": "　しないし……）",
+    "ru": "не стучится…)"
+  },
+  {
+    "id": 5997,
+    "scene": "213",
+    "index": 138,
+    "action": 63144,
+    "group": "213:46",
+    "speaker": "Рейджи",
+    "ja": "そこにいるのでしょう、",
+    "ru": "Вы ведь там,"
+  },
+  {
+    "id": 5998,
+    "scene": "213",
+    "index": 139,
+    "action": 63212,
+    "group": "213:46",
+    "speaker": "Рейджи",
+    "ja": "#Name[1]#Name[2]。",
+    "ru": "#Name[1]#Name[2]."
+  },
+  {
+    "id": 6000,
+    "scene": "213",
+    "index": 141,
+    "action": 63472,
+    "group": "213:47",
+    "speaker": "#Name[2]",
+    "ja": "（あ……この声はレイジさんだ……。",
+    "ru": "(А… Это голос Рейджи…"
+  },
+  {
+    "id": 6001,
+    "scene": "213",
+    "index": 142,
+    "action": 63552,
+    "group": "213:47",
+    "speaker": "#Name[2]",
+    "ja": "　よかった……）",
+    "ru": "Как хорошо…)"
+  },
+  {
+    "id": 6003,
+    "scene": "213",
+    "index": 144,
+    "action": 63688,
+    "group": "213:48",
+    "speaker": "#Name[2]",
+    "ja": "（……アヤトくんじゃないとわかって、",
+    "ru": "(…Узнала, что это не Аято,"
+  },
+  {
+    "id": 6004,
+    "scene": "213",
+    "index": 145,
+    "action": 63772,
+    "group": "213:48",
+    "speaker": "#Name[2]",
+    "ja": "　こんなに安心するなんて……）",
+    "ru": "и мне настолько легче…)"
+  },
+  {
+    "id": 6006,
+    "scene": "213",
+    "index": 147,
+    "action": 63996,
+    "group": "213:49",
+    "speaker": "Рейджи",
+    "ja": "いつまで待たせる気ですか。",
+    "ru": "Сколько ещё вы будете заставлять меня ждать?"
+  },
+  {
+    "id": 6007,
+    "scene": "213",
+    "index": 148,
+    "action": 64068,
+    "group": "213:49",
+    "speaker": "Рейджи",
+    "ja": "さっさと開けなさい。",
+    "ru": "Открывайте немедленно."
+  },
+  {
+    "id": 6009,
+    "scene": "213",
+    "index": 150,
+    "action": 64208,
+    "group": "213:50",
+    "speaker": "#Name[2]",
+    "ja": "あ、はい……！",
+    "ru": "А, да…!"
+  },
+  {
+    "id": 6011,
+    "scene": "213",
+    "index": 152,
+    "action": 64940,
+    "group": "213:51",
+    "speaker": "Рейджи",
+    "ja": "この私を待たせるなんて、",
+    "ru": "Заставляете меня ждать…"
+  },
+  {
+    "id": 6012,
+    "scene": "213",
+    "index": 153,
+    "action": 65012,
+    "group": "213:51",
+    "speaker": "Рейджи",
+    "ja": "いい身分ですね、まったく……。",
+    "ru": "Вы много себе позволяете."
+  },
+  {
+    "id": 6014,
+    "scene": "213",
+    "index": 155,
+    "action": 65284,
+    "group": "213:52",
+    "speaker": "#Name[2]",
+    "ja": "す、すみません……。",
+    "ru": "П-простите…"
+  },
+  {
+    "id": 6016,
+    "scene": "213",
+    "index": 157,
+    "action": 65548,
+    "group": "213:53",
+    "speaker": "#Name[2]",
+    "ja": "あの、レイジさん。",
+    "ru": "Э-э, Рейджи."
+  },
+  {
+    "id": 6017,
+    "scene": "213",
+    "index": 158,
+    "action": 65612,
+    "group": "213:53",
+    "speaker": "#Name[2]",
+    "ja": "どうしたんですか？",
+    "ru": "Что случилось?"
+  },
+  {
+    "id": 6019,
+    "scene": "213",
+    "index": 160,
+    "action": 66012,
+    "group": "213:54",
+    "speaker": "Рейджи",
+    "ja": "実は貴女にひとつ",
+    "ru": "Я хотел кое-что"
+  },
+  {
+    "id": 6020,
+    "scene": "213",
+    "index": 161,
+    "action": 66076,
+    "group": "213:54",
+    "speaker": "Рейджи",
+    "ja": "確認しておきたいことがありまして。",
+    "ru": "у вас выяснить."
+  },
+  {
+    "id": 6022,
+    "scene": "213",
+    "index": 163,
+    "action": 66352,
+    "group": "213:55",
+    "speaker": "#Name[2]",
+    "ja": "確認？",
+    "ru": "Выяснить?"
+  },
+  {
+    "id": 6024,
+    "scene": "213",
+    "index": 165,
+    "action": 66552,
+    "group": "213:56",
+    "speaker": "Рейджи",
+    "ja": "……あなた、ここのところ",
+    "ru": "…Вы ничего не знаете"
+  },
+  {
+    "id": 6025,
+    "scene": "213",
+    "index": 166,
+    "action": 66624,
+    "group": "213:56",
+    "speaker": "Рейджи",
+    "ja": "アヤトの様子がおかしい原因を",
+    "ru": "о том, почему Аято в последнее время"
+  },
+  {
+    "id": 6026,
+    "scene": "213",
+    "index": 167,
+    "action": 66700,
+    "group": "213:56",
+    "speaker": "Рейджи",
+    "ja": "何か知りませんか？",
+    "ru": "так странно себя ведёт?"
+  },
+  {
+    "id": 6028,
+    "scene": "213",
+    "index": 169,
+    "action": 66960,
+    "group": "213:57",
+    "speaker": "#Name[2]",
+    "ja": "……それは……。",
+    "ru": "…Это…"
+  },
+  {
+    "id": 6030,
+    "scene": "213",
+    "index": 171,
+    "action": 67096,
+    "group": "213:58",
+    "speaker": "#Name[2]",
+    "ja": "（……ルキくんたちが現れてから、",
+    "ru": "(…После появления Руки и остальных"
+  },
+  {
+    "id": 6031,
+    "scene": "213",
+    "index": 172,
+    "action": 67176,
+    "group": "213:58",
+    "speaker": "#Name[2]",
+    "ja": "　妙に私を疑うようになったり、",
+    "ru": "он начал странно меня подозревать."
+  },
+  {
+    "id": 6032,
+    "scene": "213",
+    "index": 173,
+    "action": 67252,
+    "group": "213:58",
+    "speaker": "#Name[2]",
+    "ja": "　少し様子が変な気がするけど……）",
+    "ru": "Кажется, что-то с ним не так…)"
+  },
+  {
+    "id": 6034,
+    "scene": "213",
+    "index": 175,
+    "action": 67404,
+    "group": "213:59",
+    "speaker": "#Name[2]",
+    "ja": "（けど、確かなことはわからないし、",
+    "ru": "(Но наверняка я не знаю,"
+  },
+  {
+    "id": 6035,
+    "scene": "213",
+    "index": 176,
+    "action": 67484,
+    "group": "213:59",
+    "speaker": "#Name[2]",
+    "ja": "　むしろ私が聞きたいくらい",
+    "ru": "скорее сама хотела бы"
+  },
+  {
+    "id": 6036,
+    "scene": "213",
+    "index": 177,
+    "action": 67556,
+    "group": "213:59",
+    "speaker": "#Name[2]",
+    "ja": "　なんだよね……）",
+    "ru": "об этом спросить…)"
+  },
+  {
+    "id": 6038,
+    "scene": "213",
+    "index": 179,
+    "action": 67768,
+    "group": "213:60",
+    "speaker": "Рейджи",
+    "ja": "知っているのですか、",
+    "ru": "Знаете вы"
+  },
+  {
+    "id": 6039,
+    "scene": "213",
+    "index": 180,
+    "action": 67836,
+    "group": "213:60",
+    "speaker": "Рейджи",
+    "ja": "知らないのですか。",
+    "ru": "или нет?"
+  },
+  {
+    "id": 6041,
+    "scene": "213",
+    "index": 182,
+    "action": 68096,
+    "group": "213:61",
+    "speaker": "#Name[2]",
+    "ja": "し、知りません……！",
+    "ru": "Н-не знаю…!"
+  },
+  {
+    "id": 6043,
+    "scene": "213",
+    "index": 184,
+    "action": 68500,
+    "group": "213:62",
+    "speaker": "Рейджи",
+    "ja": "……そうですか……。",
+    "ru": "…Понятно…"
+  },
+  {
+    "id": 6044,
+    "scene": "213",
+    "index": 185,
+    "action": 68568,
+    "group": "213:62",
+    "speaker": "Рейджи",
+    "ja": "あのアヤトの様子、いったい",
+    "ru": "Что же всё-таки"
+  },
+  {
+    "id": 6045,
+    "scene": "213",
+    "index": 186,
+    "action": 68640,
+    "group": "213:62",
+    "speaker": "Рейджи",
+    "ja": "なんだと言うんでしょうね。",
+    "ru": "с Аято происходит?"
+  },
+  {
+    "id": 6047,
+    "scene": "213",
+    "index": 188,
+    "action": 68860,
+    "group": "213:63",
+    "speaker": "Рейджи",
+    "ja": "まさか毒でも盛られたわけじゃ",
+    "ru": "Неужели его"
+  },
+  {
+    "id": 6048,
+    "scene": "213",
+    "index": 189,
+    "action": 68936,
+    "group": "213:63",
+    "speaker": "Рейджи",
+    "ja": "ないでしょうね。",
+    "ru": "отравили?"
+  },
+  {
+    "id": 6050,
+    "scene": "213",
+    "index": 191,
+    "action": 69196,
+    "group": "213:64",
+    "speaker": "#Name[2]",
+    "ja": "毒……？　アヤトくん、",
+    "ru": "Отравили…? Аято"
+  },
+  {
+    "id": 6051,
+    "scene": "213",
+    "index": 192,
+    "action": 69264,
+    "group": "213:64",
+    "speaker": "#Name[2]",
+    "ja": "そんなに体調が悪いんですか？",
+    "ru": "настолько плохо?"
+  },
+  {
+    "id": 6053,
+    "scene": "213",
+    "index": 194,
+    "action": 69676,
+    "group": "213:65",
+    "speaker": "Рейджи",
+    "ja": "どこの馬の骨ともしれない",
+    "ru": "Вот что бывает,"
+  },
+  {
+    "id": 6054,
+    "scene": "213",
+    "index": 195,
+    "action": 69748,
+    "group": "213:65",
+    "speaker": "Рейджи",
+    "ja": "女の血など吸うから",
+    "ru": "когда пьёшь кровь женщин"
+  },
+  {
+    "id": 6055,
+    "scene": "213",
+    "index": 196,
+    "action": 69812,
+    "group": "213:65",
+    "speaker": "Рейджи",
+    "ja": "こんなことになるのです。",
+    "ru": "неизвестно какого происхождения."
+  },
+  {
+    "id": 6057,
+    "scene": "213",
+    "index": 198,
+    "action": 69956,
+    "group": "213:66",
+    "speaker": "#Name[2]",
+    "ja": "（アヤトくん……）",
+    "ru": "(Аято…)"
+  },
+  {
+    "id": 6059,
+    "scene": "213",
+    "index": 200,
+    "action": 70720,
+    "group": "213:67",
+    "speaker": "Рейджи",
+    "ja": "……まあ、貴女が何も知らないのは",
+    "ru": "…Что ж, вы ничего не знаете, я понял."
+  },
+  {
+    "id": 6060,
+    "scene": "213",
+    "index": 201,
+    "action": 70800,
+    "group": "213:67",
+    "speaker": "Рейджи",
+    "ja": "わかりました。では、失礼。",
+    "ru": "Тогда позвольте откланяться."
+  },
+  {
+    "id": 6062,
+    "scene": "213",
+    "index": 203,
+    "action": 71460,
+    "group": "213:68",
+    "speaker": "#Name[2]",
+    "ja": "（アヤトくん……。",
+    "ru": "(Аято…"
+  },
+  {
+    "id": 6063,
+    "scene": "213",
+    "index": 204,
+    "action": 71524,
+    "group": "213:68",
+    "speaker": "#Name[2]",
+    "ja": "　今、そんなひどい状況なの？）",
+    "ru": "Тебе сейчас настолько плохо?)"
+  },
+  {
+    "id": 6065,
+    "scene": "213",
+    "index": 206,
+    "action": 71796,
+    "group": "213:69",
+    "speaker": "#Name[2]",
+    "ja": "（傍に行ったら、ルキくんのことが",
+    "ru": "(Если подойду к нему,"
+  },
+  {
+    "id": 6066,
+    "scene": "213",
+    "index": 207,
+    "action": 71876,
+    "group": "213:69",
+    "speaker": "#Name[2]",
+    "ja": "　知られてしまうかもしれない……。",
+    "ru": "он может узнать про Руки…"
+  },
+  {
+    "id": 6067,
+    "scene": "213",
+    "index": 208,
+    "action": 71956,
+    "group": "213:69",
+    "speaker": "#Name[2]",
+    "ja": "　でも……）",
+    "ru": "Но…)"
+  },
+  {
+    "id": 6069,
+    "scene": "213",
+    "index": 210,
+    "action": 72216,
+    "group": "213:70",
+    "speaker": "#Name[2]",
+    "ja": "（やっぱりアヤトくんが心配だよ。",
+    "ru": "(Всё равно беспокоюсь об Аято."
+  },
+  {
+    "id": 6070,
+    "scene": "213",
+    "index": 211,
+    "action": 72296,
+    "group": "213:70",
+    "speaker": "#Name[2]",
+    "ja": "　放っておけない……！）",
+    "ru": "Не могу его оставить…!)"
+  },
+  {
+    "id": 6072,
+    "scene": "213",
+    "index": 213,
+    "action": 72828,
+    "group": "213:71",
+    "speaker": "#Name[2]",
+    "ja": "（あ……。",
+    "ru": "(А…"
+  },
+  {
+    "id": 6073,
+    "scene": "213",
+    "index": 214,
+    "action": 72884,
+    "group": "213:71",
+    "speaker": "#Name[2]",
+    "ja": "　アヤトくんの部屋、",
+    "ru": "Дверь в комнату Аято"
+  },
+  {
+    "id": 6074,
+    "scene": "213",
+    "index": 215,
+    "action": 72952,
+    "group": "213:71",
+    "speaker": "#Name[2]",
+    "ja": "　扉が少し開いてる）",
+    "ru": "немного приоткрыта.)"
+  },
+  {
+    "id": 6076,
+    "scene": "213",
+    "index": 217,
+    "action": 73216,
+    "group": "213:72",
+    "speaker": "#Name[2]",
+    "ja": "あの……アヤトくん……？",
+    "ru": "Э-э… Аято…?"
+  },
+  {
+    "id": 6077,
+    "scene": "213",
+    "index": 218,
+    "action": 73288,
+    "group": "213:72",
+    "speaker": "#Name[2]",
+    "ja": "そこにいる？",
+    "ru": "Ты там?"
+  },
+  {
+    "id": 6079,
+    "scene": "213",
+    "index": 220,
+    "action": 73544,
+    "group": "213:73",
+    "speaker": "#Name[2]",
+    "ja": "（……返事がない）",
+    "ru": "(…Не отвечает.)"
+  },
+  {
+    "id": 6081,
+    "scene": "213",
+    "index": 222,
+    "action": 73680,
+    "group": "213:74",
+    "speaker": "#Name[2]",
+    "ja": "（いないのかな。",
+    "ru": "(Может, его нет."
+  },
+  {
+    "id": 6082,
+    "scene": "213",
+    "index": 223,
+    "action": 73744,
+    "group": "213:74",
+    "speaker": "#Name[2]",
+    "ja": "　少しだけ中を覗いて──）",
+    "ru": "Загляну чуть-чуть…)"
+  },
+  {
+    "id": 6084,
+    "scene": "213",
+    "index": 225,
+    "action": 74340,
+    "group": "213:75",
+    "speaker": "Аято",
+    "ja": "……くっ……",
+    "ru": "…Кх…"
+  },
+  {
+    "id": 6085,
+    "scene": "213",
+    "index": 226,
+    "action": 74400,
+    "group": "213:75",
+    "speaker": "Аято",
+    "ja": "はあ……。",
+    "ru": "Эх…"
+  },
+  {
+    "id": 6087,
+    "scene": "213",
+    "index": 228,
+    "action": 74620,
+    "group": "213:76",
+    "speaker": "#Name[2]",
+    "ja": "（アヤトくん……？）",
+    "ru": "(Аято…?)"
+  },
+  {
+    "id": 6089,
+    "scene": "213",
+    "index": 230,
+    "action": 74836,
+    "group": "213:77",
+    "speaker": "Аято",
+    "ja": "ああ……？　誰だ……？",
+    "ru": "А…? Кто…?"
+  },
+  {
+    "id": 6091,
+    "scene": "213",
+    "index": 232,
+    "action": 74976,
+    "group": "213:78",
+    "speaker": "#Name[2]",
+    "ja": "あ、あの……。",
+    "ru": "Э-э…"
+  },
+  {
+    "id": 6093,
+    "scene": "213",
+    "index": 234,
+    "action": 75468,
+    "group": "213:79",
+    "speaker": "Аято",
+    "ja": "んだよ、オマエか……。",
+    "ru": "Что, ты…"
+  },
+  {
+    "id": 6094,
+    "scene": "213",
+    "index": 235,
+    "action": 75536,
+    "group": "213:79",
+    "speaker": "Аято",
+    "ja": "チッ……。",
+    "ru": "Тц…"
+  },
+  {
+    "id": 6096,
+    "scene": "213",
+    "index": 237,
+    "action": 75664,
+    "group": "213:80",
+    "speaker": "#Name[2]",
+    "ja": "（アヤトくん、本当に顔色が",
+    "ru": "(Аято и правда"
+  },
+  {
+    "id": 6097,
+    "scene": "213",
+    "index": 238,
+    "action": 75736,
+    "group": "213:80",
+    "speaker": "#Name[2]",
+    "ja": "　よくない……）",
+    "ru": "очень бледный…)"
+  },
+  {
+    "id": 6099,
+    "scene": "213",
+    "index": 240,
+    "action": 76136,
+    "group": "213:81",
+    "speaker": "Аято",
+    "ja": "クク……オレから逃げたくせに、",
+    "ru": "Хе-хе… Сбежала от меня,"
+  },
+  {
+    "id": 6100,
+    "scene": "213",
+    "index": 241,
+    "action": 76212,
+    "group": "213:81",
+    "speaker": "Аято",
+    "ja": "今頃なんの用だ、ああ？",
+    "ru": "а теперь чего надо, а?"
+  },
+  {
+    "id": 6102,
+    "scene": "213",
+    "index": 243,
+    "action": 76352,
+    "group": "213:82",
+    "speaker": "#Name[2]",
+    "ja": "その……アヤトくん、",
+    "ru": "Я… Услышала,"
+  },
+  {
+    "id": 6103,
+    "scene": "213",
+    "index": 244,
+    "action": 76420,
+    "group": "213:82",
+    "speaker": "#Name[2]",
+    "ja": "具合がよくないって聞いたから",
+    "ru": "что тебе нехорошо,"
+  },
+  {
+    "id": 6104,
+    "scene": "213",
+    "index": 245,
+    "action": 76496,
+    "group": "213:82",
+    "speaker": "#Name[2]",
+    "ja": "大丈夫かなって……。",
+    "ru": "и хотела узнать, как ты…"
+  },
+  {
+    "id": 6106,
+    "scene": "213",
+    "index": 247,
+    "action": 76900,
+    "group": "213:83",
+    "speaker": "Аято",
+    "ja": "はあ？　んだよ、その理由。",
+    "ru": "А? Что за причина."
+  },
+  {
+    "id": 6107,
+    "scene": "213",
+    "index": 248,
+    "action": 76972,
+    "group": "213:83",
+    "speaker": "Аято",
+    "ja": "ばっかじゃねーの……クク……。",
+    "ru": "Ты совсем дура… Хе-хе…"
+  },
+  {
+    "id": 6109,
+    "scene": "213",
+    "index": 250,
+    "action": 77384,
+    "group": "213:84",
+    "speaker": "Аято",
+    "ja": "血ィ吸われる気もねーくせに、",
+    "ru": "Не собираешься давать кровь,"
+  },
+  {
+    "id": 6110,
+    "scene": "213",
+    "index": 251,
+    "action": 77460,
+    "group": "213:84",
+    "speaker": "Аято",
+    "ja": "ノコノコ来んじゃねえよ……。",
+    "ru": "так и не припирайся…"
+  },
+  {
+    "id": 6112,
+    "scene": "213",
+    "index": 253,
+    "action": 77732,
+    "group": "213:85",
+    "speaker": "#Name[2]",
+    "ja": "でも……その、",
+    "ru": "Но… Я"
+  },
+  {
+    "id": 6113,
+    "scene": "213",
+    "index": 254,
+    "action": 77792,
+    "group": "213:85",
+    "speaker": "#Name[2]",
+    "ja": "アヤトくんが心配で……。",
+    "ru": "беспокоюсь о тебе…"
+  },
+  {
+    "id": 6115,
+    "scene": "213",
+    "index": 256,
+    "action": 78564,
+    "group": "213:86",
+    "speaker": "Аято",
+    "ja": "ああ？　心配？",
+    "ru": "А? Беспокоишься?"
+  },
+  {
+    "id": 6117,
+    "scene": "213",
+    "index": 258,
+    "action": 78960,
+    "group": "213:87",
+    "speaker": "Аято",
+    "ja": "ククク……。",
+    "ru": "Хе-хе…"
+  },
+  {
+    "id": 6118,
+    "scene": "213",
+    "index": 259,
+    "action": 79020,
+    "group": "213:87",
+    "speaker": "Аято",
+    "ja": "オマエって女は……どこまで",
+    "ru": "Ну ты и женщина…"
+  },
+  {
+    "id": 6119,
+    "scene": "213",
+    "index": 260,
+    "action": 79092,
+    "group": "213:87",
+    "speaker": "Аято",
+    "ja": "自惚れりゃあ気がすむんだ……？",
+    "ru": "Сколько ещё будешь о себе воображать?"
+  },
+  {
+    "id": 6121,
+    "scene": "213",
+    "index": 262,
+    "action": 79504,
+    "group": "213:88",
+    "speaker": "Аято",
+    "ja": "……っ……。",
+    "ru": "…"
+  },
+  {
+    "id": 6123,
+    "scene": "213",
+    "index": 264,
+    "action": 79760,
+    "group": "213:89",
+    "speaker": "#Name[2]",
+    "ja": "（で、でも……やっぱり",
+    "ru": "(Но… Всё-таки"
+  },
+  {
+    "id": 6124,
+    "scene": "213",
+    "index": 265,
+    "action": 79828,
+    "group": "213:89",
+    "speaker": "#Name[2]",
+    "ja": "　アヤトくん、すごく苦しそう）",
+    "ru": "Аято, кажется, очень плохо.)"
+  },
+  {
+    "id": 6126,
+    "scene": "213",
+    "index": 267,
+    "action": 80052,
+    "group": "213:90",
+    "speaker": "Аято",
+    "ja": "……クッソ……。",
+    "ru": "…Чёрт…"
+  },
+  {
+    "id": 6127,
+    "scene": "213",
+    "index": 268,
+    "action": 80116,
+    "group": "213:90",
+    "speaker": "Аято",
+    "ja": "はあ……っ……。",
+    "ru": "Ах…"
+  },
+  {
+    "id": 6129,
+    "scene": "213",
+    "index": 270,
+    "action": 80328,
+    "group": "213:91",
+    "speaker": "Аято",
+    "ja": "……オマエなんかの血……、",
+    "ru": "…Без твоей крови…"
+  },
+  {
+    "id": 6130,
+    "scene": "213",
+    "index": 271,
+    "action": 80400,
+    "group": "213:91",
+    "speaker": "Аято",
+    "ja": "なくったって……。",
+    "ru": "Я и так…"
+  },
+  {
+    "id": 6132,
+    "scene": "213",
+    "index": 273,
+    "action": 80536,
+    "group": "213:92",
+    "speaker": "#Name[2]",
+    "ja": "ア、アヤトくん……。",
+    "ru": "А-Аято…"
+  },
+  {
+    "id": 6134,
+    "scene": "213",
+    "index": 275,
+    "action": 81068,
+    "group": "213:93",
+    "speaker": "Аято",
+    "ja": "来るな！",
+    "ru": "Не подходи!"
+  },
+  {
+    "id": 6136,
+    "scene": "213",
+    "index": 277,
+    "action": 81272,
+    "group": "213:94",
+    "speaker": "Аято",
+    "ja": "オマエなんかただのエサだ。",
+    "ru": "Ты просто корм."
+  },
+  {
+    "id": 6137,
+    "scene": "213",
+    "index": 278,
+    "action": 81344,
+    "group": "213:94",
+    "speaker": "Аято",
+    "ja": "食われるために自分から近寄って",
+    "ru": "Не нужен мне корм,"
+  },
+  {
+    "id": 6138,
+    "scene": "213",
+    "index": 279,
+    "action": 81420,
+    "group": "213:94",
+    "speaker": "Аято",
+    "ja": "来るエサなんか、欲しくもねーよ……。",
+    "ru": "который сам идёт, чтобы его съели…"
+  },
+  {
+    "id": 6140,
+    "scene": "213",
+    "index": 281,
+    "action": 81840,
+    "group": "213:95",
+    "speaker": "Аято",
+    "ja": "……っ……。",
+    "ru": "…"
+  },
+  {
+    "id": 6142,
+    "scene": "213",
+    "index": 283,
+    "action": 82236,
+    "group": "213:96",
+    "speaker": "Аято",
+    "ja": "くぅっ……あ……。",
+    "ru": "Кх… А…"
+  },
+  {
+    "id": 6144,
+    "scene": "213",
+    "index": 285,
+    "action": 82496,
+    "group": "213:97",
+    "speaker": "#Name[2]",
+    "ja": "（でも……、こんなに苦しそうな",
+    "ru": "(Но я впервые вижу,"
+  },
+  {
+    "id": 6145,
+    "scene": "213",
+    "index": 286,
+    "action": 82572,
+    "group": "213:97",
+    "speaker": "#Name[2]",
+    "ja": "　アヤトくんは初めて見る。",
+    "ru": "чтобы Аято было так плохо."
+  },
+  {
+    "id": 6146,
+    "scene": "213",
+    "index": 287,
+    "action": 82644,
+    "group": "213:97",
+    "speaker": "#Name[2]",
+    "ja": "　やっぱり放っておけないよ）",
+    "ru": "Я не могу его оставить.)"
+  },
+  {
+    "id": 6148,
+    "scene": "213",
+    "index": 289,
+    "action": 82792,
+    "group": "213:98",
+    "speaker": "#Name[2]",
+    "ja": "（何か……。",
+    "ru": "(Хоть что-нибудь…"
+  },
+  {
+    "id": 6149,
+    "scene": "213",
+    "index": 290,
+    "action": 82852,
+    "group": "213:98",
+    "speaker": "#Name[2]",
+    "ja": "　何か私にできることは……）",
+    "ru": "Что я могу сделать…)"
+  },
+  {
+    "id": 6151,
+    "scene": "213",
+    "index": 292,
+    "action": 83124,
+    "group": "213:99",
+    "speaker": "#Name[2]",
+    "ja": "（私にできることなんか……",
+    "ru": "(Я ведь могу сделать…"
+  },
+  {
+    "id": 6152,
+    "scene": "213",
+    "index": 293,
+    "action": 83196,
+    "group": "213:99",
+    "speaker": "#Name[2]",
+    "ja": "　たったひとつだけしかないじゃない）",
+    "ru": "только одно.)"
+  },
+  {
+    "id": 6154,
+    "scene": "213",
+    "index": 295,
+    "action": 83432,
+    "group": "213:100",
+    "speaker": "#Name[2]",
+    "ja": "……アヤトくん。",
+    "ru": "…Аято."
+  },
+  {
+    "id": 6156,
+    "scene": "213",
+    "index": 297,
+    "action": 83568,
+    "group": "213:101",
+    "speaker": "#Name[2]",
+    "ja": "私の血を……吸って。",
+    "ru": "Выпей… моей крови."
+  },
+  {
+    "id": 6158,
+    "scene": "213",
+    "index": 299,
+    "action": 83972,
+    "group": "213:102",
+    "speaker": "Аято",
+    "ja": "……はあ？",
+    "ru": "…А?"
+  },
+  {
+    "id": 6159,
+    "scene": "213",
+    "index": 300,
+    "action": 84028,
+    "group": "213:102",
+    "speaker": "Аято",
+    "ja": "何、言ってんだよ……。",
+    "ru": "Что ты говоришь…"
+  },
+  {
+    "id": 6161,
+    "scene": "213",
+    "index": 302,
+    "action": 84168,
+    "group": "213:103",
+    "speaker": "#Name[2]",
+    "ja": "苦しんでるアヤトくんを",
+    "ru": "Я больше не хочу"
+  },
+  {
+    "id": 6162,
+    "scene": "213",
+    "index": 303,
+    "action": 84236,
+    "group": "213:103",
+    "speaker": "#Name[2]",
+    "ja": "これ以上見たくないの……。",
+    "ru": "видеть, как ты мучаешься…"
+  },
+  {
+    "id": 6164,
+    "scene": "213",
+    "index": 305,
+    "action": 84648,
+    "group": "213:104",
+    "speaker": "Аято",
+    "ja": "……クク……",
+    "ru": "…Хе-хе…"
+  },
+  {
+    "id": 6165,
+    "scene": "213",
+    "index": 306,
+    "action": 84708,
+    "group": "213:104",
+    "speaker": "Аято",
+    "ja": "エサの分際ででかい口",
+    "ru": "Ты всего лишь корм,"
+  },
+  {
+    "id": 6166,
+    "scene": "213",
+    "index": 307,
+    "action": 84776,
+    "group": "213:104",
+    "speaker": "Аято",
+    "ja": "叩きやがって……。",
+    "ru": "а столько на себя берёшь…"
+  },
+  {
+    "id": 6168,
+    "scene": "213",
+    "index": 309,
+    "action": 86080,
+    "group": "213:105",
+    "speaker": "Аято",
+    "ja": "チッ、……ああ、いいぜ……。",
+    "ru": "Тц… А, ладно…"
+  },
+  {
+    "id": 6169,
+    "scene": "213",
+    "index": 310,
+    "action": 86156,
+    "group": "213:105",
+    "speaker": "Аято",
+    "ja": "お望みどおり、吸ってやるよ……。",
+    "ru": "Как хочешь, выпью…"
+  },
+  {
+    "id": 6171,
+    "scene": "213",
+    "index": 312,
+    "action": 86572,
+    "group": "213:106",
+    "speaker": "Аято",
+    "ja": "クク……クク……！",
+    "ru": "Хе-хе… Ха-ха…!"
+  },
+  {
+    "id": 6173,
+    "scene": "213",
+    "index": 314,
+    "action": 86784,
+    "group": "213:107",
+    "speaker": "Аято",
+    "ja": "エサはエサらしく、黙って食われろ！",
+    "ru": "Ты добыча, так молчи и дай себя выпить!"
+  },
+  {
+    "id": 6174,
+    "scene": "213",
+    "index": 315,
+    "action": 86864,
+    "group": "213:107",
+    "speaker": "Аято",
+    "ja": "んん……ッ！",
+    "ru": "М-м…!"
+  },
+  {
+    "id": 6176,
+    "scene": "213",
+    "index": 317,
+    "action": 87156,
+    "group": "213:108",
+    "speaker": "#Name[2]",
+    "ja": "い、いたっ！",
+    "ru": "А-ай, больно!"
+  },
+  {
+    "id": 6178,
+    "scene": "213",
+    "index": 319,
+    "action": 87556,
+    "group": "213:109",
+    "speaker": "Аято",
+    "ja": "んだよ、吸われてえんだろ？",
+    "ru": "Чего ноешь? Ты же сама этого хотела."
+  },
+  {
+    "id": 6179,
+    "scene": "213",
+    "index": 320,
+    "action": 87628,
+    "group": "213:109",
+    "speaker": "Аято",
+    "ja": "我慢しろよ、クク……。",
+    "ru": "Терпи давай, хе-хе…"
+  },
+  {
+    "id": 6181,
+    "scene": "213",
+    "index": 322,
+    "action": 88036,
+    "group": "213:110",
+    "speaker": "Аято",
+    "ja": "ん……っ……。",
+    "ru": "М-м… гх…"
+  },
+  {
+    "id": 6183,
+    "scene": "213",
+    "index": 324,
+    "action": 88244,
+    "group": "213:111",
+    "speaker": "Аято",
+    "ja": "ふっ……んん……。",
+    "ru": "Ха… м-м…"
+  },
+  {
+    "id": 6185,
+    "scene": "213",
+    "index": 326,
+    "action": 88504,
+    "group": "213:112",
+    "speaker": "#Name[2]",
+    "ja": "（……私、血を吸われるのが",
+    "ru": "(…Ведь мне всегда было противно,"
+  },
+  {
+    "id": 6186,
+    "scene": "213",
+    "index": 327,
+    "action": 88576,
+    "group": "213:112",
+    "speaker": "#Name[2]",
+    "ja": "　嫌だったはずなのに……）",
+    "ru": "когда у меня пьют кровь…)"
+  },
+  {
+    "id": 6188,
+    "scene": "213",
+    "index": 329,
+    "action": 88844,
+    "group": "213:113",
+    "speaker": "#Name[2]",
+    "ja": "（苦しそうなアヤトくんを放って",
+    "ru": "(Но я не смогла бросить Аято,"
+  },
+  {
+    "id": 6189,
+    "scene": "213",
+    "index": 330,
+    "action": 88920,
+    "group": "213:113",
+    "speaker": "#Name[2]",
+    "ja": "　おくことができなくて、自分から",
+    "ru": "когда ему было так тяжело,"
+  },
+  {
+    "id": 6190,
+    "scene": "213",
+    "index": 331,
+    "action": 89000,
+    "group": "213:113",
+    "speaker": "#Name[2]",
+    "ja": "　吸ってもらおうとするなんて……）",
+    "ru": "и сама предложила свою кровь…)"
+  },
+  {
+    "id": 6192,
+    "scene": "213",
+    "index": 333,
+    "action": 89228,
+    "group": "213:114",
+    "speaker": "Аято",
+    "ja": "……っ……ふ、",
+    "ru": "…Гх… ха…"
+  },
+  {
+    "id": 6193,
+    "scene": "213",
+    "index": 334,
+    "action": 89288,
+    "group": "213:114",
+    "speaker": "Аято",
+    "ja": "……んんっ……。",
+    "ru": "…М-м…!"
+  },
+  {
+    "id": 6195,
+    "scene": "213",
+    "index": 336,
+    "action": 89500,
+    "group": "213:115",
+    "speaker": "Аято",
+    "ja": "っ……んんっ……",
+    "ru": "Гх… м-м…"
+  },
+  {
+    "id": 6196,
+    "scene": "213",
+    "index": 337,
+    "action": 89564,
+    "group": "213:115",
+    "speaker": "Аято",
+    "ja": "……ふ、……っ。",
+    "ru": "…Ха… гх…"
+  },
+  {
+    "id": 6198,
+    "scene": "213",
+    "index": 339,
+    "action": 89824,
+    "group": "213:116",
+    "speaker": "#Name[2]",
+    "ja": "（それどころか……",
+    "ru": "(Более того…"
+  },
+  {
+    "id": 6199,
+    "scene": "213",
+    "index": 340,
+    "action": 89888,
+    "group": "213:116",
+    "speaker": "#Name[2]",
+    "ja": "　こうして血を吸われて",
+    "ru": "Сейчас, когда он пьёт мою кровь,"
+  },
+  {
+    "id": 6200,
+    "scene": "213",
+    "index": 341,
+    "action": 89956,
+    "group": "213:116",
+    "speaker": "#Name[2]",
+    "ja": "　どこか安心してる……）",
+    "ru": "мне почему-то даже спокойно…)"
+  },
+  {
+    "id": 6202,
+    "scene": "213",
+    "index": 343,
+    "action": 90100,
+    "group": "213:117",
+    "speaker": "#Name[2]",
+    "ja": "（……アヤトくんを拒めない）",
+    "ru": "(…Я не могу оттолкнуть Аято)"
+  },
+  {
+    "id": 6203,
+    "scene": "213",
+    "index": 344,
+    "action": 90472,
+    "group": "213:118",
+    "speaker": "#Name[2]",
+    "ja": "アヤトくんに血を吸われることで、",
+    "ru": "Я вдруг осознала, что чувствую"
+  },
+  {
+    "id": 6204,
+    "scene": "213",
+    "index": 345,
+    "action": 90552,
+    "group": "213:118",
+    "speaker": "#Name[2]",
+    "ja": "どこか安堵している自分の気持ちに",
+    "ru": "какое-то странное облегчение от того,"
+  },
+  {
+    "id": 6205,
+    "scene": "213",
+    "index": 346,
+    "action": 90632,
+    "group": "213:118",
+    "speaker": "#Name[2]",
+    "ja": "気づいてしまった。",
+    "ru": "что именно Аято пьёт мою кровь."
+  },
+  {
+    "id": 6206,
+    "scene": "213",
+    "index": 348,
+    "action": 90760,
+    "group": "213:119",
+    "speaker": "#Name[2]",
+    "ja": "私には、アヤトくんを拒むことも、",
+    "ru": "Я не в силах ни отвергнуть его,"
+  },
+  {
+    "id": 6207,
+    "scene": "213",
+    "index": 349,
+    "action": 90840,
+    "group": "213:119",
+    "speaker": "#Name[2]",
+    "ja": "放っておくこともできない。",
+    "ru": "ни оставить в беде."
+  },
+  {
+    "id": 6208,
+    "scene": "213",
+    "index": 351,
+    "action": 90976,
+    "group": "213:120",
+    "speaker": "#Name[2]",
+    "ja": "もしそれが支配されているからなのだとしても、",
+    "ru": "Пусть это лишь его власть надо мной,"
+  },
+  {
+    "id": 6209,
+    "scene": "213",
+    "index": 352,
+    "action": 91068,
+    "group": "213:120",
+    "speaker": "#Name[2]",
+    "ja": "こうして安心している自分の気持ちは",
+    "ru": "чувство покоя, охватившее меня сейчас,"
+  },
+  {
+    "id": 6210,
+    "scene": "213",
+    "index": 353,
+    "action": 91148,
+    "group": "213:120",
+    "speaker": "#Name[2]",
+    "ja": "本物だと思うから――。",
+    "ru": "кажется мне совершенно искренним――"
+  },
+  {
+    "id": 6211,
+    "scene": "213",
+    "index": 355,
+    "action": 91280,
+    "group": "213:121",
+    "speaker": "#Name[2]",
+    "ja": "それに、アヤトくんはどうして",
+    "ru": "К тому же… почему он"
+  },
+  {
+    "id": 6212,
+    "scene": "213",
+    "index": 356,
+    "action": 91356,
+    "group": "213:121",
+    "speaker": "#Name[2]",
+    "ja": "こんなに苦しそうなんだろう……？",
+    "ru": "так сильно мучается…?"
+  },
+  {
+    "id": 6213,
+    "scene": "213",
+    "index": 357,
+    "action": 91436,
+    "group": "213:121",
+    "speaker": "#Name[2]",
+    "ja": "まるで、血に飢えた獣のようだ。",
+    "ru": "Словно изголодавшийся по крови зверь."
+  },
+  {
+    "id": 6214,
+    "scene": "213",
+    "index": 359,
+    "action": 91576,
+    "group": "213:122",
+    "speaker": "#Name[2]",
+    "ja": "今の彼は目の前の獲物に夢中で、",
+    "ru": "Сейчас он был увлечён своей добычей"
+  },
+  {
+    "id": 6215,
+    "scene": "213",
+    "index": 360,
+    "action": 91652,
+    "group": "213:122",
+    "speaker": "#Name[2]",
+    "ja": "自分のエサを他人に荒されたことには",
+    "ru": "и, казалось, даже не заметил,"
+  },
+  {
+    "id": 6216,
+    "scene": "213",
+    "index": 361,
+    "action": 91732,
+    "group": "213:122",
+    "speaker": "#Name[2]",
+    "ja": "気づいていないようだった。",
+    "ru": "как до его «еды» уже добрался кто-то другой."
+  },
+  {
+    "id": 6217,
+    "scene": "213",
+    "index": 363,
+    "action": 91868,
+    "group": "213:123",
+    "speaker": "#Name[2]",
+    "ja": "早く彼の苦しみが癒えればいいのに。",
+    "ru": "Пусть его страдания поскорее утихнут."
+  },
+  {
+    "id": 6218,
+    "scene": "213",
+    "index": 364,
+    "action": 91948,
+    "group": "213:123",
+    "speaker": "#Name[2]",
+    "ja": "私の血を吸うことでそれが治まるなら、私は……。",
+    "ru": "И если моя кровь облегчит эту боль, я…"
+  }
+]

@@ -1,0 +1,1139 @@
+[
+  {
+    "id": 8750,
+    "scene": "224",
+    "index": 0,
+    "action": 45384,
+    "group": "224:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "『あの人が愛しているのは",
+    "ru": "«Она любит",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8751,
+    "scene": "224",
+    "index": 1,
+    "action": 45456,
+    "group": "224:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "　カールハインツだけだよ』",
+    "ru": "только Карлхайнца».",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8752,
+    "scene": "224",
+    "index": 3,
+    "action": 45592,
+    "group": "224:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "あの日のライトの言葉は、",
+    "ru": "Слова Райто, сказанные в тот день,",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8753,
+    "scene": "224",
+    "index": 4,
+    "action": 45664,
+    "group": "224:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "今もオレの耳にこびりついている。",
+    "ru": "до сих пор звучат у меня в ушах.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8755,
+    "scene": "224",
+    "index": 7,
+    "action": 46472,
+    "group": "224:2",
+    "speaker": "Корделия",
+    "ja": "はぁ……。",
+    "ru": "Ах…"
+  },
+  {
+    "id": 8757,
+    "scene": "224",
+    "index": 9,
+    "action": 46760,
+    "group": "224:3",
+    "speaker": "Корделия",
+    "ja": "ねえ、アヤト。変なところはない？",
+    "ru": "Аято, я нормально выгляжу?"
+  },
+  {
+    "id": 8758,
+    "scene": "224",
+    "index": 10,
+    "action": 46840,
+    "group": "224:3",
+    "speaker": "Корделия",
+    "ja": "皺があったら言ってちょうだい。",
+    "ru": "Если есть складки, скажи."
+  },
+  {
+    "id": 8759,
+    "scene": "224",
+    "index": 11,
+    "action": 46916,
+    "group": "224:3",
+    "speaker": "Корделия",
+    "ja": "すぐに着替えないと。",
+    "ru": "Надо сразу переодеться."
+  },
+  {
+    "id": 8761,
+    "scene": "224",
+    "index": 13,
+    "action": 47572,
+    "group": "224:4",
+    "speaker": "Аято",
+    "ja": "別に平気だよ。何かあるの？",
+    "ru": "Всё нормально. А что такое?"
+  },
+  {
+    "id": 8763,
+    "scene": "224",
+    "index": 15,
+    "action": 47984,
+    "group": "224:5",
+    "speaker": "Корделия",
+    "ja": "今夜はあの人が来るのよ！",
+    "ru": "Сегодня вечером он придёт!"
+  },
+  {
+    "id": 8764,
+    "scene": "224",
+    "index": 16,
+    "action": 48056,
+    "group": "224:5",
+    "speaker": "Корделия",
+    "ja": "愛しい愛しいカールハインツがね。",
+    "ru": "Мой любимый, любимый Карлхайнц."
+  },
+  {
+    "id": 8766,
+    "scene": "224",
+    "index": 18,
+    "action": 48480,
+    "group": "224:6",
+    "speaker": "Аято",
+    "ja": "ああ……。",
+    "ru": "А…"
+  },
+  {
+    "id": 8768,
+    "scene": "224",
+    "index": 20,
+    "action": 48688,
+    "group": "224:7",
+    "speaker": "Корделия",
+    "ja": "アタシに会いにきてくれるの。",
+    "ru": "Он придёт повидаться со мной."
+  },
+  {
+    "id": 8770,
+    "scene": "224",
+    "index": 22,
+    "action": 48916,
+    "group": "224:8",
+    "speaker": "Корделия",
+    "ja": "だからアンタも、今夜は静かに",
+    "ru": "Поэтому и ты сегодня вечером"
+  },
+  {
+    "id": 8771,
+    "scene": "224",
+    "index": 23,
+    "action": 48992,
+    "group": "224:8",
+    "speaker": "Корделия",
+    "ja": "大人しくしていてちょうだいね。",
+    "ru": "веди себя тихо и послушно."
+  },
+  {
+    "id": 8772,
+    "scene": "224",
+    "index": 24,
+    "action": 49068,
+    "group": "224:8",
+    "speaker": "Корделия",
+    "ja": "ライトやカナトにも言っておいて。",
+    "ru": "Райто и Канато тоже скажи."
+  },
+  {
+    "id": 8774,
+    "scene": "224",
+    "index": 26,
+    "action": 49296,
+    "group": "224:9",
+    "speaker": "Аято",
+    "ja": "…………母さんは、",
+    "ru": "…Мама,"
+  },
+  {
+    "id": 8775,
+    "scene": "224",
+    "index": 27,
+    "action": 49360,
+    "group": "224:9",
+    "speaker": "Аято",
+    "ja": "あいつのどこが",
+    "ru": "что тебе в нём"
+  },
+  {
+    "id": 8776,
+    "scene": "224",
+    "index": 28,
+    "action": 49420,
+    "group": "224:9",
+    "speaker": "Аято",
+    "ja": "そんなに好きなわけ？",
+    "ru": "так нравится?"
+  },
+  {
+    "id": 8778,
+    "scene": "224",
+    "index": 30,
+    "action": 49640,
+    "group": "224:10",
+    "speaker": "Корделия",
+    "ja": "どこ？　そんなの決まってるわ、",
+    "ru": "Что? Ну конечно же,"
+  },
+  {
+    "id": 8779,
+    "scene": "224",
+    "index": 31,
+    "action": 49716,
+    "group": "224:10",
+    "speaker": "Корделия",
+    "ja": "すべてよ。",
+    "ru": "всё."
+  },
+  {
+    "id": 8781,
+    "scene": "224",
+    "index": 33,
+    "action": 49924,
+    "group": "224:11",
+    "speaker": "Корделия",
+    "ja": "出会った瞬間、あの人はアタシの",
+    "ru": "В миг нашей встречи он без остатка"
+  },
+  {
+    "id": 8782,
+    "scene": "224",
+    "index": 34,
+    "action": 50000,
+    "group": "224:11",
+    "speaker": "Корделия",
+    "ja": "身も心も根こそぎ奪ってしまったの。",
+    "ru": "завладел моим телом и душой."
+  },
+  {
+    "id": 8784,
+    "scene": "224",
+    "index": 36,
+    "action": 50232,
+    "group": "224:12",
+    "speaker": "Корделия",
+    "ja": "初めて会ったのは舞踏会だった。",
+    "ru": "Мы впервые встретились на балу."
+  },
+  {
+    "id": 8785,
+    "scene": "224",
+    "index": 37,
+    "action": 50308,
+    "group": "224:12",
+    "speaker": "Корделия",
+    "ja": "今でも覚えているわ。あの人が現れた",
+    "ru": "Я до сих пор помню, как изменилась"
+  },
+  {
+    "id": 8786,
+    "scene": "224",
+    "index": 38,
+    "action": 50388,
+    "group": "224:12",
+    "speaker": "Корделия",
+    "ja": "途端に変わった、あの空気。",
+    "ru": "атмосфера, когда он появился."
+  },
+  {
+    "id": 8788,
+    "scene": "224",
+    "index": 40,
+    "action": 50612,
+    "group": "224:13",
+    "speaker": "Корделия",
+    "ja": "男も女も彼に見入っていた。",
+    "ru": "И мужчины, и женщины смотрели на него."
+  },
+  {
+    "id": 8789,
+    "scene": "224",
+    "index": 41,
+    "action": 50684,
+    "group": "224:13",
+    "speaker": "Корделия",
+    "ja": "今夜、彼に誘われる幸運な女は誰だと",
+    "ru": "Все гадали, какой счастливице"
+  },
+  {
+    "id": 8790,
+    "scene": "224",
+    "index": 42,
+    "action": 50764,
+    "group": "224:13",
+    "speaker": "Корделия",
+    "ja": "誰もが注目していたわ。",
+    "ru": "он предложит танец в этот вечер."
+  },
+  {
+    "id": 8792,
+    "scene": "224",
+    "index": 44,
+    "action": 50984,
+    "group": "224:14",
+    "speaker": "Корделия",
+    "ja": "そしてあの人は……アタシに",
+    "ru": "И он… протянул"
+  },
+  {
+    "id": 8793,
+    "scene": "224",
+    "index": 45,
+    "action": 51056,
+    "group": "224:14",
+    "speaker": "Корделия",
+    "ja": "手を差し伸べてくれた。",
+    "ru": "руку мне."
+  },
+  {
+    "id": 8795,
+    "scene": "224",
+    "index": 47,
+    "action": 51276,
+    "group": "224:15",
+    "speaker": "Корделия",
+    "ja": "柔らかい笑みを浮かべながら、",
+    "ru": "С мягкой улыбкой спросил:"
+  },
+  {
+    "id": 8796,
+    "scene": "224",
+    "index": 48,
+    "action": 51352,
+    "group": "224:15",
+    "speaker": "Корделия",
+    "ja": "私と踊って頂けますかってね。",
+    "ru": "«Не потанцуете ли вы со мной?»"
+  },
+  {
+    "id": 8798,
+    "scene": "224",
+    "index": 50,
+    "action": 51580,
+    "group": "224:16",
+    "speaker": "Корделия",
+    "ja": "あの時、アタシは直感したのよ。",
+    "ru": "В тот миг я сразу поняла."
+  },
+  {
+    "id": 8799,
+    "scene": "224",
+    "index": 51,
+    "action": 51656,
+    "group": "224:16",
+    "speaker": "Корделия",
+    "ja": "この男は世界一の男。アタシに最も",
+    "ru": "Он лучший мужчина в мире."
+  },
+  {
+    "id": 8800,
+    "scene": "224",
+    "index": 52,
+    "action": 51736,
+    "group": "224:16",
+    "speaker": "Корделия",
+    "ja": "相応しい男だわって。",
+    "ru": "Именно такой мужчина мне и нужен."
+  },
+  {
+    "id": 8802,
+    "scene": "224",
+    "index": 54,
+    "action": 51956,
+    "group": "224:17",
+    "speaker": "Корделия",
+    "ja": "あの瞬間から、カールハインツは",
+    "ru": "С того мгновения Карлхайнц стал"
+  },
+  {
+    "id": 8803,
+    "scene": "224",
+    "index": 55,
+    "action": 52032,
+    "group": "224:17",
+    "speaker": "Корделия",
+    "ja": "アタシの特別な男になったのよ。",
+    "ru": "для меня особенным мужчиной."
+  },
+  {
+    "id": 8805,
+    "scene": "224",
+    "index": 57,
+    "action": 52256,
+    "group": "224:18",
+    "speaker": "Аято",
+    "ja": "（……カールハインツが",
+    "ru": "(…Если Карлхайнц ―"
+  },
+  {
+    "id": 8806,
+    "scene": "224",
+    "index": 58,
+    "action": 52324,
+    "group": "224:18",
+    "speaker": "Аято",
+    "ja": "　世界一の男なら、",
+    "ru": "лучший мужчина в мире,"
+  },
+  {
+    "id": 8807,
+    "scene": "224",
+    "index": 59,
+    "action": 52388,
+    "group": "224:18",
+    "speaker": "Аято",
+    "ja": "　その息子であるオレ様は？）",
+    "ru": "то кто тогда я, его сын?)"
+  },
+  {
+    "id": 8809,
+    "scene": "224",
+    "index": 61,
+    "action": 52808,
+    "group": "224:19",
+    "speaker": "Аято",
+    "ja": "（なあ、母さん……）",
+    "ru": "(Скажи, мама…)"
+  },
+  {
+    "id": 8811,
+    "scene": "224",
+    "index": 63,
+    "action": 53336,
+    "group": "224:20",
+    "speaker": "Корделия",
+    "ja": "っ……来たわ！",
+    "ru": "…Он пришёл!"
+  },
+  {
+    "id": 8813,
+    "scene": "224",
+    "index": 65,
+    "action": 54416,
+    "group": "224:21",
+    "speaker": "Дворецкий",
+    "ja": "失礼いたします。",
+    "ru": "Прошу прощения."
+  },
+  {
+    "id": 8814,
+    "scene": "224",
+    "index": 66,
+    "action": 54480,
+    "group": "224:21",
+    "speaker": "Дворецкий",
+    "ja": "コーデリア様、カールハインツ様より",
+    "ru": "Госпожа Корделия, господин Карлхайнц"
+  },
+  {
+    "id": 8815,
+    "scene": "224",
+    "index": 67,
+    "action": 54560,
+    "group": "224:21",
+    "speaker": "Дворецкий",
+    "ja": "ご伝言を承っております。",
+    "ru": "поручил передать вам сообщение."
+  },
+  {
+    "id": 8817,
+    "scene": "224",
+    "index": 69,
+    "action": 54780,
+    "group": "224:22",
+    "speaker": "Дворецкий",
+    "ja": "『今夜は忙しくて伺えない。",
+    "ru": "«Сегодня я занят и не смогу прийти."
+  },
+  {
+    "id": 8818,
+    "scene": "224",
+    "index": 70,
+    "action": 54852,
+    "group": "224:22",
+    "speaker": "Дворецкий",
+    "ja": "埋め合わせは今度する』と。",
+    "ru": "В другой раз я это заглажу»."
+  },
+  {
+    "id": 8819,
+    "scene": "224",
+    "index": 71,
+    "action": 54924,
+    "group": "224:22",
+    "speaker": "Дворецкий",
+    "ja": "この薔薇はお詫びの品だそうです。",
+    "ru": "Эту розу он прислал в знак извинения."
+  },
+  {
+    "id": 8821,
+    "scene": "224",
+    "index": 73,
+    "action": 55788,
+    "group": "224:23",
+    "speaker": "Корделия",
+    "ja": "……そう。また来ないつもりなの。",
+    "ru": "…Вот как. Снова не придёт."
+  },
+  {
+    "id": 8822,
+    "scene": "224",
+    "index": 74,
+    "action": 55868,
+    "group": "224:23",
+    "speaker": "Корделия",
+    "ja": "ッ……あの男ゝ",
+    "ru": "…Ах он…!"
+  },
+  {
+    "id": 8824,
+    "scene": "224",
+    "index": 76,
+    "action": 56192,
+    "group": "224:24",
+    "speaker": "Корделия",
+    "ja": "前の満月の晩もそうだったわ！",
+    "ru": "В прошлое полнолуние было так же!"
+  },
+  {
+    "id": 8825,
+    "scene": "224",
+    "index": 77,
+    "action": 56268,
+    "group": "224:24",
+    "speaker": "Корделия",
+    "ja": "その前も、その前の前もゝ",
+    "ru": "И до этого, и ещё раньше!"
+  },
+  {
+    "id": 8827,
+    "scene": "224",
+    "index": 79,
+    "action": 56492,
+    "group": "224:25",
+    "speaker": "Корделия",
+    "ja": "このアタシより、あのクソ女たちを",
+    "ru": "Он предпочитает мне"
+  },
+  {
+    "id": 8828,
+    "scene": "224",
+    "index": 80,
+    "action": 56572,
+    "group": "224:25",
+    "speaker": "Корделия",
+    "ja": "選ぶって言うのゞ　忌々しい！",
+    "ru": "этих чёртовых баб?! Проклятье!"
+  },
+  {
+    "id": 8830,
+    "scene": "224",
+    "index": 82,
+    "action": 56992,
+    "group": "224:26",
+    "speaker": "Аято",
+    "ja": "（……青い薔薇）",
+    "ru": "(…Синяя роза.)"
+  },
+  {
+    "id": 8832,
+    "scene": "224",
+    "index": 84,
+    "action": 57204,
+    "group": "224:27",
+    "speaker": "Аято",
+    "ja": "（花言葉は『不可能』……。",
+    "ru": "(На языке цветов ― «невозможное»…"
+  },
+  {
+    "id": 8833,
+    "scene": "224",
+    "index": 85,
+    "action": 57276,
+    "group": "224:27",
+    "speaker": "Аято",
+    "ja": "　はっ、自分には不可能なことなんて",
+    "ru": "Ха, он хочет сказать, что для него"
+  },
+  {
+    "id": 8834,
+    "scene": "224",
+    "index": 86,
+    "action": 57356,
+    "group": "224:27",
+    "speaker": "Аято",
+    "ja": "　ないとでも言ってるつもりかよ）",
+    "ru": "нет ничего невозможного?)"
+  },
+  {
+    "id": 8836,
+    "scene": "224",
+    "index": 88,
+    "action": 57584,
+    "group": "224:28",
+    "speaker": "Аято",
+    "ja": "（こんなもの……ちょっと踏めば",
+    "ru": "(А ведь её… стоит наступить,"
+  },
+  {
+    "id": 8837,
+    "scene": "224",
+    "index": 89,
+    "action": 57660,
+    "group": "224:28",
+    "speaker": "Аято",
+    "ja": "　すぐに潰れるのに）",
+    "ru": "и она сразу превратится в месиво.)"
+  },
+  {
+    "id": 8839,
+    "scene": "224",
+    "index": 91,
+    "action": 58040,
+    "group": "224:29",
+    "speaker": "Корделия",
+    "ja": "っ！　アヤトゝ",
+    "ru": "…Аято?!"
+  },
+  {
+    "id": 8841,
+    "scene": "224",
+    "index": 93,
+    "action": 58880,
+    "group": "224:30",
+    "speaker": "Корделия",
+    "ja": "アンタ、何やってんのよゝ",
+    "ru": "Что ты делаешь?!"
+  },
+  {
+    "id": 8843,
+    "scene": "224",
+    "index": 95,
+    "action": 59100,
+    "group": "224:31",
+    "speaker": "Аято",
+    "ja": "ッ……！",
+    "ru": "…!"
+  },
+  {
+    "id": 8845,
+    "scene": "224",
+    "index": 97,
+    "action": 59308,
+    "group": "224:32",
+    "speaker": "Корделия",
+    "ja": "あの人からの贈り物を汚れた足で",
+    "ru": "Ты топчешь грязными ногами"
+  },
+  {
+    "id": 8846,
+    "scene": "224",
+    "index": 98,
+    "action": 59384,
+    "group": "224:32",
+    "speaker": "Корделия",
+    "ja": "踏みつけるなんてゝ",
+    "ru": "его подарок?!"
+  },
+  {
+    "id": 8848,
+    "scene": "224",
+    "index": 100,
+    "action": 59600,
+    "group": "224:33",
+    "speaker": "Корделия",
+    "ja": "アンタって子はホントに……！",
+    "ru": "Ты и правда…!"
+  },
+  {
+    "id": 8849,
+    "scene": "224",
+    "index": 101,
+    "action": 59676,
+    "group": "224:33",
+    "speaker": "Корделия",
+    "ja": "そんなだから一番になれないのよゝ",
+    "ru": "Вот поэтому ты не можешь стать первым!"
+  },
+  {
+    "id": 8851,
+    "scene": "224",
+    "index": 103,
+    "action": 60336,
+    "group": "224:34",
+    "speaker": "Аято",
+    "ja": "痛っ……！",
+    "ru": "Больно…!"
+  },
+  {
+    "id": 8853,
+    "scene": "224",
+    "index": 105,
+    "action": 60544,
+    "group": "224:35",
+    "speaker": "Корделия",
+    "ja": "あの女たちといい、アンタといい、",
+    "ru": "И те женщины, и ты…"
+  },
+  {
+    "id": 8854,
+    "scene": "224",
+    "index": 106,
+    "action": 60624,
+    "group": "224:35",
+    "speaker": "Корделия",
+    "ja": "どうしてっ……！",
+    "ru": "Почему…!"
+  },
+  {
+    "id": 8856,
+    "scene": "224",
+    "index": 108,
+    "action": 61268,
+    "group": "224:36",
+    "speaker": "Аято",
+    "ja": "母さん、痛いっ……！",
+    "ru": "Мама, больно…!"
+  },
+  {
+    "id": 8857,
+    "scene": "224",
+    "index": 109,
+    "action": 61336,
+    "group": "224:36",
+    "speaker": "Аято",
+    "ja": "っ……やめて……！",
+    "ru": "…Перестань…!"
+  },
+  {
+    "id": 8859,
+    "scene": "224",
+    "index": 111,
+    "action": 61552,
+    "group": "224:37",
+    "speaker": "Корделия",
+    "ja": "黙りなさいゝ",
+    "ru": "Замолчи!"
+  },
+  {
+    "id": 8860,
+    "scene": "224",
+    "index": 112,
+    "action": 62600,
+    "group": "224:38",
+    "speaker": "Корделия",
+    "ja": "『あの人が愛しているのは",
+    "ru": "«Она любит",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8861,
+    "scene": "224",
+    "index": 113,
+    "action": 62672,
+    "group": "224:38",
+    "speaker": "Корделия",
+    "ja": "　カールハインツだけだよ』",
+    "ru": "только Карлхайнца».",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8862,
+    "scene": "224",
+    "index": 115,
+    "action": 62808,
+    "group": "224:39",
+    "speaker": "Корделия",
+    "ja": "ライトの言葉がまた聞こえる。",
+    "ru": "Снова слышу слова Райто.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8863,
+    "scene": "224",
+    "index": 117,
+    "action": 62948,
+    "group": "224:40",
+    "speaker": "Корделия",
+    "ja": "『まだ何か期待していたの？』",
+    "ru": "«Ты всё ещё на что-то надеялся?»",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8864,
+    "scene": "224",
+    "index": 119,
+    "action": 63088,
+    "group": "224:41",
+    "speaker": "Корделия",
+    "ja": "振り下ろされる鞭の音に混じって、",
+    "ru": "Вместе со звуком ударов хлыста",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8865,
+    "scene": "224",
+    "index": 120,
+    "action": 63168,
+    "group": "224:41",
+    "speaker": "Корделия",
+    "ja": "今度は嘲笑う幻聴まで聞こえた。",
+    "ru": "на этот раз слышится и насмешливый#nголос, которого здесь нет.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8866,
+    "scene": "224",
+    "index": 122,
+    "action": 63308,
+    "group": "224:42",
+    "speaker": "Корделия",
+    "ja": "五月蠅い。",
+    "ru": "Заткнись.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8867,
+    "scene": "224",
+    "index": 123,
+    "action": 63364,
+    "group": "224:42",
+    "speaker": "Корделия",
+    "ja": "それならオレはもう期待なんかしない。",
+    "ru": "Тогда я больше не буду ни на что#nнадеяться.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8868,
+    "scene": "224",
+    "index": 124,
+    "action": 63448,
+    "group": "224:42",
+    "speaker": "Корделия",
+    "ja": "特別な感情を抱く相手も作らない。",
+    "ru": "И никого не стану считать особенным.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8869,
+    "scene": "224",
+    "index": 125,
+    "action": 63528,
+    "group": "224:42",
+    "speaker": "Корделия",
+    "ja": "それならいいんだろう？",
+    "ru": "Так тебя устроит?",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8870,
+    "scene": "224",
+    "index": 127,
+    "action": 63660,
+    "group": "224:43",
+    "speaker": "Корделия",
+    "ja": "『バカなアヤトくん』",
+    "ru": "«Глупый Аято».",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8871,
+    "scene": "224",
+    "index": 129,
+    "action": 63792,
+    "group": "224:44",
+    "speaker": "Корделия",
+    "ja": "ライトがまたせせら笑う。",
+    "ru": "Райто снова насмехается.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8872,
+    "scene": "224",
+    "index": 130,
+    "action": 63864,
+    "group": "224:44",
+    "speaker": "Корделия",
+    "ja": "それはやたらと鮮明な幻聴だった。",
+    "ru": "Его мнимый голос звучит поразительно#nотчётливо.",
+    "context_note": "Ayato first-person memory/narration (Japanese ore). Extracted speaker metadata is inherited and is not a reliable narrator attribution."
+  },
+  {
+    "id": 8874,
+    "scene": "224",
+    "index": 133,
+    "action": 65132,
+    "group": "224:45",
+    "speaker": "Аято",
+    "ja": "……っ……。",
+    "ru": "…"
+  },
+  {
+    "id": 8876,
+    "scene": "224",
+    "index": 135,
+    "action": 65528,
+    "group": "224:46",
+    "speaker": "Аято",
+    "ja": "……チッ、あのババア。",
+    "ru": "…Тц, эта старая ведьма."
+  },
+  {
+    "id": 8877,
+    "scene": "224",
+    "index": 136,
+    "action": 65596,
+    "group": "224:46",
+    "speaker": "Аято",
+    "ja": "夢にまで出てきやがって。",
+    "ru": "Даже во сне является."
+  },
+  {
+    "id": 8879,
+    "scene": "224",
+    "index": 138,
+    "action": 66116,
+    "group": "224:47",
+    "speaker": "Аято",
+    "ja": "……大事なものなんて作らねぇ。",
+    "ru": "…Ничем не буду дорожить."
+  },
+  {
+    "id": 8881,
+    "scene": "224",
+    "index": 140,
+    "action": 66340,
+    "group": "224:48",
+    "speaker": "Аято",
+    "ja": "特別な相手なんてオレにはいない。",
+    "ru": "Нет у меня никого особенного."
+  },
+  {
+    "id": 8882,
+    "scene": "224",
+    "index": 141,
+    "action": 66420,
+    "group": "224:48",
+    "speaker": "Аято",
+    "ja": "昔も、今も、この先も。",
+    "ru": "Никогда не было, нет и не будет."
+  },
+  {
+    "id": 8884,
+    "scene": "224",
+    "index": 143,
+    "action": 66828,
+    "group": "224:49",
+    "speaker": "Аято",
+    "ja": "ああ、胸糞悪ぃ！",
+    "ru": "Да чтоб тебя, как же тошно!"
+  },
+  {
+    "id": 8885,
+    "scene": "224",
+    "index": 144,
+    "action": 66892,
+    "group": "224:49",
+    "speaker": "Аято",
+    "ja": "おいチチナシ、起きろ！",
+    "ru": "Эй, Плоскогрудая, вставай!"
+  },
+  {
+    "id": 8886,
+    "scene": "224",
+    "index": 145,
+    "action": 66960,
+    "group": "224:49",
+    "speaker": "Аято",
+    "ja": "起きねぇと――！",
+    "ru": "Не встанешь――!"
+  },
+  {
+    "id": 8888,
+    "scene": "224",
+    "index": 147,
+    "action": 67360,
+    "group": "224:50",
+    "speaker": "Аято",
+    "ja": "…………チッ。",
+    "ru": "…Тц."
+  },
+  {
+    "id": 8889,
+    "scene": "224",
+    "index": 148,
+    "action": 67420,
+    "group": "224:50",
+    "speaker": "Аято",
+    "ja": "なんでいねぇんだよ。",
+    "ru": "Почему её нет?"
+  },
+  {
+    "id": 8891,
+    "scene": "224",
+    "index": 150,
+    "action": 67824,
+    "group": "224:51",
+    "speaker": "Аято",
+    "ja": "つーか、オレもバカじゃねぇの。",
+    "ru": "Да и сам я идиот."
+  },
+  {
+    "id": 8892,
+    "scene": "224",
+    "index": 151,
+    "action": 67900,
+    "group": "224:51",
+    "speaker": "Аято",
+    "ja": "なんでひとりなのに、こんな端っこで",
+    "ru": "Почему сплю на самом краю,"
+  },
+  {
+    "id": 8893,
+    "scene": "224",
+    "index": 152,
+    "action": 67980,
+    "group": "224:51",
+    "speaker": "Аято",
+    "ja": "寝てんだよ。",
+    "ru": "если я здесь один?"
+  },
+  {
+    "id": 8895,
+    "scene": "224",
+    "index": 154,
+    "action": 68536,
+    "group": "224:52",
+    "speaker": "Аято",
+    "ja": "……っ……。",
+    "ru": "…"
+  },
+  {
+    "id": 8897,
+    "scene": "224",
+    "index": 156,
+    "action": 68744,
+    "group": "224:53",
+    "speaker": "Аято",
+    "ja": "くっ……！",
+    "ru": "М-м…!"
+  },
+  {
+    "id": 8898,
+    "scene": "224",
+    "index": 157,
+    "action": 68800,
+    "group": "224:53",
+    "speaker": "Аято",
+    "ja": "はぁ、また渇いてきやがった……っ。",
+    "ru": "Ха, опять пить хочется…!"
+  },
+  {
+    "id": 8900,
+    "scene": "224",
+    "index": 159,
+    "action": 69216,
+    "group": "224:54",
+    "speaker": "Аято",
+    "ja": "……アイツがどこに行こうが、",
+    "ru": "…Мне плевать, куда она пойдёт"
+  },
+  {
+    "id": 8901,
+    "scene": "224",
+    "index": 160,
+    "action": 69292,
+    "group": "224:54",
+    "speaker": "Аято",
+    "ja": "何をしようがどうだっていい……。",
+    "ru": "и что будет делать…"
+  },
+  {
+    "id": 8903,
+    "scene": "224",
+    "index": 162,
+    "action": 69520,
+    "group": "224:55",
+    "speaker": "Аято",
+    "ja": "この飢えと、渇きさえなんとか",
+    "ru": "Лишь бы она избавляла меня"
+  },
+  {
+    "id": 8904,
+    "scene": "224",
+    "index": 163,
+    "action": 69596,
+    "group": "224:55",
+    "speaker": "Аято",
+    "ja": "してくれるんなら……",
+    "ru": "от голода и жажды…"
+  },
+  {
+    "id": 8905,
+    "scene": "224",
+    "index": 164,
+    "action": 69664,
+    "group": "224:55",
+    "speaker": "Аято",
+    "ja": "あんなチチナシ……。",
+    "ru": "Эта Плоскогрудая…"
+  },
+  {
+    "id": 8907,
+    "scene": "224",
+    "index": 166,
+    "action": 70068,
+    "group": "224:56",
+    "speaker": "Аято",
+    "ja": "…………。",
+    "ru": "…"
+  },
+  {
+    "id": 8909,
+    "scene": "224",
+    "index": 168,
+    "action": 70272,
+    "group": "224:56",
+    "speaker": "Аято",
+    "ja": "……クソ、広くて寝にくいんだよ。",
+    "ru": "…Чёрт, слишком просторно. Не уснуть."
+  },
+  {
+    "id": 8910,
+    "scene": "224",
+    "index": 169,
+    "action": 70352,
+    "group": "224:56",
+    "speaker": "Аято",
+    "ja": "バカ女……。",
+    "ru": "Глупая баба…"
+  }
+]

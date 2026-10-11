@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 58964,
+    "scene": "424",
+    "index": 0,
+    "action": 45384,
+    "group": "424:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "――どうしてこの女が、父に選ばれた",
+    "ru": "― Не понимаю, почему отец",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58965,
+    "scene": "424",
+    "index": 1,
+    "action": 45464,
+    "group": "424:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "のかが不思議でならない。",
+    "ru": "выбрал эту женщину.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58966,
+    "scene": "424",
+    "index": 3,
+    "action": 45600,
+    "group": "424:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "凡庸という一言に尽きる。",
+    "ru": "Она воплощение посредственности.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58967,
+    "scene": "424",
+    "index": 5,
+    "action": 45736,
+    "group": "424:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "弟たちの母は、魔王の娘。",
+    "ru": "Мать младших братьев ― дочь Короля демонов.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58968,
+    "scene": "424",
+    "index": 6,
+    "action": 45808,
+    "group": "424:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "つける薬がないほどに破たんした女",
+    "ru": "Женщина безнадёжно испорченная,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58969,
+    "scene": "424",
+    "index": 7,
+    "action": 45888,
+    "group": "424:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "だが、その血には価値がある。",
+    "ru": "но её кровь имеет ценность.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58970,
+    "scene": "424",
+    "index": 9,
+    "action": 46028,
+    "group": "424:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "父があの女を選んだ理由はひとえに",
+    "ru": "Наверняка отец выбрал её",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58971,
+    "scene": "424",
+    "index": 10,
+    "action": 46108,
+    "group": "424:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "それに尽きるだろう。",
+    "ru": "именно поэтому.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58972,
+    "scene": "424",
+    "index": 12,
+    "action": 46240,
+    "group": "424:4",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "それに引き替え我らが母は",
+    "ru": "А что же",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58973,
+    "scene": "424",
+    "index": 13,
+    "action": 46312,
+    "group": "424:4",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "どうだろうか。",
+    "ru": "наша мать?",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58974,
+    "scene": "424",
+    "index": 15,
+    "action": 46436,
+    "group": "424:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "何を取り柄とすることもない。",
+    "ru": "Ничем не выделяется.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58975,
+    "scene": "424",
+    "index": 16,
+    "action": 46512,
+    "group": "424:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "強いて言うならば貞淑である。",
+    "ru": "Если искать достоинство ― разве что целомудрие.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58976,
+    "scene": "424",
+    "index": 18,
+    "action": 46652,
+    "group": "424:6",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "我が母ながら、そう褒めるところも",
+    "ru": "Жаль признавать это о собственной матери,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58977,
+    "scene": "424",
+    "index": 19,
+    "action": 46732,
+    "group": "424:6",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "ないのが残念でならない。",
+    "ru": "но хвалить её больше не за что.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58978,
+    "scene": "424",
+    "index": 20,
+    "action": 46804,
+    "group": "424:6",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "私が弟たちの母のもとに生まれて",
+    "ru": "Иногда я даже думаю,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58979,
+    "scene": "424",
+    "index": 21,
+    "action": 46880,
+    "group": "424:6",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "いればとすら思うことすらある。",
+    "ru": "что лучше бы родился у матери младших.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58980,
+    "scene": "424",
+    "index": 23,
+    "action": 47020,
+    "group": "424:7",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "母は母としての役目は果たしているが",
+    "ru": "Она выполняет роль матери,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58981,
+    "scene": "424",
+    "index": 24,
+    "action": 47100,
+    "group": "424:7",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "それ以上に価値のない女だ。",
+    "ru": "но кроме этого не имеет ценности.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58982,
+    "scene": "424",
+    "index": 26,
+    "action": 47236,
+    "group": "424:8",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "むしろ母としてあろうとするあまりに",
+    "ru": "Более того, стремясь быть матерью,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58983,
+    "scene": "424",
+    "index": 27,
+    "action": 47316,
+    "group": "424:8",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "酷く醜いとすら思う。",
+    "ru": "она кажется мне даже уродливой.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but references to “our mother,” the younger brothers’ mother, and Karlheinz as father show this is Reiji first-person narration."
+  },
+  {
+    "id": 58985,
+    "scene": "424",
+    "index": 29,
+    "action": 48124,
+    "group": "424:9",
+    "speaker": "Рейджи",
+    "ja": "……はぁ……。",
+    "ru": "…Ха-а…"
+  },
+  {
+    "id": 58987,
+    "scene": "424",
+    "index": 31,
+    "action": 48632,
+    "group": "424:10",
+    "speaker": "Рейджи",
+    "ja": "（……酷くつまらない。野心もなく",
+    "ru": "(…До чего скучно. Ни амбиций,"
+  },
+  {
+    "id": 58988,
+    "scene": "424",
+    "index": 32,
+    "action": 48712,
+    "group": "424:10",
+    "speaker": "Рейджи",
+    "ja": "　目指すべき地位もなく……私は",
+    "ru": "ни положения, к которому стремиться…"
+  },
+  {
+    "id": 58989,
+    "scene": "424",
+    "index": 33,
+    "action": 48788,
+    "group": "424:10",
+    "speaker": "Рейджи",
+    "ja": "　これでいいのだろうか？）",
+    "ru": "Неужели меня это устраивает?)"
+  },
+  {
+    "id": 58991,
+    "scene": "424",
+    "index": 35,
+    "action": 49008,
+    "group": "424:11",
+    "speaker": "Рейджи",
+    "ja": "（この家を守ることは造作もない",
+    "ru": "(Защитить этот дом несложно."
+  },
+  {
+    "id": 58992,
+    "scene": "424",
+    "index": 36,
+    "action": 49084,
+    "group": "424:11",
+    "speaker": "Рейджи",
+    "ja": "　ことだろう。今更この家を敵に",
+    "ru": "Лишь глупец сейчас решится"
+  },
+  {
+    "id": 58993,
+    "scene": "424",
+    "index": 37,
+    "action": 49160,
+    "group": "424:11",
+    "speaker": "Рейджи",
+    "ja": "　回そうとするのは愚か者だ）",
+    "ru": "сделать его своим врагом.)"
+  },
+  {
+    "id": 58995,
+    "scene": "424",
+    "index": 39,
+    "action": 49572,
+    "group": "424:12",
+    "speaker": "Рейджи",
+    "ja": "（取るに足りない……そんなものより",
+    "ru": "(Мелочь… Мне нужно нечто"
+  },
+  {
+    "id": 58996,
+    "scene": "424",
+    "index": 40,
+    "action": 49652,
+    "group": "424:12",
+    "speaker": "Рейджи",
+    "ja": "　私は……家などよりももっと……",
+    "ru": "гораздо большее, чем этот дом…"
+  },
+  {
+    "id": 58997,
+    "scene": "424",
+    "index": 41,
+    "action": 49732,
+    "group": "424:12",
+    "speaker": "Рейджи",
+    "ja": "　もっと大きな……）",
+    "ru": "Нечто куда большее…)"
+  },
+  {
+    "id": 58999,
+    "scene": "424",
+    "index": 43,
+    "action": 50360,
+    "group": "424:13",
+    "speaker": "Рейджи",
+    "ja": "――父上、私はどうすれば",
+    "ru": "― Отец, что же мне"
+  },
+  {
+    "id": 59000,
+    "scene": "424",
+    "index": 44,
+    "action": 50432,
+    "group": "424:13",
+    "speaker": "Рейджи",
+    "ja": "よろしいのです？",
+    "ru": "следует делать?"
+  },
+  {
+    "id": 59002,
+    "scene": "424",
+    "index": 46,
+    "action": 51260,
+    "group": "424:14",
+    "speaker": "Беатрикс",
+    "ja": "レイジ。",
+    "ru": "Рейджи."
+  },
+  {
+    "id": 59004,
+    "scene": "424",
+    "index": 48,
+    "action": 51652,
+    "group": "424:15",
+    "speaker": "Рейджи",
+    "ja": "……母上。どうかなさいましたか？",
+    "ru": "…Матушка. Что-то случилось?"
+  },
+  {
+    "id": 59006,
+    "scene": "424",
+    "index": 50,
+    "action": 51888,
+    "group": "424:16",
+    "speaker": "Беатрикс",
+    "ja": "いえ、また難しい本を読んでいる",
+    "ru": "Нет. Вы снова читаете"
+  },
+  {
+    "id": 59007,
+    "scene": "424",
+    "index": 51,
+    "action": 51964,
+    "group": "424:16",
+    "speaker": "Беатрикс",
+    "ja": "のですね。",
+    "ru": "такую сложную книгу."
+  },
+  {
+    "id": 59009,
+    "scene": "424",
+    "index": 53,
+    "action": 52356,
+    "group": "424:17",
+    "speaker": "Рейджи",
+    "ja": "……これは特に難しい本では",
+    "ru": "…Эта книга вовсе не"
+  },
+  {
+    "id": 59010,
+    "scene": "424",
+    "index": 54,
+    "action": 52428,
+    "group": "424:17",
+    "speaker": "Рейджи",
+    "ja": "ありませんよ。",
+    "ru": "особенно сложная."
+  },
+  {
+    "id": 59012,
+    "scene": "424",
+    "index": 56,
+    "action": 52644,
+    "group": "424:18",
+    "speaker": "Беатрикс",
+    "ja": "謙遜を。貴方は本当に賢い子。",
+    "ru": "Не скромничайте. Вы очень умный ребёнок."
+  },
+  {
+    "id": 59013,
+    "scene": "424",
+    "index": 57,
+    "action": 52720,
+    "group": "424:18",
+    "speaker": "Беатрикс",
+    "ja": "母は鼻が高いです。",
+    "ru": "Мать гордится вами."
+  },
+  {
+    "id": 59015,
+    "scene": "424",
+    "index": 59,
+    "action": 52940,
+    "group": "424:19",
+    "speaker": "Беатрикс",
+    "ja": "お前がいてくれるなら、きっ……。",
+    "ru": "Если ты со мной, то наверняка…"
+  },
+  {
+    "id": 59017,
+    "scene": "424",
+    "index": 61,
+    "action": 53356,
+    "group": "424:20",
+    "speaker": "Рейджи",
+    "ja": "母上。",
+    "ru": "Матушка."
+  },
+  {
+    "id": 59019,
+    "scene": "424",
+    "index": 63,
+    "action": 53564,
+    "group": "424:21",
+    "speaker": "Беатрикс",
+    "ja": "レイジ……？",
+    "ru": "Рейджи…?"
+  },
+  {
+    "id": 59021,
+    "scene": "424",
+    "index": 65,
+    "action": 53772,
+    "group": "424:22",
+    "speaker": "Рейджи",
+    "ja": "失礼いたしました。少々用事を",
+    "ru": "Прошу прощения. Я вспомнил"
+  },
+  {
+    "id": 59022,
+    "scene": "424",
+    "index": 66,
+    "action": 53848,
+    "group": "424:22",
+    "speaker": "Рейджи",
+    "ja": "思いだしまして。",
+    "ru": "об одном деле."
+  },
+  {
+    "id": 59024,
+    "scene": "424",
+    "index": 68,
+    "action": 54256,
+    "group": "424:23",
+    "speaker": "Беатрикс",
+    "ja": "そ、そう……ではお行きなさい。",
+    "ru": "В-вот как… Тогда идите."
+  },
+  {
+    "id": 59026,
+    "scene": "424",
+    "index": 70,
+    "action": 54480,
+    "group": "424:24",
+    "speaker": "Рейджи",
+    "ja": "失礼いたします。",
+    "ru": "Прошу меня извинить."
+  },
+  {
+    "id": 59028,
+    "scene": "424",
+    "index": 72,
+    "action": 55696,
+    "group": "424:25",
+    "speaker": "Рейджи",
+    "ja": "クソッ……イライラする……。",
+    "ru": "Чёрт… Как же раздражает…"
+  },
+  {
+    "id": 59030,
+    "scene": "424",
+    "index": 74,
+    "action": 56108,
+    "group": "424:26",
+    "speaker": "Рейджи",
+    "ja": "（どうしてあの女はああなのか。",
+    "ru": "(Почему эта женщина такая?"
+  },
+  {
+    "id": 59031,
+    "scene": "424",
+    "index": 75,
+    "action": 56184,
+    "group": "424:26",
+    "speaker": "Рейджи",
+    "ja": "　いつもいつもいつも……顔を見れば",
+    "ru": "Всегда, всегда, всегда… едва увидит меня ―"
+  },
+  {
+    "id": 59032,
+    "scene": "424",
+    "index": 76,
+    "action": 56264,
+    "group": "424:26",
+    "speaker": "Рейджи",
+    "ja": "　私を褒める）",
+    "ru": "сразу начинает хвалить.)"
+  },
+  {
+    "id": 59034,
+    "scene": "424",
+    "index": 78,
+    "action": 56472,
+    "group": "424:27",
+    "speaker": "Рейджи",
+    "ja": "（そして決まって言う。シュウのいい",
+    "ru": "(И неизменно говорит, что я стану"
+  },
+  {
+    "id": 59035,
+    "scene": "424",
+    "index": 79,
+    "action": 56552,
+    "group": "424:27",
+    "speaker": "Рейджи",
+    "ja": "　片腕になると……）",
+    "ru": "хорошей правой рукой Шу…)"
+  },
+  {
+    "id": 59037,
+    "scene": "424",
+    "index": 81,
+    "action": 56960,
+    "group": "424:28",
+    "speaker": "Рейджи",
+    "ja": "そんなことはどうだっていい……",
+    "ru": "Мне всё равно…"
+  },
+  {
+    "id": 59038,
+    "scene": "424",
+    "index": 82,
+    "action": 57036,
+    "group": "424:28",
+    "speaker": "Рейджи",
+    "ja": "どうだって……シュウの片腕？　ハッ",
+    "ru": "Всё равно… Правая рука Шу? Ха!"
+  },
+  {
+    "id": 59039,
+    "scene": "424",
+    "index": 83,
+    "action": 57116,
+    "group": "424:28",
+    "speaker": "Рейджи",
+    "ja": "馬鹿馬鹿しい。",
+    "ru": "Какая глупость."
+  },
+  {
+    "id": 59041,
+    "scene": "424",
+    "index": 85,
+    "action": 57324,
+    "group": "424:29",
+    "speaker": "Рейджи",
+    "ja": "（シュウの片腕など子どもの使いでも",
+    "ru": "(Мать говорит о роли правой руки Шу"
+  },
+  {
+    "id": 59042,
+    "scene": "424",
+    "index": 86,
+    "action": 57404,
+    "group": "424:29",
+    "speaker": "Рейджи",
+    "ja": "　出来ることをご大層に言う母は",
+    "ru": "как о великом деле, хотя с этим"
+  },
+  {
+    "id": 59043,
+    "scene": "424",
+    "index": 87,
+    "action": 57480,
+    "group": "424:29",
+    "speaker": "Рейджи",
+    "ja": "　どうかしている）",
+    "ru": "справился бы и ребёнок.)"
+  },
+  {
+    "id": 59045,
+    "scene": "424",
+    "index": 89,
+    "action": 58056,
+    "group": "424:30",
+    "speaker": "Рейджи",
+    "ja": "（そもそも、どうして私が後に",
+    "ru": "(И почему только из-за того, что родился позже,"
+  },
+  {
+    "id": 59046,
+    "scene": "424",
+    "index": 90,
+    "action": 58132,
+    "group": "424:30",
+    "speaker": "Рейджи",
+    "ja": "　生まれたからと言って、あの愚鈍な",
+    "ru": "я должен стать правой рукой"
+  },
+  {
+    "id": 59047,
+    "scene": "424",
+    "index": 91,
+    "action": 58212,
+    "group": "424:30",
+    "speaker": "Рейджи",
+    "ja": "　男の右腕にならねばならない？）",
+    "ru": "этого тупицы?)"
+  },
+  {
+    "id": 59049,
+    "scene": "424",
+    "index": 93,
+    "action": 58440,
+    "group": "424:31",
+    "speaker": "Рейджи",
+    "ja": "（まったくもって……つまらないし。",
+    "ru": "(До чего же всё это… скучно."
+  },
+  {
+    "id": 59050,
+    "scene": "424",
+    "index": 94,
+    "action": 58520,
+    "group": "424:31",
+    "speaker": "Рейджи",
+    "ja": "　そして、くだらない……）",
+    "ru": "И бессмысленно…)"
+  },
+  {
+    "id": 59052,
+    "scene": "424",
+    "index": 96,
+    "action": 58928,
+    "group": "424:32",
+    "speaker": "Рейджи",
+    "ja": "（父上は本当に……この状態を",
+    "ru": "(Неужели отец правда…"
+  },
+  {
+    "id": 59053,
+    "scene": "424",
+    "index": 97,
+    "action": 59004,
+    "group": "424:32",
+    "speaker": "Рейджи",
+    "ja": "　お望みなのだろうか？　本当に？）",
+    "ru": "желает именно такого порядка? Правда?)"
+  },
+  {
+    "id": 59055,
+    "scene": "424",
+    "index": 99,
+    "action": 59420,
+    "group": "424:33",
+    "speaker": "Рейджи",
+    "ja": "父上ほどのお人が……どうして",
+    "ru": "Как человек уровня отца…"
+  },
+  {
+    "id": 59056,
+    "scene": "424",
+    "index": 100,
+    "action": 59496,
+    "group": "424:33",
+    "speaker": "Рейджи",
+    "ja": "こんな仕様のない状態を望むの",
+    "ru": "мог желать такого"
+  },
+  {
+    "id": 59057,
+    "scene": "424",
+    "index": 101,
+    "action": 59572,
+    "group": "424:33",
+    "speaker": "Рейджи",
+    "ja": "だろうか……。",
+    "ru": "жалкого положения дел…"
+  },
+  {
+    "id": 59059,
+    "scene": "424",
+    "index": 103,
+    "action": 59780,
+    "group": "424:34",
+    "speaker": "Рейджи",
+    "ja": "世界を……いや全てをも手に",
+    "ru": "Хотя у него есть сила получить"
+  },
+  {
+    "id": 59060,
+    "scene": "424",
+    "index": 104,
+    "action": 59852,
+    "group": "424:34",
+    "speaker": "Рейджи",
+    "ja": "入れる力を持つというのに。",
+    "ru": "весь мир… нет, вообще всё."
+  },
+  {
+    "id": 59062,
+    "scene": "424",
+    "index": 106,
+    "action": 60260,
+    "group": "424:35",
+    "speaker": "Рейджи",
+    "ja": "（仮にこれで良いと言うのならば、",
+    "ru": "(Если его и правда всё устраивает,"
+  },
+  {
+    "id": 59063,
+    "scene": "424",
+    "index": 107,
+    "action": 60340,
+    "group": "424:35",
+    "speaker": "Рейджи",
+    "ja": "　私は父上を許せない）",
+    "ru": "я не смогу простить отца.)"
+  },
+  {
+    "id": 59065,
+    "scene": "424",
+    "index": 109,
+    "action": 60556,
+    "group": "424:36",
+    "speaker": "Рейджи",
+    "ja": "――そんな家は滅んでしまえばいい。",
+    "ru": "― Тогда пусть такой дом погибнет."
+  },
+  {
+    "id": 59067,
+    "scene": "424",
+    "index": 111,
+    "action": 61428,
+    "group": "424:37",
+    "speaker": "Сейджи",
+    "ja": "この写真の女がターゲットなのか。",
+    "ru": "Женщина на этой фотографии ― цель?"
+  },
+  {
+    "id": 59069,
+    "scene": "424",
+    "index": 113,
+    "action": 61844,
+    "group": "424:38",
+    "speaker": "Рейджи",
+    "ja": "ええ、間違いありません。",
+    "ru": "Да, ошибки быть не может."
+  },
+  {
+    "id": 59071,
+    "scene": "424",
+    "index": 115,
+    "action": 62252,
+    "group": "424:39",
+    "speaker": "Рейджи",
+    "ja": "……しかし不思議なものですね。",
+    "ru": "…Но всё же удивительно."
+  },
+  {
+    "id": 59073,
+    "scene": "424",
+    "index": 117,
+    "action": 62476,
+    "group": "424:40",
+    "speaker": "Рейджи",
+    "ja": "まさかこの私がこうして",
+    "ru": "Кто бы мог подумать, что однажды я"
+  },
+  {
+    "id": 59074,
+    "scene": "424",
+    "index": 118,
+    "action": 62544,
+    "group": "424:40",
+    "speaker": "Рейджи",
+    "ja": "貴方と──。",
+    "ru": "вот так буду говорить с вами…"
+  },
+  {
+    "id": 59076,
+    "scene": "424",
+    "index": 120,
+    "action": 62752,
+    "group": "424:41",
+    "speaker": "Рейджи",
+    "ja": "ヴァンパイアハンターと",
+    "ru": "Настанет день, когда я буду говорить"
+  },
+  {
+    "id": 59077,
+    "scene": "424",
+    "index": 121,
+    "action": 62820,
+    "group": "424:41",
+    "speaker": "Рейджи",
+    "ja": "言葉を交わす日が来るとはね。",
+    "ru": "с охотником на вампиров."
+  },
+  {
+    "id": 59079,
+    "scene": "424",
+    "index": 123,
+    "action": 63232,
+    "group": "424:42",
+    "speaker": "Рейджи",
+    "ja": "よろしく頼みますよ？",
+    "ru": "Рассчитываю на вас."
+  },
+  {
+    "id": 59081,
+    "scene": "424",
+    "index": 125,
+    "action": 63448,
+    "group": "424:43",
+    "speaker": "Сейджи",
+    "ja": "…………依頼は必ず完遂させる。",
+    "ru": "…………Я обязательно выполню заказ."
+  },
+  {
+    "id": 59083,
+    "scene": "424",
+    "index": 127,
+    "action": 63672,
+    "group": "424:44",
+    "speaker": "Сейджи",
+    "ja": "そしていずれ、お前のことも",
+    "ru": "А когда-нибудь приду"
+  },
+  {
+    "id": 59084,
+    "scene": "424",
+    "index": 128,
+    "action": 63744,
+    "group": "424:44",
+    "speaker": "Сейджи",
+    "ja": "殺しに来る。",
+    "ru": "убить и тебя."
+  },
+  {
+    "id": 59086,
+    "scene": "424",
+    "index": 130,
+    "action": 64140,
+    "group": "424:45",
+    "speaker": "Рейджи",
+    "ja": "ええ、いつでもどうぞ。",
+    "ru": "Конечно. Приходите когда угодно."
+  },
+  {
+    "id": 59087,
+    "scene": "424",
+    "index": 131,
+    "action": 64208,
+    "group": "424:45",
+    "speaker": "Рейджи",
+    "ja": "お待ちしておりますよ。",
+    "ru": "Буду ждать."
+  },
+  {
+    "id": 59089,
+    "scene": "424",
+    "index": 133,
+    "action": 64424,
+    "group": "424:46",
+    "speaker": "Рейджи",
+    "ja": "貴方とは……",
+    "ru": "Похоже, нас с вами…"
+  },
+  {
+    "id": 59090,
+    "scene": "424",
+    "index": 134,
+    "action": 64484,
+    "group": "424:46",
+    "speaker": "Рейджи",
+    "ja": "長い付き合いになりそうだ。",
+    "ru": "ждут долгие отношения."
+  },
+  {
+    "id": 59092,
+    "scene": "424",
+    "index": 136,
+    "action": 64704,
+    "group": "424:47",
+    "speaker": "Сейджи",
+    "ja": "ふん……。",
+    "ru": "Хм…"
+  },
+  {
+    "id": 59094,
+    "scene": "424",
+    "index": 138,
+    "action": 65128,
+    "group": "424:48",
+    "speaker": "Рейджи",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 59096,
+    "scene": "424",
+    "index": 140,
+    "action": 65332,
+    "group": "424:48",
+    "speaker": "Рейджи",
+    "ja": "ふふ……。",
+    "ru": "Хе-хе…"
+  },
+  {
+    "id": 59098,
+    "scene": "424",
+    "index": 142,
+    "action": 65724,
+    "group": "424:49",
+    "speaker": "Рейджи",
+    "ja": "もうじき、貴女はその身を持って",
+    "ru": "Очень скоро вы на собственной шкуре"
+  },
+  {
+    "id": 59099,
+    "scene": "424",
+    "index": 143,
+    "action": 65800,
+    "group": "424:49",
+    "speaker": "Рейджи",
+    "ja": "知ることになりますよ。",
+    "ru": "узнаете."
+  },
+  {
+    "id": 59101,
+    "scene": "424",
+    "index": 145,
+    "action": 66016,
+    "group": "424:50",
+    "speaker": "Рейджи",
+    "ja": "誰が一番優れているかと",
+    "ru": "Кто же из нас"
+  },
+  {
+    "id": 59102,
+    "scene": "424",
+    "index": 146,
+    "action": 66084,
+    "group": "424:50",
+    "speaker": "Рейджи",
+    "ja": "いうことを……。",
+    "ru": "лучший…"
+  },
+  {
+    "id": 59104,
+    "scene": "424",
+    "index": 148,
+    "action": 66484,
+    "group": "424:51",
+    "speaker": "Рейджи",
+    "ja": "ねえ、母上……。",
+    "ru": "Не так ли, матушка…"
+  },
+  {
+    "id": 59106,
+    "scene": "424",
+    "index": 150,
+    "action": 67248,
+    "group": "424:52",
+    "speaker": "Рейджи",
+    "ja": "（大事な物を失えば、あのごく潰しも",
+    "ru": "(Если он потеряет что-то дорогое,"
+  },
+  {
+    "id": 59107,
+    "scene": "424",
+    "index": 151,
+    "action": 67328,
+    "group": "424:52",
+    "speaker": "Рейджи",
+    "ja": "　すこしは目を覚ますのではない",
+    "ru": "может, этот бездельник"
+  },
+  {
+    "id": 59108,
+    "scene": "424",
+    "index": 152,
+    "action": 67404,
+    "group": "424:52",
+    "speaker": "Рейджи",
+    "ja": "　でしょうか）",
+    "ru": "хоть немного очнётся.)"
+  },
+  {
+    "id": 59110,
+    "scene": "424",
+    "index": 154,
+    "action": 67800,
+    "group": "424:53",
+    "speaker": "Рейджи",
+    "ja": "（その力を使わない罪を……",
+    "ru": "(Пусть осознает грех"
+  },
+  {
+    "id": 59111,
+    "scene": "424",
+    "index": 155,
+    "action": 67872,
+    "group": "424:53",
+    "speaker": "Рейджи",
+    "ja": "　思い知るがいい……）",
+    "ru": "не использовать свою силу…)"
+  },
+  {
+    "id": 59113,
+    "scene": "424",
+    "index": 157,
+    "action": 68276,
+    "group": "424:54",
+    "speaker": "Рейджи",
+    "ja": "（そして父上……貴方もその場に",
+    "ru": "(И отец… вы тоже"
+  },
+  {
+    "id": 59114,
+    "scene": "424",
+    "index": 158,
+    "action": 68352,
+    "group": "424:54",
+    "speaker": "Рейджи",
+    "ja": "　立ち会うこととなる……）",
+    "ru": "станете свидетелем этого.)"
+  },
+  {
+    "id": 59116,
+    "scene": "424",
+    "index": 160,
+    "action": 68572,
+    "group": "424:55",
+    "speaker": "Рейджи",
+    "ja": "約束の日時、父上が母上の元に",
+    "ru": "В назначенный день отец"
+  },
+  {
+    "id": 59117,
+    "scene": "424",
+    "index": 161,
+    "action": 68648,
+    "group": "424:55",
+    "speaker": "Рейджи",
+    "ja": "やってくる……。",
+    "ru": "придёт к матушке…"
+  },
+  {
+    "id": 59119,
+    "scene": "424",
+    "index": 163,
+    "action": 68860,
+    "group": "424:56",
+    "speaker": "Рейджи",
+    "ja": "（それがこの家の終わりだ……）",
+    "ru": "(Это станет концом этого дома…)"
+  },
+  {
+    "id": 59121,
+    "scene": "424",
+    "index": 165,
+    "action": 70036,
+    "group": "424:57",
+    "speaker": "Рейджи",
+    "ja": "ぐっ……う……くそっ……っ",
+    "ru": "Кх… у… чёрт…"
+  },
+  {
+    "id": 59122,
+    "scene": "424",
+    "index": 166,
+    "action": 70108,
+    "group": "424:57",
+    "speaker": "Рейджи",
+    "ja": "……はぁ……渇きが……一向に",
+    "ru": "Ха-а… жажда… совсем"
+  },
+  {
+    "id": 59123,
+    "scene": "424",
+    "index": 167,
+    "action": 70184,
+    "group": "424:57",
+    "speaker": "Рейджи",
+    "ja": "収まらない……。",
+    "ru": "не проходит…"
+  },
+  {
+    "id": 59125,
+    "scene": "424",
+    "index": 169,
+    "action": 70508,
+    "group": "424:58",
+    "speaker": "Рейджи",
+    "ja": "やはりこれは……この屋敷の誰かに",
+    "ru": "Значит, всё-таки… кто-то в этом доме"
+  },
+  {
+    "id": 59126,
+    "scene": "424",
+    "index": 170,
+    "action": 70588,
+    "group": "424:58",
+    "speaker": "Рейджи",
+    "ja": "一服盛られたか……くっ……はぁはぁ",
+    "ru": "чем-то меня опоил… кх… ха-а…"
+  },
+  {
+    "id": 59127,
+    "scene": "424",
+    "index": 171,
+    "action": 70668,
+    "group": "424:58",
+    "speaker": "Рейджи",
+    "ja": "……っ……。",
+    "ru": "…"
+  },
+  {
+    "id": 59129,
+    "scene": "424",
+    "index": 173,
+    "action": 71064,
+    "group": "424:59",
+    "speaker": "Рейджи",
+    "ja": "くっ……しかし、そんな隙は……。",
+    "ru": "Кх… Но такой возможности…"
+  },
+  {
+    "id": 59131,
+    "scene": "424",
+    "index": 175,
+    "action": 71216,
+    "group": "424:60",
+    "speaker": "#Name[2]",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 59133,
+    "scene": "424",
+    "index": 177,
+    "action": 71612,
+    "group": "424:60",
+    "speaker": "Рейджи",
+    "ja": "はぁはぁ……くそっ……",
+    "ru": "Ха-а… чёрт…"
+  },
+  {
+    "id": 59134,
+    "scene": "424",
+    "index": 178,
+    "action": 71680,
+    "group": "424:60",
+    "speaker": "Рейджи",
+    "ja": "人が苦しんでいる横で暢気に寝息",
+    "ru": "Спит себе спокойно, пока рядом"
+  },
+  {
+    "id": 59135,
+    "scene": "424",
+    "index": 179,
+    "action": 71756,
+    "group": "424:60",
+    "speaker": "Рейджи",
+    "ja": "とはね……はぁ。",
+    "ru": "человек мучается… ха-а."
+  },
+  {
+    "id": 59137,
+    "scene": "424",
+    "index": 181,
+    "action": 72156,
+    "group": "424:61",
+    "speaker": "Рейджи",
+    "ja": "はぁ……はぁ……くっ……",
+    "ru": "Ха-а… ха-а… кх…"
+  },
+  {
+    "id": 59138,
+    "scene": "424",
+    "index": 182,
+    "action": 72228,
+    "group": "424:61",
+    "speaker": "Рейджи",
+    "ja": "欲望のままに……吸血して",
+    "ru": "Можно было бы просто поддаться желанию"
+  },
+  {
+    "id": 59139,
+    "scene": "424",
+    "index": 183,
+    "action": 72300,
+    "group": "424:61",
+    "speaker": "Рейджи",
+    "ja": "しまえばいい……とは思うのですが。",
+    "ru": "и выпить кровь…"
+  },
+  {
+    "id": 59141,
+    "scene": "424",
+    "index": 185,
+    "action": 72720,
+    "group": "424:62",
+    "speaker": "Рейджи",
+    "ja": "っ……気が進まない……欲望を",
+    "ru": "Кх… не хочется… Вампир должен"
+  },
+  {
+    "id": 59142,
+    "scene": "424",
+    "index": 186,
+    "action": 72796,
+    "group": "424:62",
+    "speaker": "Рейджи",
+    "ja": "律してこその……ヴァンパイア……。",
+    "ru": "владеть своими желаниями…"
+  },
+  {
+    "id": 59144,
+    "scene": "424",
+    "index": 188,
+    "action": 73024,
+    "group": "424:63",
+    "speaker": "Рейджи",
+    "ja": "――欲望を律して……。",
+    "ru": "― Владеть желаниями…"
+  },
+  {
+    "id": 59146,
+    "scene": "424",
+    "index": 190,
+    "action": 73652,
+    "group": "424:64",
+    "speaker": "Рейджи",
+    "ja": "なるほど……父上はこれを",
+    "ru": "Понятно… Вот что отец"
+  },
+  {
+    "id": 59147,
+    "scene": "424",
+    "index": 191,
+    "action": 73724,
+    "group": "424:64",
+    "speaker": "Рейджи",
+    "ja": "言いたかったのか……ははは……",
+    "ru": "хотел мне сказать… ха-ха…"
+  },
+  {
+    "id": 59148,
+    "scene": "424",
+    "index": 192,
+    "action": 73800,
+    "group": "424:64",
+    "speaker": "Рейджи",
+    "ja": "まさかこの場で悟るとは……。",
+    "ru": "И я понял это именно сейчас…"
+  },
+  {
+    "id": 59150,
+    "scene": "424",
+    "index": 194,
+    "action": 74216,
+    "group": "424:65",
+    "speaker": "Рейджи",
+    "ja": "終焉の懐時計を手に入れてなお、",
+    "ru": "Получив карманные часы Конца,"
+  },
+  {
+    "id": 59151,
+    "scene": "424",
+    "index": 195,
+    "action": 74292,
+    "group": "424:65",
+    "speaker": "Рейджи",
+    "ja": "盤面を覗き見ない心の強さ……。",
+    "ru": "не заглянуть на циферблат ― вот сила духа…"
+  },
+  {
+    "id": 59153,
+    "scene": "424",
+    "index": 197,
+    "action": 74820,
+    "group": "424:66",
+    "speaker": "Рейджи",
+    "ja": "――残念でした父上……私は",
+    "ru": "― Жаль, отец…"
+  },
+  {
+    "id": 59154,
+    "scene": "424",
+    "index": 198,
+    "action": 74892,
+    "group": "424:66",
+    "speaker": "Рейджи",
+    "ja": "とうの昔にこれを見た……。",
+    "ru": "Я давно уже на него посмотрел."
+  },
+  {
+    "id": 59156,
+    "scene": "424",
+    "index": 200,
+    "action": 75412,
+    "group": "424:67",
+    "speaker": "Рейджи",
+    "ja": "ふふ……哀れですね、",
+    "ru": "Хе-хе… Как жалко,"
+  },
+  {
+    "id": 59157,
+    "scene": "424",
+    "index": 201,
+    "action": 75480,
+    "group": "424:67",
+    "speaker": "Рейджи",
+    "ja": "我ながら……こうなることをまるで",
+    "ru": "даже мне самому… Словно отец"
+  },
+  {
+    "id": 59158,
+    "scene": "424",
+    "index": 202,
+    "action": 75560,
+    "group": "424:67",
+    "speaker": "Рейджи",
+    "ja": "父上がご存じであったかのような。",
+    "ru": "знал, что всё закончится так."
+  },
+  {
+    "id": 59160,
+    "scene": "424",
+    "index": 204,
+    "action": 75788,
+    "group": "424:68",
+    "speaker": "Рейджи",
+    "ja": "すべては……貴方の掌の上",
+    "ru": "Всё… на вашей ладони"
+  },
+  {
+    "id": 59161,
+    "scene": "424",
+    "index": 205,
+    "action": 75860,
+    "group": "424:68",
+    "speaker": "Рейджи",
+    "ja": "なのです……？　けれど私は……。",
+    "ru": "не так ли…? Но я…"
+  },
+  {
+    "id": 59163,
+    "scene": "424",
+    "index": 207,
+    "action": 76280,
+    "group": "424:69",
+    "speaker": "Рейджи",
+    "ja": "――そんな貴方が……愛おしく",
+    "ru": "― И всё же вы мне… дороги"
+  },
+  {
+    "id": 59164,
+    "scene": "424",
+    "index": 208,
+    "action": 76356,
+    "group": "424:69",
+    "speaker": "Рейджи",
+    "ja": "そして憎くてたまらない。",
+    "ru": "и ненавистны одновременно."
+  },
+  {
+    "id": 59166,
+    "scene": "424",
+    "index": 210,
+    "action": 77132,
+    "group": "424:70",
+    "speaker": "Рейджи",
+    "ja": "はぁはぁ……ぐ……また……",
+    "ru": "Ха-а… кх… опять…"
+  },
+  {
+    "id": 59167,
+    "scene": "424",
+    "index": 211,
+    "action": 77204,
+    "group": "424:70",
+    "speaker": "Рейджи",
+    "ja": "衝動が……つきあげて……。",
+    "ru": "этот порыв…"
+  },
+  {
+    "id": 59169,
+    "scene": "424",
+    "index": 213,
+    "action": 77440,
+    "group": "424:71",
+    "speaker": "#Name[2]",
+    "ja": "っ……レイジさん……ゞ",
+    "ru": "…Рейджи-сан…!"
+  },
+  {
+    "id": 59170,
+    "scene": "424",
+    "index": 214,
+    "action": 77508,
+    "group": "424:71",
+    "speaker": "#Name[2]",
+    "ja": "大丈夫ですか……？",
+    "ru": "Вы в порядке…?"
+  },
+  {
+    "id": 59172,
+    "scene": "424",
+    "index": 216,
+    "action": 77912,
+    "group": "424:72",
+    "speaker": "Рейджи",
+    "ja": "チッ……起きたのですか……",
+    "ru": "Тц… Проснулись…"
+  },
+  {
+    "id": 59173,
+    "scene": "424",
+    "index": 217,
+    "action": 77984,
+    "group": "424:72",
+    "speaker": "Рейджи",
+    "ja": "であれば、すぐに……逃げたほうが",
+    "ru": "Тогда вам лучше немедленно"
+  },
+  {
+    "id": 59174,
+    "scene": "424",
+    "index": 218,
+    "action": 78064,
+    "group": "424:72",
+    "speaker": "Рейджи",
+    "ja": "賢明ですよ……。",
+    "ru": "убежать…"
+  },
+  {
+    "id": 59176,
+    "scene": "424",
+    "index": 220,
+    "action": 78276,
+    "group": "424:73",
+    "speaker": "Рейджи",
+    "ja": "この間のあれが一時の気の迷い",
+    "ru": "Я уже не могу сказать,"
+  },
+  {
+    "id": 59177,
+    "scene": "424",
+    "index": 221,
+    "action": 78352,
+    "group": "424:73",
+    "speaker": "Рейджи",
+    "ja": "とは……今の私は言えません。",
+    "ru": "что в прошлый раз это была минутная слабость."
+  },
+  {
+    "id": 59179,
+    "scene": "424",
+    "index": 223,
+    "action": 78624,
+    "group": "424:74",
+    "speaker": "#Name[2]",
+    "ja": "何か私に……できることは？",
+    "ru": "Я могу… что-нибудь сделать?"
+  },
+  {
+    "id": 59181,
+    "scene": "424",
+    "index": 225,
+    "action": 79032,
+    "group": "424:75",
+    "speaker": "Рейджи",
+    "ja": "っ……水……水を……。",
+    "ru": "Кх… Воды… воды…"
+  },
+  {
+    "id": 59183,
+    "scene": "424",
+    "index": 227,
+    "action": 79172,
+    "group": "424:76",
+    "speaker": "#Name[2]",
+    "ja": "水ですね。ちょっと待っていて",
+    "ru": "Воды? Подождите"
+  },
+  {
+    "id": 59184,
+    "scene": "424",
+    "index": 228,
+    "action": 79248,
+    "group": "424:76",
+    "speaker": "#Name[2]",
+    "ja": "下さい……！",
+    "ru": "немного…!"
+  },
+  {
+    "id": 59186,
+    "scene": "424",
+    "index": 230,
+    "action": 79936,
+    "group": "424:77",
+    "speaker": "#Name[2]",
+    "ja": "（レイジさん……やっぱり病気か",
+    "ru": "(Рейджи-сан… Это точно болезнь"
+  },
+  {
+    "id": 59187,
+    "scene": "424",
+    "index": 231,
+    "action": 80012,
+    "group": "424:77",
+    "speaker": "#Name[2]",
+    "ja": "　なにかなんだ……こんな風に",
+    "ru": "или что-то подобное… Он так"
+  },
+  {
+    "id": 59188,
+    "scene": "424",
+    "index": 232,
+    "action": 80088,
+    "group": "424:77",
+    "speaker": "#Name[2]",
+    "ja": "　苦しんで……）",
+    "ru": "мучается…)"
+  },
+  {
+    "id": 59190,
+    "scene": "424",
+    "index": 234,
+    "action": 80492,
+    "group": "424:78",
+    "speaker": "Рейджи",
+    "ja": "ふぅっ……くっ……。",
+    "ru": "Ха-а… кх…"
+  },
+  {
+    "id": 59192,
+    "scene": "424",
+    "index": 236,
+    "action": 80760,
+    "group": "424:79",
+    "speaker": "#Name[2]",
+    "ja": "しっかり！　はい……お水です！",
+    "ru": "Держитесь! Вот… вода!"
+  },
+  {
+    "id": 59194,
+    "scene": "424",
+    "index": 238,
+    "action": 81176,
+    "group": "424:80",
+    "speaker": "Рейджи",
+    "ja": "はぁ……はぁ……気休めにしか",
+    "ru": "Ха-а… ха-а… Я знаю, что это"
+  },
+  {
+    "id": 59195,
+    "scene": "424",
+    "index": 239,
+    "action": 81252,
+    "group": "424:80",
+    "speaker": "Рейджи",
+    "ja": "ならないことは分かっていますが……",
+    "ru": "лишь временное облегчение…"
+  },
+  {
+    "id": 59196,
+    "scene": "424",
+    "index": 240,
+    "action": 81332,
+    "group": "424:80",
+    "speaker": "Рейджи",
+    "ja": "それでも、貴女の血を吸うよりかは。",
+    "ru": "Но всё же лучше, чем пить вашу кровь."
+  },
+  {
+    "id": 59198,
+    "scene": "424",
+    "index": 242,
+    "action": 81560,
+    "group": "424:81",
+    "speaker": "Рейджи",
+    "ja": "ん……。",
+    "ru": "Мм…"
+  },
+  {
+    "id": 59200,
+    "scene": "424",
+    "index": 244,
+    "action": 81812,
+    "group": "424:82",
+    "speaker": "#Name[2]",
+    "ja": "……っ！",
+    "ru": "…!"
+  },
+  {
+    "id": 59202,
+    "scene": "424",
+    "index": 246,
+    "action": 81940,
+    "group": "424:83",
+    "speaker": "#Name[2]",
+    "ja": "（……手が、震えて",
+    "ru": "(…Руки дрожат,"
+  },
+  {
+    "id": 59203,
+    "scene": "424",
+    "index": 247,
+    "action": 82004,
+    "group": "424:83",
+    "speaker": "#Name[2]",
+    "ja": "　うまく飲めないんだ……）",
+    "ru": "он не может нормально пить…)"
+  },
+  {
+    "id": 59205,
+    "scene": "424",
+    "index": 249,
+    "action": 82416,
+    "group": "424:84",
+    "speaker": "Рейджи",
+    "ja": "チッ……忌々しい、いっそこの手で",
+    "ru": "Тц… Проклятье. Хоть"
+  },
+  {
+    "id": 59206,
+    "scene": "424",
+    "index": 250,
+    "action": 82496,
+    "group": "424:84",
+    "speaker": "Рейджи",
+    "ja": "この身体を切り刻んでやりたい",
+    "ru": "собственными руками разрежь"
+  },
+  {
+    "id": 59207,
+    "scene": "424",
+    "index": 251,
+    "action": 82572,
+    "group": "424:84",
+    "speaker": "Рейджи",
+    "ja": "くらいです……。",
+    "ru": "это тело на куски…"
+  },
+  {
+    "id": 59209,
+    "scene": "424",
+    "index": 253,
+    "action": 82948,
+    "group": "424:85",
+    "speaker": "#Name[2]",
+    "ja": "……っ……レイジさん！",
+    "ru": "…Рейджи-сан!"
+  },
+  {
+    "id": 59210,
+    "scene": "424",
+    "index": 254,
+    "action": 83016,
+    "group": "424:85",
+    "speaker": "#Name[2]",
+    "ja": "嫌かもしれませんが……少し、",
+    "ru": "Вам может быть неприятно, но…"
+  },
+  {
+    "id": 59211,
+    "scene": "424",
+    "index": 255,
+    "action": 83092,
+    "group": "424:85",
+    "speaker": "#Name[2]",
+    "ja": "我慢してくださいね。",
+    "ru": "пожалуйста, потерпите немного."
+  },
+  {
+    "id": 59213,
+    "scene": "424",
+    "index": 257,
+    "action": 83496,
+    "group": "424:86",
+    "speaker": "Рейджи",
+    "ja": "……いったい何を……。",
+    "ru": "…Что вы вздумали…"
+  },
+  {
+    "id": 59215,
+    "scene": "424",
+    "index": 259,
+    "action": 83760,
+    "group": "424:87",
+    "speaker": "#Name[2]",
+    "ja": "っ……。",
+    "ru": "Гх…"
+  },
+  {
+    "id": 59217,
+    "scene": "424",
+    "index": 261,
+    "action": 84124,
+    "group": "424:88",
+    "speaker": "#Name[2]",
+    "ja": "（レイジさんが血を欲しがらない。",
+    "ru": "(Рейджи-сан отказывается от крови."
+  },
+  {
+    "id": 59218,
+    "scene": "424",
+    "index": 262,
+    "action": 84204,
+    "group": "424:88",
+    "speaker": "#Name[2]",
+    "ja": "　じゃあ私にできることはこれくらい",
+    "ru": " Тогда это единственное, чем я могу"
+  },
+  {
+    "id": 59219,
+    "scene": "424",
+    "index": 263,
+    "action": 84284,
+    "group": "424:88",
+    "speaker": "#Name[2]",
+    "ja": "　しかない……）",
+    "ru": " ему помочь…)"
+  },
+  {
+    "id": 59221,
+    "scene": "424",
+    "index": 265,
+    "action": 85492,
+    "group": "424:89",
+    "speaker": "#Name[2]",
+    "ja": "んっ！",
+    "ru": "М-м!"
+  },
+  {
+    "id": 59223,
+    "scene": "424",
+    "index": 267,
+    "action": 86044,
+    "group": "424:90",
+    "speaker": "Рейджи",
+    "ja": "……っ……ゞ",
+    "ru": "…Гх…!"
+  },
+  {
+    "id": 59225,
+    "scene": "424",
+    "index": 269,
+    "action": 86176,
+    "group": "424:91",
+    "speaker": "#Name[2]",
+    "ja": "（レイジさん……飲んで……",
+    "ru": "(Рейджи-сан… пейте же…"
+  },
+  {
+    "id": 59226,
+    "scene": "424",
+    "index": 270,
+    "action": 86248,
+    "group": "424:91",
+    "speaker": "#Name[2]",
+    "ja": "　嫌かもしれないけど、せめて）",
+    "ru": " Пусть вам и противно, но хоть так…)"
+  },
+  {
+    "id": 59228,
+    "scene": "424",
+    "index": 272,
+    "action": 86472,
+    "group": "424:92",
+    "speaker": "Рейджи",
+    "ja": "んんっ……！",
+    "ru": "М-м…!"
+  },
+  {
+    "id": 59230,
+    "scene": "424",
+    "index": 274,
+    "action": 86840,
+    "group": "424:93",
+    "speaker": "#Name[2]",
+    "ja": "はぁ……っ……。",
+    "ru": "Ха-а…"
+  },
+  {
+    "id": 59232,
+    "scene": "424",
+    "index": 276,
+    "action": 87632,
+    "group": "424:94",
+    "speaker": "Рейджи",
+    "ja": "っ……どういう了見です？",
+    "ru": "Что это за выходки?"
+  },
+  {
+    "id": 59233,
+    "scene": "424",
+    "index": 277,
+    "action": 87704,
+    "group": "424:94",
+    "speaker": "Рейджи",
+    "ja": "口移しで……水を飲ませるとは……。",
+    "ru": "Поить меня водой… из собственных губ…"
+  },
+  {
+    "id": 59235,
+    "scene": "424",
+    "index": 279,
+    "action": 87856,
+    "group": "424:95",
+    "speaker": "#Name[2]",
+    "ja": "やっぱり……レイジさんが",
+    "ru": "Я просто… не могла смотреть,"
+  },
+  {
+    "id": 59236,
+    "scene": "424",
+    "index": 280,
+    "action": 87928,
+    "group": "424:95",
+    "speaker": "#Name[2]",
+    "ja": "苦しんでるのは見たくありません。",
+    "ru": "как вы мучаетесь, Рейджи-сан."
+  },
+  {
+    "id": 59238,
+    "scene": "424",
+    "index": 282,
+    "action": 88344,
+    "group": "424:96",
+    "speaker": "Рейджи",
+    "ja": "……#Name[2]……。",
+    "ru": "……#Name[2]……"
+  },
+  {
+    "id": 59240,
+    "scene": "424",
+    "index": 284,
+    "action": 88604,
+    "group": "424:96",
+    "speaker": "#Name[2]",
+    "ja": "っ……少しは落ち着きましたか？",
+    "ru": "Вам… хоть немного полегчало?"
+  },
+  {
+    "id": 59242,
+    "scene": "424",
+    "index": 286,
+    "action": 89016,
+    "group": "424:97",
+    "speaker": "Рейджи",
+    "ja": "はぁ……気休め程度には……。",
+    "ru": "Ха-а… Разве что самую малость…"
+  },
+  {
+    "id": 59244,
+    "scene": "424",
+    "index": 288,
+    "action": 89288,
+    "group": "424:98",
+    "speaker": "#Name[2]",
+    "ja": "そうですか、良かった……。",
+    "ru": "Вот как, слава богу…"
+  },
+  {
+    "id": 59246,
+    "scene": "424",
+    "index": 290,
+    "action": 89700,
+    "group": "424:99",
+    "speaker": "Рейджи",
+    "ja": "良かった、とは解せないですね……",
+    "ru": "«Хорошо»? Не понимаю…"
+  },
+  {
+    "id": 59247,
+    "scene": "424",
+    "index": 291,
+    "action": 89780,
+    "group": "424:99",
+    "speaker": "Рейджи",
+    "ja": "貴女にとって私は忌々しい捕食者で",
+    "ru": "Для вас я должен быть лишь ненавистным"
+  },
+  {
+    "id": 59248,
+    "scene": "424",
+    "index": 292,
+    "action": 89860,
+    "group": "424:99",
+    "speaker": "Рейджи",
+    "ja": "しかないはずですよ？",
+    "ru": "хищником, разве нет?"
+  },
+  {
+    "id": 59250,
+    "scene": "424",
+    "index": 294,
+    "action": 90124,
+    "group": "424:100",
+    "speaker": "#Name[2]",
+    "ja": "忌々しいと思っていたら……",
+    "ru": "Если бы я вас ненавидела…"
+  },
+  {
+    "id": 59251,
+    "scene": "424",
+    "index": 295,
+    "action": 90196,
+    "group": "424:100",
+    "speaker": "#Name[2]",
+    "ja": "ここにいません。",
+    "ru": "меня бы здесь не было."
+  },
+  {
+    "id": 59253,
+    "scene": "424",
+    "index": 297,
+    "action": 90408,
+    "group": "424:101",
+    "speaker": "Рейджи",
+    "ja": "では、なんなのです？　私を",
+    "ru": "Тогда что это? Зачем"
+  },
+  {
+    "id": 59254,
+    "scene": "424",
+    "index": 298,
+    "action": 90480,
+    "group": "424:101",
+    "speaker": "Рейджи",
+    "ja": "助けて……一体何の意味が？",
+    "ru": "вы помогаете мне? Какой в этом смысл?"
+  },
+  {
+    "id": 59256,
+    "scene": "424",
+    "index": 300,
+    "action": 90748,
+    "group": "424:102",
+    "speaker": "#Name[2]",
+    "ja": "意味……ですか……。",
+    "ru": "Смысл…?"
+  },
+  {
+    "id": 59258,
+    "scene": "424",
+    "index": 302,
+    "action": 91156,
+    "group": "424:103",
+    "speaker": "Рейджи",
+    "ja": "まったく……理解できない人だ。",
+    "ru": "Ну и ну… Не понимаю вас."
+  },
+  {
+    "id": 59259,
+    "scene": "424",
+    "index": 303,
+    "action": 91232,
+    "group": "424:103",
+    "speaker": "Рейджи",
+    "ja": "貴女という人は……。",
+    "ru": "Совершенно не понимаю…"
+  },
+  {
+    "id": 59261,
+    "scene": "424",
+    "index": 305,
+    "action": 91372,
+    "group": "424:104",
+    "speaker": "#Name[2]",
+    "ja": "すみません。",
+    "ru": "Простите."
+  },
+  {
+    "id": 59263,
+    "scene": "424",
+    "index": 307,
+    "action": 91768,
+    "group": "424:105",
+    "speaker": "Рейджи",
+    "ja": "はぁ……ほら、今の内ですよ。",
+    "ru": "Ха-а… Вот, сейчас самое время."
+  },
+  {
+    "id": 59264,
+    "scene": "424",
+    "index": 308,
+    "action": 91844,
+    "group": "424:105",
+    "speaker": "Рейджи",
+    "ja": "私がまた……苦しむ前にどこかに",
+    "ru": "Уйдите куда-нибудь, прежде чем"
+  },
+  {
+    "id": 59265,
+    "scene": "424",
+    "index": 309,
+    "action": 91920,
+    "group": "424:105",
+    "speaker": "Рейджи",
+    "ja": "行ってください。",
+    "ru": "мне снова станет плохо."
+  },
+  {
+    "id": 59267,
+    "scene": "424",
+    "index": 311,
+    "action": 92056,
+    "group": "424:106",
+    "speaker": "#Name[2]",
+    "ja": "私……いないほうがいいですか？",
+    "ru": "Мне… лучше не быть рядом?"
+  },
+  {
+    "id": 59269,
+    "scene": "424",
+    "index": 313,
+    "action": 92472,
+    "group": "424:107",
+    "speaker": "Рейджи",
+    "ja": "……貴女がいると……理性が",
+    "ru": "…Когда вы рядом… мой рассудок"
+  },
+  {
+    "id": 59270,
+    "scene": "424",
+    "index": 314,
+    "action": 92544,
+    "group": "424:107",
+    "speaker": "Рейджи",
+    "ja": "はちきれそうになる。",
+    "ru": "вот-вот не выдержит."
+  },
+  {
+    "id": 59272,
+    "scene": "424",
+    "index": 316,
+    "action": 92948,
+    "group": "424:108",
+    "speaker": "Рейджи",
+    "ja": "この私ともあろう者が……",
+    "ru": "И это со мной-то…"
+  },
+  {
+    "id": 59273,
+    "scene": "424",
+    "index": 317,
+    "action": 93020,
+    "group": "424:108",
+    "speaker": "Рейджи",
+    "ja": "ふふ……笑えるでしょう？",
+    "ru": "Хе-хе… Смешно, да?"
+  },
+  {
+    "id": 59275,
+    "scene": "424",
+    "index": 319,
+    "action": 93164,
+    "group": "424:109",
+    "speaker": "#Name[2]",
+    "ja": "そんな、笑えるだなんて……。",
+    "ru": "Нет, что вы…"
+  },
+  {
+    "id": 59277,
+    "scene": "424",
+    "index": 321,
+    "action": 93580,
+    "group": "424:110",
+    "speaker": "Рейджи",
+    "ja": "いいのですよ。ああ、そうだ……",
+    "ru": "Неважно. Ах да…"
+  },
+  {
+    "id": 59278,
+    "scene": "424",
+    "index": 322,
+    "action": 93656,
+    "group": "424:110",
+    "speaker": "Рейджи",
+    "ja": "ついでにひとつ……理性があるうちに",
+    "ru": "Пока разум ещё при мне,"
+  },
+  {
+    "id": 59279,
+    "scene": "424",
+    "index": 323,
+    "action": 93736,
+    "group": "424:110",
+    "speaker": "Рейджи",
+    "ja": "貴女に意見を求めたいことが。",
+    "ru": "хочу спросить ваше мнение."
+  },
+  {
+    "id": 59281,
+    "scene": "424",
+    "index": 325,
+    "action": 94008,
+    "group": "424:111",
+    "speaker": "#Name[2]",
+    "ja": "意見？　なんでしょう？",
+    "ru": "Мнение? О чём?"
+  },
+  {
+    "id": 59283,
+    "scene": "424",
+    "index": 327,
+    "action": 94780,
+    "group": "424:112",
+    "speaker": "Рейджи",
+    "ja": "この間、終焉の懐時計の話を",
+    "ru": "Недавно я рассказывал о карманных"
+  },
+  {
+    "id": 59284,
+    "scene": "424",
+    "index": 328,
+    "action": 94852,
+    "group": "424:112",
+    "speaker": "Рейджи",
+    "ja": "しましたが、あの時計を父から",
+    "ru": "часах Конца. Когда отец"
+  },
+  {
+    "id": 59285,
+    "scene": "424",
+    "index": 329,
+    "action": 94928,
+    "group": "424:112",
+    "speaker": "Рейджи",
+    "ja": "授かった時に……。",
+    "ru": "подарил их мне…"
+  },
+  {
+    "id": 59287,
+    "scene": "424",
+    "index": 331,
+    "action": 95140,
+    "group": "424:113",
+    "speaker": "Рейджи",
+    "ja": "同時に、シュウも父から",
+    "ru": "одновременно Шу получил от отца"
+  },
+  {
+    "id": 59288,
+    "scene": "424",
+    "index": 332,
+    "action": 95208,
+    "group": "424:113",
+    "speaker": "Рейджи",
+    "ja": "ヴァイオリンを授かったのです……。",
+    "ru": "скрипку…"
+  },
+  {
+    "id": 59290,
+    "scene": "424",
+    "index": 334,
+    "action": 95484,
+    "group": "424:114",
+    "speaker": "#Name[2]",
+    "ja": "ヴァイオリン、ですか。",
+    "ru": "Скрипку?"
+  },
+  {
+    "id": 59292,
+    "scene": "424",
+    "index": 336,
+    "action": 95700,
+    "group": "424:115",
+    "speaker": "Рейджи",
+    "ja": "ええ。とびきりのヴァイオリンで",
+    "ru": "Да. Разумеется,"
+  },
+  {
+    "id": 59293,
+    "scene": "424",
+    "index": 337,
+    "action": 95776,
+    "group": "424:115",
+    "speaker": "Рейджи",
+    "ja": "あったことは言うまでもないの",
+    "ru": "это была выдающаяся"
+  },
+  {
+    "id": 59294,
+    "scene": "424",
+    "index": 338,
+    "action": 95852,
+    "group": "424:115",
+    "speaker": "Рейджи",
+    "ja": "ですが……。",
+    "ru": "скрипка…"
+  },
+  {
+    "id": 59296,
+    "scene": "424",
+    "index": 340,
+    "action": 96060,
+    "group": "424:116",
+    "speaker": "Рейджи",
+    "ja": "私は今も考えるのです。",
+    "ru": "Я и сейчас думаю:"
+  },
+  {
+    "id": 59297,
+    "scene": "424",
+    "index": 341,
+    "action": 96128,
+    "group": "424:116",
+    "speaker": "Рейджи",
+    "ja": "なぜ、シュウにヴァイオリン",
+    "ru": "почему Шу получил именно"
+  },
+  {
+    "id": 59298,
+    "scene": "424",
+    "index": 342,
+    "action": 96200,
+    "group": "424:116",
+    "speaker": "Рейджи",
+    "ja": "だったのか。",
+    "ru": "скрипку?"
+  },
+  {
+    "id": 59300,
+    "scene": "424",
+    "index": 344,
+    "action": 96408,
+    "group": "424:117",
+    "speaker": "Рейджи",
+    "ja": "そしてなぜ、私が時計だったのか。",
+    "ru": "И почему я получил часы?"
+  },
+  {
+    "id": 59302,
+    "scene": "424",
+    "index": 346,
+    "action": 96684,
+    "group": "424:118",
+    "speaker": "#Name[2]",
+    "ja": "シュウさんは音楽が好きだから、",
+    "ru": "Шу-сан получил её не просто потому, что"
+  },
+  {
+    "id": 59303,
+    "scene": "424",
+    "index": 347,
+    "action": 96760,
+    "group": "424:118",
+    "speaker": "#Name[2]",
+    "ja": "とか簡単な理由ではないですよね。",
+    "ru": "любит музыку, верно?"
+  },
+  {
+    "id": 59305,
+    "scene": "424",
+    "index": 349,
+    "action": 96988,
+    "group": "424:119",
+    "speaker": "Рейджи",
+    "ja": "当たり前です。それ以上の意味が",
+    "ru": "Разумеется. Здесь должен быть"
+  },
+  {
+    "id": 59306,
+    "scene": "424",
+    "index": 350,
+    "action": 97064,
+    "group": "424:119",
+    "speaker": "Рейджи",
+    "ja": "あるに違いない。あの父からの贈り",
+    "ru": "более глубокий смысл. Это ведь"
+  },
+  {
+    "id": 59307,
+    "scene": "424",
+    "index": 351,
+    "action": 97144,
+    "group": "424:119",
+    "speaker": "Рейджи",
+    "ja": "物なのです。",
+    "ru": "подарок того самого отца."
+  },
+  {
+    "id": 59309,
+    "scene": "424",
+    "index": 353,
+    "action": 97544,
+    "group": "424:120",
+    "speaker": "Рейджи",
+    "ja": "私の時計の意味は……なんとなく",
+    "ru": "Смысл моих часов… кажется,"
+  },
+  {
+    "id": 59310,
+    "scene": "424",
+    "index": 354,
+    "action": 97620,
+    "group": "424:120",
+    "speaker": "Рейджи",
+    "ja": "さきほど分かってしまいましたが。",
+    "ru": "я только что понял."
+  },
+  {
+    "id": 59312,
+    "scene": "424",
+    "index": 356,
+    "action": 97896,
+    "group": "424:121",
+    "speaker": "#Name[2]",
+    "ja": "……え？",
+    "ru": "…Что?"
+  },
+  {
+    "id": 59314,
+    "scene": "424",
+    "index": 358,
+    "action": 98292,
+    "group": "424:122",
+    "speaker": "Рейджи",
+    "ja": "時計はいいのです。ヴァイオリン",
+    "ru": "С часами неважно. Скрипка."
+  },
+  {
+    "id": 59315,
+    "scene": "424",
+    "index": 359,
+    "action": 98368,
+    "group": "424:122",
+    "speaker": "Рейджи",
+    "ja": "です……どうせ貴女は暇でしょうし。",
+    "ru": "Вы всё равно бездельничаете."
+  },
+  {
+    "id": 59317,
+    "scene": "424",
+    "index": 361,
+    "action": 98784,
+    "group": "424:123",
+    "speaker": "Рейджи",
+    "ja": "理性を失いかけている私の代わりに",
+    "ru": "Вместо меня, почти теряющего рассудок,"
+  },
+  {
+    "id": 59318,
+    "scene": "424",
+    "index": 362,
+    "action": 98864,
+    "group": "424:123",
+    "speaker": "Рейджи",
+    "ja": "せいぜいない知恵を絞ってくださいよ。",
+    "ru": "пошевелите своими скудными мозгами."
+  },
+  {
+    "id": 59320,
+    "scene": "424",
+    "index": 364,
+    "action": 99144,
+    "group": "424:124",
+    "speaker": "#Name[2]",
+    "ja": "レイジさん……。",
+    "ru": "Рейджи-сан…"
+  },
+  {
+    "id": 59322,
+    "scene": "424",
+    "index": 366,
+    "action": 99548,
+    "group": "424:125",
+    "speaker": "Рейджи",
+    "ja": "ぐっ……ダメだ……はぁ、さあ、",
+    "ru": "Кх… Нет… ха-а. Всё,"
+  },
+  {
+    "id": 59323,
+    "scene": "424",
+    "index": 367,
+    "action": 99624,
+    "group": "424:125",
+    "speaker": "Рейджи",
+    "ja": "貴女は行って。早く！",
+    "ru": "уходите. Скорее!"
+  },
+  {
+    "id": 59325,
+    "scene": "424",
+    "index": 369,
+    "action": 99764,
+    "group": "424:126",
+    "speaker": "#Name[2]",
+    "ja": "は、はい……失礼します。",
+    "ru": "Д-да… Простите."
+  },
+  {
+    "id": 59327,
+    "scene": "424",
+    "index": 371,
+    "action": 100444,
+    "group": "424:127",
+    "speaker": "#Name[2]",
+    "ja": "（追い出されちゃった……）",
+    "ru": "(Меня выгнали…)"
+  },
+  {
+    "id": 59329,
+    "scene": "424",
+    "index": 373,
+    "action": 100700,
+    "group": "424:128",
+    "speaker": "#Name[2]",
+    "ja": "はぁ……。",
+    "ru": "Ха-а…"
+  },
+  {
+    "id": 59331,
+    "scene": "424",
+    "index": 375,
+    "action": 100828,
+    "group": "424:129",
+    "speaker": "#Name[2]",
+    "ja": "（どうしてシュウさんに",
+    "ru": "(Почему именно скрипку Шу-сану…"
+  },
+  {
+    "id": 59332,
+    "scene": "424",
+    "index": 376,
+    "action": 100896,
+    "group": "424:129",
+    "speaker": "#Name[2]",
+    "ja": "　ヴァイオリンを……なんて、私が",
+    "ru": "Разве я смогу сама"
+  },
+  {
+    "id": 59333,
+    "scene": "424",
+    "index": 377,
+    "action": 100976,
+    "group": "424:129",
+    "speaker": "#Name[2]",
+    "ja": "　考えてわかることなのかな……？）",
+    "ru": "разгадать такое?)"
+  },
+  {
+    "id": 59335,
+    "scene": "424",
+    "index": 379,
+    "action": 101128,
+    "group": "424:130",
+    "speaker": "#Name[2]",
+    "ja": "（それに、レイジさんには",
+    "ru": "(А Рейджи-сану"
+  },
+  {
+    "id": 59336,
+    "scene": "424",
+    "index": 380,
+    "action": 101200,
+    "group": "424:130",
+    "speaker": "#Name[2]",
+    "ja": "　懐中時計……。）",
+    "ru": "достались карманные часы…)"
+  },
+  {
+    "id": 59338,
+    "scene": "424",
+    "index": 382,
+    "action": 101336,
+    "group": "424:131",
+    "speaker": "#Name[2]",
+    "ja": "（その理由はなんとなく",
+    "ru": "(Он сказал, что примерно"
+  },
+  {
+    "id": 59339,
+    "scene": "424",
+    "index": 383,
+    "action": 101404,
+    "group": "424:131",
+    "speaker": "#Name[2]",
+    "ja": "　わかったって言ってたけど、",
+    "ru": "понял их смысл…"
+  },
+  {
+    "id": 59340,
+    "scene": "424",
+    "index": 384,
+    "action": 101480,
+    "group": "424:131",
+    "speaker": "#Name[2]",
+    "ja": "　どういうことなんだろう？）",
+    "ru": "Что же он имел в виду?)"
+  },
+  {
+    "id": 59342,
+    "scene": "424",
+    "index": 386,
+    "action": 101628,
+    "group": "424:132",
+    "speaker": "#Name[2]",
+    "ja": "（プレゼントの意味なんかより、",
+    "ru": "(Сейчас меня куда больше"
+  },
+  {
+    "id": 59343,
+    "scene": "424",
+    "index": 387,
+    "action": 101704,
+    "group": "424:132",
+    "speaker": "#Name[2]",
+    "ja": "　今は自分の身体のことを心配して",
+    "ru": "значения подарков беспокоит"
+  },
+  {
+    "id": 59344,
+    "scene": "424",
+    "index": 388,
+    "action": 101784,
+    "group": "424:132",
+    "speaker": "#Name[2]",
+    "ja": "　ほしいんだけどな……）",
+    "ru": "его состояние…)"
+  },
+  {
+    "id": 59346,
+    "scene": "424",
+    "index": 390,
+    "action": 101928,
+    "group": "424:133",
+    "speaker": "#Name[2]",
+    "ja": "（理性を失ってしまうのが嫌なのは",
+    "ru": "(Понимаю, что он не хочет терять рассудок,"
+  },
+  {
+    "id": 59347,
+    "scene": "424",
+    "index": 391,
+    "action": 102008,
+    "group": "424:133",
+    "speaker": "#Name[2]",
+    "ja": "　わかるけど、あんなに辛そうに",
+    "ru": "но не обязательно терпеть"
+  },
+  {
+    "id": 59348,
+    "scene": "424",
+    "index": 392,
+    "action": 102084,
+    "group": "424:133",
+    "speaker": "#Name[2]",
+    "ja": "　なるまで我慢しなくていいのに）",
+    "ru": "до такого мучения.)"
+  },
+  {
+    "id": 59350,
+    "scene": "424",
+    "index": 394,
+    "action": 102236,
+    "group": "424:134",
+    "speaker": "#Name[2]",
+    "ja": "（私の血を好きなだけ飲めば、",
+    "ru": "(Если он выпьет моей крови сколько хочет,"
+  },
+  {
+    "id": 59351,
+    "scene": "424",
+    "index": 395,
+    "action": 102312,
+    "group": "424:134",
+    "speaker": "#Name[2]",
+    "ja": "　少しは楽になるんじゃないのかな？）",
+    "ru": "ему станет хоть немного легче?)"
+  },
+  {
+    "id": 59353,
+    "scene": "424",
+    "index": 397,
+    "action": 102592,
+    "group": "424:135",
+    "speaker": "#Name[2]",
+    "ja": "（もしかして――、私を",
+    "ru": "(Может быть… он"
+  },
+  {
+    "id": 59354,
+    "scene": "424",
+    "index": 398,
+    "action": 102660,
+    "group": "424:135",
+    "speaker": "#Name[2]",
+    "ja": "　気遣ってくれてる……？）",
+    "ru": "беспокоится обо мне…?)"
+  },
+  {
+    "id": 59356,
+    "scene": "424",
+    "index": 400,
+    "action": 102928,
+    "group": "424:136",
+    "speaker": "#Name[2]",
+    "ja": "（なんて、さすがに自惚れすぎ",
+    "ru": "(Нет, я слишком много о себе думаю."
+  },
+  {
+    "id": 59357,
+    "scene": "424",
+    "index": 401,
+    "action": 103004,
+    "group": "424:136",
+    "speaker": "#Name[2]",
+    "ja": "　だよね……。レイジさんが聞いたら",
+    "ru": "Рейджи-сан наверняка рассердился бы,"
+  },
+  {
+    "id": 59358,
+    "scene": "424",
+    "index": 402,
+    "action": 103084,
+    "group": "424:136",
+    "speaker": "#Name[2]",
+    "ja": "　きっと怒る）",
+    "ru": "услышав такое.)"
+  },
+  {
+    "id": 59360,
+    "scene": "424",
+    "index": 404,
+    "action": 103216,
+    "group": "424:137",
+    "speaker": "#Name[2]",
+    "ja": "（はぁ、せめてあの症状の",
+    "ru": "(Ха-а… Если бы только понять"
+  },
+  {
+    "id": 59361,
+    "scene": "424",
+    "index": 405,
+    "action": 103288,
+    "group": "424:137",
+    "speaker": "#Name[2]",
+    "ja": "　理由がわかればいいんだけど……）",
+    "ru": "причину этих симптомов…)"
+  },
+  {
+    "id": 59363,
+    "scene": "424",
+    "index": 407,
+    "action": 103564,
+    "group": "424:138",
+    "speaker": "#Name[2]",
+    "ja": "（これ以上……レイジさんに苦しんで",
+    "ru": "(Я больше не хочу, чтобы Рейджи-сан"
+  },
+  {
+    "id": 59364,
+    "scene": "424",
+    "index": 408,
+    "action": 103644,
+    "group": "424:138",
+    "speaker": "#Name[2]",
+    "ja": "　ほしくないよ……）",
+    "ru": "так страдал…)"
+  }
+]

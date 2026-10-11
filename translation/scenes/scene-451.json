@@ -1,0 +1,1598 @@
+[
+  {
+    "id": 65925,
+    "scene": "451",
+    "index": 0,
+    "action": 45368,
+    "group": "451:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "――ひとりほど",
+    "ru": "― Нет ничего приятнее",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65926,
+    "scene": "451",
+    "index": 1,
+    "action": 45428,
+    "group": "451:0",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "心地のいいものはない。",
+    "ru": "одиночества.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65927,
+    "scene": "451",
+    "index": 3,
+    "action": 45560,
+    "group": "451:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "誰にも邪魔をされず、",
+    "ru": "Никто не мешает,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65928,
+    "scene": "451",
+    "index": 4,
+    "action": 45628,
+    "group": "451:1",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "誰にも罵倒されず、",
+    "ru": "никто не оскорбляет.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65929,
+    "scene": "451",
+    "index": 6,
+    "action": 45756,
+    "group": "451:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "ひとりであれば、",
+    "ru": "Когда ты один,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65930,
+    "scene": "451",
+    "index": 7,
+    "action": 45820,
+    "group": "451:2",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "誰を傷つけることもない。",
+    "ru": "не ранишь никого.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65931,
+    "scene": "451",
+    "index": 9,
+    "action": 45956,
+    "group": "451:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "本来なら、子どもの話し相手になるはずの母親は",
+    "ru": "Мать, которая должна была разговаривать",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65932,
+    "scene": "451",
+    "index": 10,
+    "action": 46048,
+    "group": "451:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "とうにおかしくなっていて、",
+    "ru": "с ребёнком, давно сошла с ума,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65933,
+    "scene": "451",
+    "index": 11,
+    "action": 46120,
+    "group": "451:3",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "まともであることの方が少ないくらいだ。",
+    "ru": "и в здравом уме бывает редко.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65934,
+    "scene": "451",
+    "index": 13,
+    "action": 46268,
+    "group": "451:4",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "何かあるとオレの名を叫び、喚き立てる。",
+    "ru": "Чуть что ― кричит моё имя и вопит.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65935,
+    "scene": "451",
+    "index": 15,
+    "action": 46416,
+    "group": "451:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "毎日聞こえてくる金切り声と",
+    "ru": "Каждый день я до смерти уставал",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65936,
+    "scene": "451",
+    "index": 16,
+    "action": 46488,
+    "group": "451:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "オレを呼びに来る者たちの声に",
+    "ru": "от её визга и голосов тех,",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65937,
+    "scene": "451",
+    "index": 17,
+    "action": 46564,
+    "group": "451:5",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "ほとほとうんざりしてしまっていた。",
+    "ru": "кто приходил звать меня к ней.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65938,
+    "scene": "451",
+    "index": 19,
+    "action": 46708,
+    "group": "451:6",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "ひとりがいい、と執拗に",
+    "ru": "Я снова и снова твердил:",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65939,
+    "scene": "451",
+    "index": 20,
+    "action": 46776,
+    "group": "451:6",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "そう繰り返す。",
+    "ru": "лучше быть одному.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65940,
+    "scene": "451",
+    "index": 22,
+    "action": 46900,
+    "group": "451:7",
+    "speaker": "Юи (мысли, девушка)",
+    "ja": "オレは、ひとりがいいんだ――。",
+    "ru": "Я хочу быть один ― и всё.",
+    "context_note": "POV/speaker anomaly: extracted speaker is Yui, but the first-person narration uses オレ and describes Subaru’s mother; this is Subaru’s internal narration."
+  },
+  {
+    "id": 65942,
+    "scene": "451",
+    "index": 25,
+    "action": 47612,
+    "group": "451:8",
+    "speaker": "Дворецкий",
+    "ja": "スバル様ゞ　……スバル様！",
+    "ru": "Господин Субару! …Господин Субару!"
+  },
+  {
+    "id": 65944,
+    "scene": "451",
+    "index": 27,
+    "action": 48028,
+    "group": "451:9",
+    "speaker": "Субару",
+    "ja": "チッ……うぜえのが来た……。",
+    "ru": "Тц… Опять кто-то припёрся…"
+  },
+  {
+    "id": 65946,
+    "scene": "451",
+    "index": 29,
+    "action": 48252,
+    "group": "451:10",
+    "speaker": "Дворецкий",
+    "ja": "ああ、こちらにおいででしたか。",
+    "ru": "Ах, вот вы где."
+  },
+  {
+    "id": 65947,
+    "scene": "451",
+    "index": 30,
+    "action": 48328,
+    "group": "451:10",
+    "speaker": "Дворецкий",
+    "ja": "早くお戻りください。",
+    "ru": "Пожалуйста, скорее возвращайтесь."
+  },
+  {
+    "id": 65949,
+    "scene": "451",
+    "index": 32,
+    "action": 48544,
+    "group": "451:11",
+    "speaker": "Субару",
+    "ja": "また、母さんが？",
+    "ru": "Опять мама?"
+  },
+  {
+    "id": 65951,
+    "scene": "451",
+    "index": 34,
+    "action": 48756,
+    "group": "451:12",
+    "speaker": "Дворецкий",
+    "ja": "スバル様のお声しか届かない",
+    "ru": "Похоже, до неё доходит только"
+  },
+  {
+    "id": 65952,
+    "scene": "451",
+    "index": 35,
+    "action": 48828,
+    "group": "451:12",
+    "speaker": "Дворецкий",
+    "ja": "ようで……大変申し訳ございません。",
+    "ru": "ваш голос… Простите нас."
+  },
+  {
+    "id": 65954,
+    "scene": "451",
+    "index": 37,
+    "action": 49252,
+    "group": "451:13",
+    "speaker": "Субару",
+    "ja": "いい。別に……慣れてるし。",
+    "ru": "Ничего. Я… уже привык."
+  },
+  {
+    "id": 65956,
+    "scene": "451",
+    "index": 39,
+    "action": 50664,
+    "group": "451:14",
+    "speaker": "Криста",
+    "ja": "――スバル！　スバルは……",
+    "ru": "― Субару! Субару…"
+  },
+  {
+    "id": 65957,
+    "scene": "451",
+    "index": 40,
+    "action": 50736,
+    "group": "451:14",
+    "speaker": "Криста",
+    "ja": "どこに行ったのゞ",
+    "ru": "куда ты ушёл?!"
+  },
+  {
+    "id": 65959,
+    "scene": "451",
+    "index": 42,
+    "action": 50952,
+    "group": "451:15",
+    "speaker": "Горничная 3",
+    "ja": "す、すぐにいらっしゃるので、",
+    "ru": "О-он сейчас придёт,"
+  },
+  {
+    "id": 65960,
+    "scene": "451",
+    "index": 43,
+    "action": 51028,
+    "group": "451:15",
+    "speaker": "Горничная 3",
+    "ja": "もう少々お待ちを……。",
+    "ru": "пожалуйста, подождите ещё немного…"
+  },
+  {
+    "id": 65962,
+    "scene": "451",
+    "index": 45,
+    "action": 51436,
+    "group": "451:16",
+    "speaker": "Криста",
+    "ja": "っ……止めてっゝ　助けてっゝ",
+    "ru": "Н-нет… прекратите! Помогите!"
+  },
+  {
+    "id": 65963,
+    "scene": "451",
+    "index": 46,
+    "action": 51512,
+    "group": "451:16",
+    "speaker": "Криста",
+    "ja": "わたくし……わたくしは……！",
+    "ru": "Я… я…!"
+  },
+  {
+    "id": 65965,
+    "scene": "451",
+    "index": 48,
+    "action": 52368,
+    "group": "451:17",
+    "speaker": "Субару",
+    "ja": "（……はぁ、また錯乱してんのか）",
+    "ru": "(Ха-а… опять помешалась…)"
+  },
+  {
+    "id": 65967,
+    "scene": "451",
+    "index": 50,
+    "action": 52600,
+    "group": "451:18",
+    "speaker": "Горничная 3",
+    "ja": "……スバル様！　奥様、スバル様が。",
+    "ru": "…Господин Субару! Госпожа, Субару пришёл."
+  },
+  {
+    "id": 65969,
+    "scene": "451",
+    "index": 52,
+    "action": 53020,
+    "group": "451:19",
+    "speaker": "Криста",
+    "ja": "スバル……ゞ　ああ、スバル……",
+    "ru": "Субару…! Ах, Субару…"
+  },
+  {
+    "id": 65970,
+    "scene": "451",
+    "index": 53,
+    "action": 53096,
+    "group": "451:19",
+    "speaker": "Криста",
+    "ja": "どこに行っていたの……。",
+    "ru": "где ты был…"
+  },
+  {
+    "id": 65972,
+    "scene": "451",
+    "index": 55,
+    "action": 53512,
+    "group": "451:20",
+    "speaker": "Субару",
+    "ja": "ごめん。",
+    "ru": "Прости."
+  },
+  {
+    "id": 65974,
+    "scene": "451",
+    "index": 57,
+    "action": 53720,
+    "group": "451:21",
+    "speaker": "Криста",
+    "ja": "はぁ……良かった……私のスバル。",
+    "ru": "Ха-а… слава богу… мой Субару."
+  },
+  {
+    "id": 65975,
+    "scene": "451",
+    "index": 58,
+    "action": 53800,
+    "group": "451:21",
+    "speaker": "Криста",
+    "ja": "さあ、もっと良く……顔を見せて。",
+    "ru": "Ну же… дай мне получше увидеть лицо."
+  },
+  {
+    "id": 65977,
+    "scene": "451",
+    "index": 60,
+    "action": 53948,
+    "group": "451:22",
+    "speaker": "Субару",
+    "ja": "……。",
+    "ru": "…………"
+  },
+  {
+    "id": 65979,
+    "scene": "451",
+    "index": 62,
+    "action": 54452,
+    "group": "451:22",
+    "speaker": "Криста",
+    "ja": "安心しました。いったいどこへ……",
+    "ru": "Какое облегчение."
+  },
+  {
+    "id": 65980,
+    "scene": "451",
+    "index": 63,
+    "action": 54532,
+    "group": "451:22",
+    "speaker": "Криста",
+    "ja": "わたくしはあなたの姿が見えていない",
+    "ru": "Где же ты был…"
+  },
+  {
+    "id": 65981,
+    "scene": "451",
+    "index": 64,
+    "action": 54612,
+    "group": "451:22",
+    "speaker": "Криста",
+    "ja": "と不安で不安で……。",
+    "ru": "Когда я тебя не вижу, мне так тревожно…"
+  },
+  {
+    "id": 65983,
+    "scene": "451",
+    "index": 66,
+    "action": 54828,
+    "group": "451:23",
+    "speaker": "Субару",
+    "ja": "ちょっと庭にいただけだ。",
+    "ru": "Я просто был в саду."
+  },
+  {
+    "id": 65984,
+    "scene": "451",
+    "index": 67,
+    "action": 54900,
+    "group": "451:23",
+    "speaker": "Субару",
+    "ja": "オレは……どこにも行かない……。",
+    "ru": "Я… никуда не уйду…"
+  },
+  {
+    "id": 65986,
+    "scene": "451",
+    "index": 69,
+    "action": 55400,
+    "group": "451:24",
+    "speaker": "Криста",
+    "ja": "ウソ……ウソツキ……！",
+    "ru": "Ложь… лжец…!"
+  },
+  {
+    "id": 65988,
+    "scene": "451",
+    "index": 71,
+    "action": 55812,
+    "group": "451:25",
+    "speaker": "Субару",
+    "ja": "ウソ……？",
+    "ru": "Ложь…?"
+  },
+  {
+    "id": 65990,
+    "scene": "451",
+    "index": 73,
+    "action": 56208,
+    "group": "451:26",
+    "speaker": "Криста",
+    "ja": "っ……いやっ……わたくしは……",
+    "ru": "Н-нет… я…"
+  },
+  {
+    "id": 65991,
+    "scene": "451",
+    "index": 74,
+    "action": 56284,
+    "group": "451:26",
+    "speaker": "Криста",
+    "ja": "わたくしはひとり……ひとりなんて",
+    "ru": "я одна… я не хочу"
+  },
+  {
+    "id": 65992,
+    "scene": "451",
+    "index": 75,
+    "action": 56364,
+    "group": "451:26",
+    "speaker": "Криста",
+    "ja": "嫌……！",
+    "ru": "оставаться одна…!"
+  },
+  {
+    "id": 65994,
+    "scene": "451",
+    "index": 77,
+    "action": 56764,
+    "group": "451:27",
+    "speaker": "Субару",
+    "ja": "母さん、落ち着け。",
+    "ru": "Мама, успокойся."
+  },
+  {
+    "id": 65995,
+    "scene": "451",
+    "index": 78,
+    "action": 56828,
+    "group": "451:27",
+    "speaker": "Субару",
+    "ja": "オレはどこにも行かないから。",
+    "ru": "Я никуда не уйду."
+  },
+  {
+    "id": 65997,
+    "scene": "451",
+    "index": 80,
+    "action": 57244,
+    "group": "451:28",
+    "speaker": "Криста",
+    "ja": "お前は……わたくしを……あぁああ",
+    "ru": "Ты… меня… ах-а-а…"
+  },
+  {
+    "id": 65998,
+    "scene": "451",
+    "index": 81,
+    "action": 57324,
+    "group": "451:28",
+    "speaker": "Криста",
+    "ja": "嫌……やめて！　わたくしは……",
+    "ru": "Нет… прекрати! Я…"
+  },
+  {
+    "id": 65999,
+    "scene": "451",
+    "index": 82,
+    "action": 57400,
+    "group": "451:28",
+    "speaker": "Криста",
+    "ja": "穢らわしいっゝゝ",
+    "ru": "мерзко!!"
+  },
+  {
+    "id": 66001,
+    "scene": "451",
+    "index": 84,
+    "action": 58088,
+    "group": "451:29",
+    "speaker": "Субару",
+    "ja": "っ……ゞ",
+    "ru": "…!"
+  },
+  {
+    "id": 66003,
+    "scene": "451",
+    "index": 86,
+    "action": 58296,
+    "group": "451:30",
+    "speaker": "Криста",
+    "ja": "お前は、穢れているわ！　",
+    "ru": "Ты осквернён!"
+  },
+  {
+    "id": 66004,
+    "scene": "451",
+    "index": 87,
+    "action": 58368,
+    "group": "451:30",
+    "speaker": "Криста",
+    "ja": "スバル……お前は……穢れて……",
+    "ru": "Субару… ты… осквернён…"
+  },
+  {
+    "id": 66005,
+    "scene": "451",
+    "index": 88,
+    "action": 58444,
+    "group": "451:30",
+    "speaker": "Криста",
+    "ja": "だめっゝ　だめよっ……ゝ",
+    "ru": "нет! Нет…!"
+  },
+  {
+    "id": 66007,
+    "scene": "451",
+    "index": 90,
+    "action": 58668,
+    "group": "451:31",
+    "speaker": "Горничная 3",
+    "ja": "奥様……！　落ち着いてください！",
+    "ru": "Госпожа…! Пожалуйста, успокойтесь!"
+  },
+  {
+    "id": 66009,
+    "scene": "451",
+    "index": 92,
+    "action": 59088,
+    "group": "451:32",
+    "speaker": "Криста",
+    "ja": "やめてっ！　離して……っ！",
+    "ru": "Прекратите! Отпустите…!"
+  },
+  {
+    "id": 66010,
+    "scene": "451",
+    "index": 93,
+    "action": 59160,
+    "group": "451:32",
+    "speaker": "Криста",
+    "ja": "わたくしはそんな……嫌です！",
+    "ru": "Я не такая… не хочу!"
+  },
+  {
+    "id": 66011,
+    "scene": "451",
+    "index": 94,
+    "action": 59236,
+    "group": "451:32",
+    "speaker": "Криста",
+    "ja": "わたくしはっゝゝ",
+    "ru": "Я!!"
+  },
+  {
+    "id": 66013,
+    "scene": "451",
+    "index": 96,
+    "action": 59724,
+    "group": "451:33",
+    "speaker": "Субару",
+    "ja": "……っ……。",
+    "ru": "…………"
+  },
+  {
+    "id": 66014,
+    "scene": "451",
+    "index": 97,
+    "action": 60624,
+    "group": "451:34",
+    "speaker": "Субару",
+    "ja": "こんな母がいれば、誰もがひとりに、",
+    "ru": "С такой матерью любой захотел бы"
+  },
+  {
+    "id": 66015,
+    "scene": "451",
+    "index": 98,
+    "action": 60704,
+    "group": "451:34",
+    "speaker": "Субару",
+    "ja": "自由になりたいと思うに違いない。",
+    "ru": "остаться один и стать свободным."
+  },
+  {
+    "id": 66016,
+    "scene": "451",
+    "index": 100,
+    "action": 60848,
+    "group": "451:35",
+    "speaker": "Субару",
+    "ja": "だが、オレには母を",
+    "ru": "Но я не мог бросить мать."
+  },
+  {
+    "id": 66017,
+    "scene": "451",
+    "index": 101,
+    "action": 60912,
+    "group": "451:35",
+    "speaker": "Субару",
+    "ja": "見捨てることができなかった。",
+    "ru": "И всё же иногда думаю:"
+  },
+  {
+    "id": 66018,
+    "scene": "451",
+    "index": 102,
+    "action": 60988,
+    "group": "451:35",
+    "speaker": "Субару",
+    "ja": "でも逆に、それが母を",
+    "ru": "может, именно этим"
+  },
+  {
+    "id": 66019,
+    "scene": "451",
+    "index": 103,
+    "action": 61056,
+    "group": "451:35",
+    "speaker": "Субару",
+    "ja": "苦しめているのではと思う。",
+    "ru": "я только мучаю её."
+  },
+  {
+    "id": 66020,
+    "scene": "451",
+    "index": 105,
+    "action": 61192,
+    "group": "451:36",
+    "speaker": "Субару",
+    "ja": "オレを見ると、母は思いだすのだ。",
+    "ru": "Увидев меня, мать вспоминает"
+  },
+  {
+    "id": 66021,
+    "scene": "451",
+    "index": 106,
+    "action": 61272,
+    "group": "451:36",
+    "speaker": "Субару",
+    "ja": "アイツのことを――",
+    "ru": "о нём ―"
+  },
+  {
+    "id": 66022,
+    "scene": "451",
+    "index": 108,
+    "action": 61400,
+    "group": "451:37",
+    "speaker": "Субару",
+    "ja": "オレがいなくなって、アイツのことを",
+    "ru": "Если я исчезну и она сумеет"
+  },
+  {
+    "id": 66023,
+    "scene": "451",
+    "index": 109,
+    "action": 61480,
+    "group": "451:37",
+    "speaker": "Субару",
+    "ja": "完全に忘れてしまえれば、",
+    "ru": "совсем забыть о нём,"
+  },
+  {
+    "id": 66024,
+    "scene": "451",
+    "index": 110,
+    "action": 61552,
+    "group": "451:37",
+    "speaker": "Субару",
+    "ja": "母はよくなるのかもしれない。",
+    "ru": "может, ей станет лучше."
+  },
+  {
+    "id": 66025,
+    "scene": "451",
+    "index": 112,
+    "action": 61692,
+    "group": "451:38",
+    "speaker": "Субару",
+    "ja": "ならいっそ、見捨ててしまえればいい。",
+    "ru": "Тогда лучше бы мне просто бросить её."
+  },
+  {
+    "id": 66026,
+    "scene": "451",
+    "index": 114,
+    "action": 61840,
+    "group": "451:39",
+    "speaker": "Субару",
+    "ja": "でも、オレにはそれができない。",
+    "ru": "Но я не могу."
+  },
+  {
+    "id": 66027,
+    "scene": "451",
+    "index": 116,
+    "action": 61980,
+    "group": "451:40",
+    "speaker": "Субару",
+    "ja": "――オレは、弱い……。",
+    "ru": "― Я слаб…"
+  },
+  {
+    "id": 66029,
+    "scene": "451",
+    "index": 119,
+    "action": 62952,
+    "group": "451:41",
+    "speaker": "Субару",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 66031,
+    "scene": "451",
+    "index": 121,
+    "action": 63172,
+    "group": "451:41",
+    "speaker": "#Name[2]",
+    "ja": "あ、スバルくん……",
+    "ru": "А, Субару-кун…"
+  },
+  {
+    "id": 66032,
+    "scene": "451",
+    "index": 122,
+    "action": 63236,
+    "group": "451:41",
+    "speaker": "#Name[2]",
+    "ja": "こんなところにいた。",
+    "ru": "Вот ты где."
+  },
+  {
+    "id": 66034,
+    "scene": "451",
+    "index": 124,
+    "action": 63644,
+    "group": "451:42",
+    "speaker": "Субару",
+    "ja": "チッ……お前かよ、",
+    "ru": "Тц… Это ты."
+  },
+  {
+    "id": 66035,
+    "scene": "451",
+    "index": 125,
+    "action": 63708,
+    "group": "451:42",
+    "speaker": "Субару",
+    "ja": "何か用か。",
+    "ru": "Чего надо?"
+  },
+  {
+    "id": 66037,
+    "scene": "451",
+    "index": 127,
+    "action": 63960,
+    "group": "451:43",
+    "speaker": "#Name[2]",
+    "ja": "ごめん……姿が見えないから",
+    "ru": "Прости… Я не видела тебя"
+  },
+  {
+    "id": 66038,
+    "scene": "451",
+    "index": 128,
+    "action": 64032,
+    "group": "451:43",
+    "speaker": "#Name[2]",
+    "ja": "探しに来たんだ。",
+    "ru": "и пришла поискать."
+  },
+  {
+    "id": 66040,
+    "scene": "451",
+    "index": 130,
+    "action": 64432,
+    "group": "451:44",
+    "speaker": "Субару",
+    "ja": "オレがどこにいようが、",
+    "ru": "Где бы я ни был,"
+  },
+  {
+    "id": 66041,
+    "scene": "451",
+    "index": 131,
+    "action": 64500,
+    "group": "451:44",
+    "speaker": "Субару",
+    "ja": "お前に関係ねえだろ。",
+    "ru": "тебя это не касается."
+  },
+  {
+    "id": 66043,
+    "scene": "451",
+    "index": 133,
+    "action": 64640,
+    "group": "451:45",
+    "speaker": "#Name[2]",
+    "ja": "……でも、ここ寒いし",
+    "ru": "…Но здесь холодно."
+  },
+  {
+    "id": 66044,
+    "scene": "451",
+    "index": 134,
+    "action": 64708,
+    "group": "451:45",
+    "speaker": "#Name[2]",
+    "ja": "戻った方が……。",
+    "ru": "Лучше вернуться…"
+  },
+  {
+    "id": 66046,
+    "scene": "451",
+    "index": 136,
+    "action": 64920,
+    "group": "451:46",
+    "speaker": "Субару",
+    "ja": "お前……誰に向かって",
+    "ru": "Ты вообще понимаешь,"
+  },
+  {
+    "id": 66047,
+    "scene": "451",
+    "index": 137,
+    "action": 64988,
+    "group": "451:46",
+    "speaker": "Субару",
+    "ja": "口利いてんだ？",
+    "ru": "с кем так разговариваешь?"
+  },
+  {
+    "id": 66049,
+    "scene": "451",
+    "index": 139,
+    "action": 65244,
+    "group": "451:47",
+    "speaker": "#Name[2]",
+    "ja": "え……？",
+    "ru": "Что…?"
+  },
+  {
+    "id": 66051,
+    "scene": "451",
+    "index": 141,
+    "action": 65640,
+    "group": "451:48",
+    "speaker": "Субару",
+    "ja": "オレは誰の指図も受けねえよ。",
+    "ru": "Я ничьих приказов не слушаю."
+  },
+  {
+    "id": 66052,
+    "scene": "451",
+    "index": 142,
+    "action": 65716,
+    "group": "451:48",
+    "speaker": "Субару",
+    "ja": "もちろん、お前の指図も、な！",
+    "ru": "И твоих тоже!"
+  },
+  {
+    "id": 66054,
+    "scene": "451",
+    "index": 144,
+    "action": 66116,
+    "group": "451:49",
+    "speaker": "#Name[2]",
+    "ja": "……っ。",
+    "ru": "…"
+  },
+  {
+    "id": 66056,
+    "scene": "451",
+    "index": 146,
+    "action": 66368,
+    "group": "451:50",
+    "speaker": "#Name[2]",
+    "ja": "（スバルくん、どうしたんだろう、",
+    "ru": "(Что с Субару-куном?"
+  },
+  {
+    "id": 66057,
+    "scene": "451",
+    "index": 147,
+    "action": 66448,
+    "group": "451:50",
+    "speaker": "#Name[2]",
+    "ja": "　いつもより、機嫌が悪いような……）",
+    "ru": "Он будто ещё злее обычного…)"
+  },
+  {
+    "id": 66059,
+    "scene": "451",
+    "index": 149,
+    "action": 67232,
+    "group": "451:51",
+    "speaker": "Субару",
+    "ja": "……お前、なんでオレを",
+    "ru": "…Почему ты"
+  },
+  {
+    "id": 66060,
+    "scene": "451",
+    "index": 150,
+    "action": 67300,
+    "group": "451:51",
+    "speaker": "Субару",
+    "ja": "選んだんだ。",
+    "ru": "выбрала меня?"
+  },
+  {
+    "id": 66062,
+    "scene": "451",
+    "index": 152,
+    "action": 67556,
+    "group": "451:52",
+    "speaker": "#Name[2]",
+    "ja": "え？",
+    "ru": "Что?"
+  },
+  {
+    "id": 66064,
+    "scene": "451",
+    "index": 154,
+    "action": 67948,
+    "group": "451:53",
+    "speaker": "Субару",
+    "ja": "さっきの話だ！",
+    "ru": "Я про тот разговор!"
+  },
+  {
+    "id": 66066,
+    "scene": "451",
+    "index": 156,
+    "action": 68204,
+    "group": "451:54",
+    "speaker": "#Name[2]",
+    "ja": "あ、えっと……その……。",
+    "ru": "А… ну…"
+  },
+  {
+    "id": 66068,
+    "scene": "451",
+    "index": 158,
+    "action": 68612,
+    "group": "451:55",
+    "speaker": "Субару",
+    "ja": "ハッ……答えられねえのかよ。",
+    "ru": "Ха! Ответить не можешь?"
+  },
+  {
+    "id": 66070,
+    "scene": "451",
+    "index": 160,
+    "action": 68760,
+    "group": "451:56",
+    "speaker": "#Name[2]",
+    "ja": "ち、違うよ……。",
+    "ru": "Н-нет, не поэтому…"
+  },
+  {
+    "id": 66072,
+    "scene": "451",
+    "index": 162,
+    "action": 68972,
+    "group": "451:57",
+    "speaker": "Субару",
+    "ja": "じゃあ、なんだよ。",
+    "ru": "Тогда почему?"
+  },
+  {
+    "id": 66074,
+    "scene": "451",
+    "index": 164,
+    "action": 69108,
+    "group": "451:58",
+    "speaker": "#Name[2]",
+    "ja": "スバルくんなら、もしあの人たちが",
+    "ru": "Я подумала, что Субару-кун,"
+  },
+  {
+    "id": 66075,
+    "scene": "451",
+    "index": 165,
+    "action": 69188,
+    "group": "451:58",
+    "speaker": "#Name[2]",
+    "ja": "襲ってきても何とかしてくれる",
+    "ru": "даже если те люди нападут,"
+  },
+  {
+    "id": 66076,
+    "scene": "451",
+    "index": 166,
+    "action": 69264,
+    "group": "451:58",
+    "speaker": "#Name[2]",
+    "ja": "んじゃないかなって……。",
+    "ru": "сможет что-нибудь сделать…"
+  },
+  {
+    "id": 66078,
+    "scene": "451",
+    "index": 168,
+    "action": 69672,
+    "group": "451:59",
+    "speaker": "Субару",
+    "ja": "チッ……。",
+    "ru": "Тц…"
+  },
+  {
+    "id": 66080,
+    "scene": "451",
+    "index": 170,
+    "action": 69800,
+    "group": "451:60",
+    "speaker": "#Name[2]",
+    "ja": "（少しは納得してくれた、かな……）",
+    "ru": "(Кажется, хоть немного убедила его…)"
+  },
+  {
+    "id": 66082,
+    "scene": "451",
+    "index": 172,
+    "action": 70028,
+    "group": "451:61",
+    "speaker": "Субару",
+    "ja": "うぜぇ……。",
+    "ru": "Бесит…"
+  },
+  {
+    "id": 66084,
+    "scene": "451",
+    "index": 174,
+    "action": 70236,
+    "group": "451:62",
+    "speaker": "Субару",
+    "ja": "いいか？　オレは最低限のことしか",
+    "ru": "Слушай. Я сделаю только необходимое."
+  },
+  {
+    "id": 66085,
+    "scene": "451",
+    "index": 175,
+    "action": 70316,
+    "group": "451:62",
+    "speaker": "Субару",
+    "ja": "しねぇ。自分の身は自分で守れ。",
+    "ru": "Сама себя защищай."
+  },
+  {
+    "id": 66087,
+    "scene": "451",
+    "index": 177,
+    "action": 70588,
+    "group": "451:63",
+    "speaker": "#Name[2]",
+    "ja": "うん、でも……ありがとう。",
+    "ru": "Хорошо… Но спасибо."
+  },
+  {
+    "id": 66089,
+    "scene": "451",
+    "index": 179,
+    "action": 70808,
+    "group": "451:64",
+    "speaker": "Субару",
+    "ja": "あのうさんくせぇ野郎共が",
+    "ru": "Кто знает, когда"
+  },
+  {
+    "id": 66090,
+    "scene": "451",
+    "index": 180,
+    "action": 70880,
+    "group": "451:64",
+    "speaker": "Субару",
+    "ja": "いつまたお前に絡んでくるか",
+    "ru": "эти подозрительные типы"
+  },
+  {
+    "id": 66091,
+    "scene": "451",
+    "index": 181,
+    "action": 70952,
+    "group": "451:64",
+    "speaker": "Субару",
+    "ja": "わからねーんだからな。",
+    "ru": "снова к тебе полезут."
+  },
+  {
+    "id": 66093,
+    "scene": "451",
+    "index": 183,
+    "action": 71168,
+    "group": "451:65",
+    "speaker": "Субару",
+    "ja": "せいぜい血を吸われねぇように",
+    "ru": "Смотри, не дай им"
+  },
+  {
+    "id": 66094,
+    "scene": "451",
+    "index": 184,
+    "action": 71244,
+    "group": "451:65",
+    "speaker": "Субару",
+    "ja": "注意するんだな。",
+    "ru": "выпить твою кровь."
+  },
+  {
+    "id": 66096,
+    "scene": "451",
+    "index": 186,
+    "action": 71504,
+    "group": "451:66",
+    "speaker": "#Name[2]",
+    "ja": "わかった……気を付けるよ。",
+    "ru": "Поняла… Буду осторожна."
+  },
+  {
+    "id": 66098,
+    "scene": "451",
+    "index": 188,
+    "action": 71916,
+    "group": "451:67",
+    "speaker": "Субару",
+    "ja": "チッ……うぜえ。こそこそ",
+    "ru": "Тц… бесит. Шныряют исподтишка…"
+  },
+  {
+    "id": 66099,
+    "scene": "451",
+    "index": 189,
+    "action": 71988,
+    "group": "451:67",
+    "speaker": "Субару",
+    "ja": "しやがって……それもこれも、",
+    "ru": "И всё это"
+  },
+  {
+    "id": 66100,
+    "scene": "451",
+    "index": 190,
+    "action": 72064,
+    "group": "451:67",
+    "speaker": "Субару",
+    "ja": "全部あのクソオヤジのせいだ！",
+    "ru": "из-за этого чёртова старика!"
+  },
+  {
+    "id": 66102,
+    "scene": "451",
+    "index": 192,
+    "action": 72336,
+    "group": "451:68",
+    "speaker": "#Name[2]",
+    "ja": "お父さんの……？",
+    "ru": "Из-за твоего… отца?"
+  },
+  {
+    "id": 66104,
+    "scene": "451",
+    "index": 194,
+    "action": 72736,
+    "group": "451:69",
+    "speaker": "Субару",
+    "ja": "そうだ……言っただろ、",
+    "ru": "Да… Я же говорил,"
+  },
+  {
+    "id": 66105,
+    "scene": "451",
+    "index": 195,
+    "action": 72804,
+    "group": "451:69",
+    "speaker": "Субару",
+    "ja": "これまでにも何度か",
+    "ru": "такое уже"
+  },
+  {
+    "id": 66106,
+    "scene": "451",
+    "index": 196,
+    "action": 72868,
+    "group": "451:69",
+    "speaker": "Субару",
+    "ja": "こういうことがあったって。",
+    "ru": "случалось не раз."
+  },
+  {
+    "id": 66108,
+    "scene": "451",
+    "index": 198,
+    "action": 73136,
+    "group": "451:70",
+    "speaker": "#Name[2]",
+    "ja": "う、うん……聞いたけど。",
+    "ru": "Д-да… говорил."
+  },
+  {
+    "id": 66110,
+    "scene": "451",
+    "index": 200,
+    "action": 73720,
+    "group": "451:71",
+    "speaker": "Субару",
+    "ja": "全部、アイツの座を狙っての",
+    "ru": "Всё из-за того, что метят"
+  },
+  {
+    "id": 66111,
+    "scene": "451",
+    "index": 201,
+    "action": 73792,
+    "group": "451:71",
+    "speaker": "Субару",
+    "ja": "ことなんだよ！　今回のことだって",
+    "ru": "на его место! И сейчас"
+  },
+  {
+    "id": 66112,
+    "scene": "451",
+    "index": 202,
+    "action": 73872,
+    "group": "451:71",
+    "speaker": "Субару",
+    "ja": "そうに決まってる……。",
+    "ru": "наверняка то же самое…"
+  },
+  {
+    "id": 66114,
+    "scene": "451",
+    "index": 204,
+    "action": 74276,
+    "group": "451:72",
+    "speaker": "Субару",
+    "ja": "クソッ……いつもいつも、",
+    "ru": "Чёрт… всегда,"
+  },
+  {
+    "id": 66115,
+    "scene": "451",
+    "index": 205,
+    "action": 74348,
+    "group": "451:72",
+    "speaker": "Субару",
+    "ja": "アイツのせいで……。",
+    "ru": "всегда из-за него…"
+  },
+  {
+    "id": 66117,
+    "scene": "451",
+    "index": 207,
+    "action": 74488,
+    "group": "451:73",
+    "speaker": "#Name[2]",
+    "ja": "でも、彼らの目的は逆巻の家",
+    "ru": "Но, возможно, им нужна не семья Сакамаки,"
+  },
+  {
+    "id": 66118,
+    "scene": "451",
+    "index": 208,
+    "action": 74560,
+    "group": "451:73",
+    "speaker": "#Name[2]",
+    "ja": "じゃなくて、私かもって……。",
+    "ru": "а я…"
+  },
+  {
+    "id": 66120,
+    "scene": "451",
+    "index": 210,
+    "action": 74972,
+    "group": "451:74",
+    "speaker": "Субару",
+    "ja": "そう決まったわけじゃねえし、",
+    "ru": "Это ещё не решено."
+  },
+  {
+    "id": 66121,
+    "scene": "451",
+    "index": 211,
+    "action": 75048,
+    "group": "451:74",
+    "speaker": "Субару",
+    "ja": "お前をここにやったのも",
+    "ru": "И именно он"
+  },
+  {
+    "id": 66122,
+    "scene": "451",
+    "index": 212,
+    "action": 75116,
+    "group": "451:74",
+    "speaker": "Субару",
+    "ja": "アイツじゃねえか。",
+    "ru": "отправил тебя сюда."
+  },
+  {
+    "id": 66124,
+    "scene": "451",
+    "index": 214,
+    "action": 75520,
+    "group": "451:75",
+    "speaker": "Субару",
+    "ja": "だから絶対、オヤジのせいに",
+    "ru": "Значит, во всём"
+  },
+  {
+    "id": 66125,
+    "scene": "451",
+    "index": 215,
+    "action": 75592,
+    "group": "451:75",
+    "speaker": "Субару",
+    "ja": "決まってんだよ！",
+    "ru": "точно виноват отец!"
+  },
+  {
+    "id": 66127,
+    "scene": "451",
+    "index": 217,
+    "action": 75964,
+    "group": "451:76",
+    "speaker": "#Name[2]",
+    "ja": "（スバルくん……なんだかやけに",
+    "ru": "(Субару-кун почему-то особенно"
+  },
+  {
+    "id": 66128,
+    "scene": "451",
+    "index": 218,
+    "action": 76040,
+    "group": "451:76",
+    "speaker": "#Name[2]",
+    "ja": "　お父さんに突っかかるな……）",
+    "ru": "цепляется к отцу…)"
+  },
+  {
+    "id": 66130,
+    "scene": "451",
+    "index": 220,
+    "action": 76264,
+    "group": "451:77",
+    "speaker": "Субару",
+    "ja": "なんだよ……何か",
+    "ru": "Чего?"
+  },
+  {
+    "id": 66131,
+    "scene": "451",
+    "index": 221,
+    "action": 76328,
+    "group": "451:77",
+    "speaker": "Субару",
+    "ja": "言いたいことでもあんのかゞ",
+    "ru": "Хочешь что-то сказать?!"
+  },
+  {
+    "id": 66133,
+    "scene": "451",
+    "index": 223,
+    "action": 76596,
+    "group": "451:78",
+    "speaker": "#Name[2]",
+    "ja": "えっと……スバルくんはお父さん",
+    "ru": "Эм… Субару-кун, ты отца"
+  },
+  {
+    "id": 66134,
+    "scene": "451",
+    "index": 224,
+    "action": 76672,
+    "group": "451:78",
+    "speaker": "#Name[2]",
+    "ja": "のこと嫌いなの……？",
+    "ru": "ненавидишь…?"
+  },
+  {
+    "id": 66136,
+    "scene": "451",
+    "index": 226,
+    "action": 76888,
+    "group": "451:79",
+    "speaker": "Субару",
+    "ja": "……嫌いに決まってんだろ。",
+    "ru": "…Конечно ненавижу."
+  },
+  {
+    "id": 66137,
+    "scene": "451",
+    "index": 227,
+    "action": 76960,
+    "group": "451:79",
+    "speaker": "Субару",
+    "ja": "あいつのせいですべてが",
+    "ru": "Из-за него всё"
+  },
+  {
+    "id": 66138,
+    "scene": "451",
+    "index": 228,
+    "action": 77028,
+    "group": "451:79",
+    "speaker": "Субару",
+    "ja": "滅茶苦茶なんだ……。",
+    "ru": "пошло наперекосяк…"
+  },
+  {
+    "id": 66140,
+    "scene": "451",
+    "index": 230,
+    "action": 77244,
+    "group": "451:80",
+    "speaker": "Субару",
+    "ja": "なにもかも、すべて……！",
+    "ru": "Всё. Абсолютно всё…!"
+  },
+  {
+    "id": 66142,
+    "scene": "451",
+    "index": 232,
+    "action": 77512,
+    "group": "451:81",
+    "speaker": "#Name[2]",
+    "ja": "…………。",
+    "ru": "…………"
+  },
+  {
+    "id": 66144,
+    "scene": "451",
+    "index": 234,
+    "action": 77640,
+    "group": "451:81",
+    "speaker": "#Name[2]",
+    "ja": "（どうしたんだろう……",
+    "ru": "(Что же с ним сегодня…"
+  },
+  {
+    "id": 66145,
+    "scene": "451",
+    "index": 235,
+    "action": 77708,
+    "group": "451:81",
+    "speaker": "#Name[2]",
+    "ja": "　今日のスバルくん……いつも",
+    "ru": "Субару-кун сегодня"
+  },
+  {
+    "id": 66146,
+    "scene": "451",
+    "index": 236,
+    "action": 77784,
+    "group": "451:81",
+    "speaker": "#Name[2]",
+    "ja": "　以上に、イライラしてる……）",
+    "ru": "раздражён сильнее обычного…)"
+  },
+  {
+    "id": 66148,
+    "scene": "451",
+    "index": 238,
+    "action": 77932,
+    "group": "451:82",
+    "speaker": "#Name[2]",
+    "ja": "（怒りっぽいのはいつもだけど、",
+    "ru": "(Он всегда вспыльчивый,"
+  },
+  {
+    "id": 66149,
+    "scene": "451",
+    "index": 239,
+    "action": 78008,
+    "group": "451:82",
+    "speaker": "#Name[2]",
+    "ja": "　お父さんに対しては、いつもより",
+    "ru": "но на отца сегодня"
+  },
+  {
+    "id": 66150,
+    "scene": "451",
+    "index": 240,
+    "action": 78088,
+    "group": "451:82",
+    "speaker": "#Name[2]",
+    "ja": "　苛立ってる気がする……）",
+    "ru": "злится особенно сильно…)"
+  },
+  {
+    "id": 66152,
+    "scene": "451",
+    "index": 242,
+    "action": 78356,
+    "group": "451:83",
+    "speaker": "#Name[2]",
+    "ja": "（何か事情がありそうだけど、",
+    "ru": "(Похоже, тут есть какая-то причина,"
+  },
+  {
+    "id": 66153,
+    "scene": "451",
+    "index": 243,
+    "action": 78432,
+    "group": "451:83",
+    "speaker": "#Name[2]",
+    "ja": "　今はあまり深く聞かない方が",
+    "ru": "но сейчас лучше не расспрашивать"
+  },
+  {
+    "id": 66154,
+    "scene": "451",
+    "index": 244,
+    "action": 78508,
+    "group": "451:83",
+    "speaker": "#Name[2]",
+    "ja": "　いいよね……）",
+    "ru": "слишком глубоко…)"
+  }
+]
