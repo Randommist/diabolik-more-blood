@@ -11,6 +11,22 @@ import patch_keyboard,patch_default_name,build_images,patch_places,patch_strings
 from glyphs import encode as enc
 
 ROOT=Path(__file__).resolve().parents[1];W=ROOT/'translation'
+SPEAKER_MAX_BYTES=31
+
+def validate_speakers(by_key,ru):
+    """Fail before packing if translated speaker labels exceed the safe budget."""
+    errors=[]
+    for (scene,index),r in by_key.items():
+        if r['opcode']!='0xd4' or r['id'] not in ru:continue
+        s=ru[r['id']]
+        try:size=len(enc(s))
+        except UnicodeEncodeError:
+            errors.append(f'сцена {scene}, index {index}: {s!r} — недопустимая кодировка')
+            continue
+        if size>SPEAKER_MAX_BYTES:
+            errors.append(f'сцена {scene}, index {index}, action {r["action"]}: {s!r} — {size} байт (максимум {SPEAKER_MAX_BYTES})')
+    if errors:raise ValueError('Ошибка подписей говорящих:\n'+'\n'.join(errors))
+
 def load():
     records=json.loads((W/'corpus/records.json').read_text());by_key={(r['scene'],r['index']):r for r in records};by_id={r['id']:r for r in records}
     fixed=json.loads((W/'corpus/fixed.json').read_text())
@@ -18,10 +34,13 @@ def load():
     for path in sorted((W/'scenes').glob('*.json'),key=lambda p:(p.stem.startswith('scene-'),p.stem)):
         name=path.name
         for e in json.loads(path.read_text()):
-            r=by_id[e['id']]
+            # Older draft files omit scene; their IDs only locate that scene.
+            scene=e.get('scene') or by_id[e['id']]['scene']
+            r=by_key[(scene,e['index'])]
             assert r['ja']==e['ja'] and r['index']==e['index'] and e.get('scene',r['scene'])==r['scene'] and e.get('action',r['action'])==r['action'],(name,e['id'])
             ru[r['id']]=e['ru']
     for k,v in fixed.items():ru.setdefault(int(k),v)
+    validate_speakers(by_key,ru)
     import reflow
     ru,_=reflow.apply(by_key,ru)
     return by_key,ru
@@ -38,6 +57,10 @@ def build_scripts(only=None):
             assert r['action']==t['action'] and r['ja']==t['text'],(f.name,i)
             try:raw=enc(s)
             except UnicodeEncodeError as e:bad.append((f.name,i,s,str(e)));stats['unencodable']+=1;continue
+            # Speaker labels are copied into a small runtime buffer. Reserve
+            # the terminating NUL; long labels can corrupt the next pointer.
+            if t['opcode']=='0xd4' and len(raw)>SPEAKER_MAX_BYTES:
+                raise ValueError(f'Speaker exceeds {SPEAKER_MAX_BYTES} encoded bytes: scene {f.name}, index {i}, {s!r} ({len(raw)} bytes)')
             edits[t['action']]=(t['offset'],t['capacity'],raw);want[i]=raw
         if not edits:continue
         new=resize(b,edits);nt=texts(new);assert len(nt)==len(ts),f.name
